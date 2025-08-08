@@ -1,0 +1,22 @@
+{
+  "841-A-0032-Letter 19761029_Agreement.pdf": {
+    "category": "Letter",
+    "tags": ["Agreement (Access)"],
+    "notes": "Letter document containing agreement content related to access"
+  },
+  "841-A-0049_Agreement.pdf": {
+    "category": "Letter", 
+    "tags": ["Agreement (Access)"],
+    "notes": "Agreement document for access services"
+  },
+  "841-A-0130_Agreement.Page 1-2.pdf": {
+    "category": "Letter",
+    "tags": ["Agreement (Access)"],
+    "notes": "Multi-page agreement document"
+  },
+  "841-A-0139-F01_Agreement.Page 2-2.pdf": {
+    "category": "Letter",
+    "tags": ["Agreement (Access)"],
+    "notes": "Page 2 of agreement document"
+  }
+}

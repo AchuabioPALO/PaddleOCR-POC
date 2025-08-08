@@ -1,0 +1,27 @@
+{
+  "category": "SS Maintenance",
+  "tags": [
+    "Agreement (Access)"
+  ],
+  "confidence": 0.5916666666666667,
+  "keywords_found": [
+    "access",
+    "ss",
+    "access agreement (partial)",
+    "stainless",
+    "stainless steel",
+    "agreement"
+  ],
+  "detailed_tags": [
+    {
+      "tag": "Agreement (Access)",
+      "confidence": 0.3333333333333333,
+      "keywords_found": [
+        "agreement",
+        "access agreement (partial)",
+        "access"
+      ]
+    }
+  ],
+  "classification_notes": "Classified using 6 keyword matches"
+}

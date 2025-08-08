@@ -1,0 +1,1788 @@
+{
+  "filename": "841-A-0141-F05_Agreement.Page 5-5.pdf",
+  "processing_info": {
+    "pages_processed": 1,
+    "language_mode": "en",
+    "total_text_lines": 75
+  },
+  "ocr_results": [
+    {
+      "page": 1,
+      "en_results": [
+        {
+          "text": "香港房屋委員會",
+          "confidence": 0.8791099786758423,
+          "bbox": [
+            [
+              19,
+              21
+            ],
+            [
+              371,
+              16
+            ],
+            [
+              371,
+              50
+            ],
+            [
+              19,
+              55
+            ]
+          ]
+        },
+        {
+          "text": "HONGKONG HOUSINGAUTHORITY",
+          "confidence": 0.9766150116920471,
+          "bbox": [
+            [
+              655,
+              14
+            ],
+            [
+              1169,
+              40
+            ],
+            [
+              1168,
+              75
+            ],
+            [
+              654,
+              49
+            ]
+          ]
+        },
+        {
+          "text": "香港，夏懿道十號",
+          "confidence": 0.9135807752609253,
+          "bbox": [
+            [
+              70,
+              63
+            ],
+            [
+              318,
+              58
+            ],
+            [
+              318,
+              86
+            ],
+            [
+              71,
+              91
+            ]
+          ]
+        },
+        {
+          "text": "CONSTRUCTIONBRANCH",
+          "confidence": 0.9938851594924927,
+          "bbox": [
+            [
+              736,
+              67
+            ],
+            [
+              988,
+              80
+            ],
+            [
+              987,
+              103
+            ],
+            [
+              735,
+              90
+            ]
+          ]
+        },
+        {
+          "text": "和記大厦四樓",
+          "confidence": 0.9020414352416992,
+          "bbox": [
+            [
+              102,
+              91
+            ],
+            [
+              288,
+              86
+            ],
+            [
+              288,
+              114
+            ],
+            [
+              103,
+              118
+            ]
+          ]
+        },
+        {
+          "text": "3/F, HUTCHISON HOUSE,",
+          "confidence": 0.9513781666755676,
+          "bbox": [
+            [
+              737,
+              90
+            ],
+            [
+              985,
+              103
+            ],
+            [
+              983,
+              126
+            ],
+            [
+              736,
+              114
+            ]
+          ]
+        },
+        {
+          "text": "建築处",
+          "confidence": 0.8192420601844788,
+          "bbox": [
+            [
+              147,
+              117
+            ],
+            [
+              241,
+              114
+            ],
+            [
+              242,
+              144
+            ],
+            [
+              148,
+              147
+            ]
+          ]
+        },
+        {
+          "text": "10,HARCOURTROAD,HONGKONG.",
+          "confidence": 0.9723387956619263,
+          "bbox": [
+            [
+              740,
+              112
+            ],
+            [
+              1112,
+              133
+            ],
+            [
+              1111,
+              159
+            ],
+            [
+              738,
+              139
+            ]
+          ]
+        },
+        {
+          "text": "FAX No.: 5-8684204",
+          "confidence": 0.9036011099815369,
+          "bbox": [
+            [
+              165,
+              158
+            ],
+            [
+              411,
+              154
+            ],
+            [
+              412,
+              185
+            ],
+            [
+              166,
+              189
+            ]
+          ]
+        },
+        {
+          "text": "TEL.:",
+          "confidence": 0.94929438829422,
+          "bbox": [
+            [
+              744,
+              162
+            ],
+            [
+              814,
+              166
+            ],
+            [
+              813,
+              193
+            ],
+            [
+              742,
+              189
+            ]
+          ]
+        },
+        {
+          "text": "5-8444333",
+          "confidence": 0.9468814134597778,
+          "bbox": [
+            [
+              821,
+              162
+            ],
+            [
+              954,
+              170
+            ],
+            [
+              952,
+              205
+            ],
+            [
+              819,
+              196
+            ]
+          ]
+        },
+        {
+          "text": "Our Ref.: HD(BS)E/56/3",
+          "confidence": 0.923579216003418,
+          "bbox": [
+            [
+              166,
+              204
+            ],
+            [
+              462,
+              204
+            ],
+            [
+              462,
+              234
+            ],
+            [
+              166,
+              234
+            ]
+          ]
+        },
+        {
+          "text": "22 March 1988",
+          "confidence": 0.9831380844116211,
+          "bbox": [
+            [
+              750,
+              215
+            ],
+            [
+              935,
+              227
+            ],
+            [
+              933,
+              258
+            ],
+            [
+              748,
+              246
+            ]
+          ]
+        },
+        {
+          "text": "Messrs.",
+          "confidence": 0.9805803894996643,
+          "bbox": [
+            [
+              163,
+              262
+            ],
+            [
+              261,
+              262
+            ],
+            [
+              261,
+              286
+            ],
+            [
+              163,
+              286
+            ]
+          ]
+        },
+        {
+          "text": "Hong Kong Electric Co.",
+          "confidence": 0.9598019123077393,
+          "bbox": [
+            [
+              279,
+              257
+            ],
+            [
+              580,
+              263
+            ],
+            [
+              579,
+              294
+            ],
+            [
+              279,
+              288
+            ]
+          ]
+        },
+        {
+          "text": "Electric House",
+          "confidence": 0.9923194050788879,
+          "bbox": [
+            [
+              281,
+              286
+            ],
+            [
+              475,
+              290
+            ],
+            [
+              474,
+              315
+            ],
+            [
+              281,
+              311
+            ]
+          ]
+        },
+        {
+          "text": "44 Kennedy Road",
+          "confidence": 0.9562499523162842,
+          "bbox": [
+            [
+              281,
+              309
+            ],
+            [
+              489,
+              316
+            ],
+            [
+              488,
+              347
+            ],
+            [
+              280,
+              340
+            ]
+          ]
+        },
+        {
+          "text": "Hong Kong",
+          "confidence": 0.9877099990844727,
+          "bbox": [
+            [
+              278,
+              338
+            ],
+            [
+              409,
+              343
+            ],
+            [
+              408,
+              375
+            ],
+            [
+              277,
+              370
+            ]
+          ]
+        },
+        {
+          "text": "(Attn.: Mr. S.L. Lok)",
+          "confidence": 0.8719781041145325,
+          "bbox": [
+            [
+              279,
+              381
+            ],
+            [
+              565,
+              387
+            ],
+            [
+              564,
+              417
+            ],
+            [
+              279,
+              411
+            ]
+          ]
+        },
+        {
+          "text": "Chief Engr. (Dev. & P)",
+          "confidence": 0.9060774445533752,
+          "bbox": [
+            [
+              756,
+              406
+            ],
+            [
+              1070,
+              404
+            ],
+            [
+              1071,
+              441
+            ],
+            [
+              757,
+              443
+            ]
+          ]
+        },
+        {
+          "text": "Dear Sir,",
+          "confidence": 0.9871701002120972,
+          "bbox": [
+            [
+              152,
+              464
+            ],
+            [
+              280,
+              468
+            ],
+            [
+              279,
+              500
+            ],
+            [
+              151,
+              496
+            ]
+          ]
+        },
+        {
+          "text": "Transformer Rooms of",
+          "confidence": 0.9673446416854858,
+          "bbox": [
+            [
+              452,
+              558
+            ],
+            [
+              737,
+              571
+            ],
+            [
+              736,
+              598
+            ],
+            [
+              451,
+              584
+            ]
+          ]
+        },
+        {
+          "text": "Blocks M,N,O&P",
+          "confidence": 0.9061818718910217,
+          "bbox": [
+            [
+              495,
+              588
+            ],
+            [
+              724,
+              599
+            ],
+            [
+              723,
+              626
+            ],
+            [
+              493,
+              615
+            ]
+          ]
+        },
+        {
+          "text": "Lei Tung Estate - Phase 3",
+          "confidence": 0.9208049774169922,
+          "bbox": [
+            [
+              423,
+              614
+            ],
+            [
+              782,
+              630
+            ],
+            [
+              781,
+              661
+            ],
+            [
+              422,
+              645
+            ]
+          ]
+        },
+        {
+          "text": "Please be informed that our part of the SF6 leakage alarm",
+          "confidence": 0.9611075520515442,
+          "bbox": [
+            [
+              272,
+              699
+            ],
+            [
+              1070,
+              719
+            ],
+            [
+              1069,
+              750
+            ],
+            [
+              272,
+              730
+            ]
+          ]
+        },
+        {
+          "text": "system for the transformer rooms for Blocks M,N,O& P has been",
+          "confidence": 0.9448262453079224,
+          "bbox": [
+            [
+              150,
+              726
+            ],
+            [
+              1042,
+              745
+            ],
+            [
+              1041,
+              776
+            ],
+            [
+              149,
+              756
+            ]
+          ]
+        },
+        {
+          "text": "completed. Attached is a copy of letter ref. J432/088/GEN/0301",
+          "confidence": 0.951865553855896,
+          "bbox": [
+            [
+              150,
+              754
+            ],
+            [
+              1024,
+              771
+            ],
+            [
+              1023,
+              801
+            ],
+            [
+              149,
+              785
+            ]
+          ]
+        },
+        {
+          "text": "dated 21 March 1988 from the installing contractor Messrs. The",
+          "confidence": 0.9628684520721436,
+          "bbox": [
+            [
+              149,
+              781
+            ],
+            [
+              1011,
+              798
+            ],
+            [
+              1010,
+              831
+            ],
+            [
+              148,
+              814
+            ]
+          ]
+        },
+        {
+          "text": "General Electric Company of H.K. Ltd. for your reference please.",
+          "confidence": 0.9614832401275635,
+          "bbox": [
+            [
+              149,
+              813
+            ],
+            [
+              1034,
+              828
+            ],
+            [
+              1033,
+              859
+            ],
+            [
+              148,
+              844
+            ]
+          ]
+        },
+        {
+          "text": "N. R. N.",
+          "confidence": 0.9399521946907043,
+          "bbox": [
+            [
+              952,
+              869
+            ],
+            [
+              1163,
+              867
+            ],
+            [
+              1164,
+              927
+            ],
+            [
+              953,
+              930
+            ]
+          ]
+        },
+        {
+          "text": "B010822",
+          "confidence": 0.9135513305664062,
+          "bbox": [
+            [
+              267,
+              947
+            ],
+            [
+              546,
+              935
+            ],
+            [
+              550,
+              1020
+            ],
+            [
+              271,
+              1032
+            ]
+          ]
+        },
+        {
+          "text": "SINED:",
+          "confidence": 0.9451201558113098,
+          "bbox": [
+            [
+              910,
+              954
+            ],
+            [
+              1015,
+              952
+            ],
+            [
+              1016,
+              983
+            ],
+            [
+              911,
+              985
+            ]
+          ]
+        },
+        {
+          "text": "Yours faithfully,",
+          "confidence": 0.9486770629882812,
+          "bbox": [
+            [
+              637,
+              974
+            ],
+            [
+              878,
+              981
+            ],
+            [
+              877,
+              1016
+            ],
+            [
+              636,
+              1008
+            ]
+          ]
+        },
+        {
+          "text": "30 MAR 1988",
+          "confidence": 0.9402416348457336,
+          "bbox": [
+            [
+              961,
+              1004
+            ],
+            [
+              1141,
+              989
+            ],
+            [
+              1145,
+              1033
+            ],
+            [
+              964,
+              1049
+            ]
+          ]
+        },
+        {
+          "text": "RECEIVED",
+          "confidence": 0.9924827218055725,
+          "bbox": [
+            [
+              320,
+              1089
+            ],
+            [
+              538,
+              1084
+            ],
+            [
+              539,
+              1134
+            ],
+            [
+              321,
+              1138
+            ]
+          ]
+        },
+        {
+          "text": "MAR 24 434PM88",
+          "confidence": 0.9194875955581665,
+          "bbox": [
+            [
+              304,
+              1188
+            ],
+            [
+              566,
+              1178
+            ],
+            [
+              567,
+              1226
+            ],
+            [
+              306,
+              1236
+            ]
+          ]
+        },
+        {
+          "text": "(Daniel H.M.LEE)",
+          "confidence": 0.9620331525802612,
+          "bbox": [
+            [
+              652,
+              1190
+            ],
+            [
+              891,
+              1194
+            ],
+            [
+              891,
+              1223
+            ],
+            [
+              652,
+              1220
+            ]
+          ]
+        },
+        {
+          "text": "Senior Building Services Engineer",
+          "confidence": 0.9797712564468384,
+          "bbox": [
+            [
+              557,
+              1215
+            ],
+            [
+              1012,
+              1229
+            ],
+            [
+              1011,
+              1259
+            ],
+            [
+              556,
+              1246
+            ]
+          ]
+        },
+        {
+          "text": "Hb iit Autop,",
+          "confidence": 0.5471881628036499,
+          "bbox": [
+            [
+              378,
+              1240
+            ],
+            [
+              591,
+              1243
+            ],
+            [
+              591,
+              1281
+            ],
+            [
+              377,
+              1278
+            ]
+          ]
+        },
+        {
+          "text": "for Director of Housing",
+          "confidence": 0.9520375728607178,
+          "bbox": [
+            [
+              607,
+              1247
+            ],
+            [
+              946,
+              1254
+            ],
+            [
+              946,
+              1285
+            ],
+            [
+              606,
+              1278
+            ]
+          ]
+        },
+        {
+          "text": "29/3/8",
+          "confidence": 0.8373103141784668,
+          "bbox": [
+            [
+              671,
+              1260
+            ],
+            [
+              794,
+              1280
+            ],
+            [
+              785,
+              1330
+            ],
+            [
+              663,
+              1309
+            ]
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.5930589437484741,
+          "bbox": [
+            [
+              619,
+              1272
+            ],
+            [
+              677,
+              1272
+            ],
+            [
+              677,
+              1297
+            ],
+            [
+              619,
+              1297
+            ]
+          ]
+        },
+        {
+          "text": "Encl.",
+          "confidence": 0.9838312268257141,
+          "bbox": [
+            [
+              139,
+              1297
+            ],
+            [
+              223,
+              1300
+            ],
+            [
+              222,
+              1336
+            ],
+            [
+              138,
+              1333
+            ]
+          ]
+        },
+        {
+          "text": "841/A/0141-0164019",
+          "confidence": 0.8028689622879028,
+          "bbox": [
+            [
+              417,
+              1310
+            ],
+            [
+              704,
+              1312
+            ],
+            [
+              704,
+              1348
+            ],
+            [
+              416,
+              1346
+            ]
+          ]
+        },
+        {
+          "text": "C.C. BSI/C20",
+          "confidence": 0.921528160572052,
+          "bbox": [
+            [
+              140,
+              1352
+            ],
+            [
+              331,
+              1352
+            ],
+            [
+              331,
+              1387
+            ],
+            [
+              140,
+              1387
+            ]
+          ]
+        },
+        {
+          "text": "02g",
+          "confidence": 0.7059037685394287,
+          "bbox": [
+            [
+              354,
+              1344
+            ],
+            [
+              419,
+              1349
+            ],
+            [
+              416,
+              1389
+            ],
+            [
+              350,
+              1383
+            ]
+          ]
+        },
+        {
+          "text": "IBUTION PLANNING DEPT.",
+          "confidence": 0.9736116528511047,
+          "bbox": [
+            [
+              408,
+              1348
+            ],
+            [
+              641,
+              1350
+            ],
+            [
+              641,
+              1374
+            ],
+            [
+              407,
+              1372
+            ]
+          ]
+        },
+        {
+          "text": "MAR",
+          "confidence": 0.9163193106651306,
+          "bbox": [
+            [
+              415,
+              1358
+            ],
+            [
+              486,
+              1378
+            ],
+            [
+              475,
+              1415
+            ],
+            [
+              404,
+              1395
+            ]
+          ]
+        },
+        {
+          "text": "1988",
+          "confidence": 0.998794674873352,
+          "bbox": [
+            [
+              476,
+              1379
+            ],
+            [
+              534,
+              1392
+            ],
+            [
+              526,
+              1428
+            ],
+            [
+              468,
+              1415
+            ]
+          ]
+        },
+        {
+          "text": "DEVELOPMENT &FLANNING DIVISION",
+          "confidence": 0.9544915556907654,
+          "bbox": [
+            [
+              713,
+              1376
+            ],
+            [
+              1064,
+              1384
+            ],
+            [
+              1063,
+              1414
+            ],
+            [
+              712,
+              1406
+            ]
+          ]
+        },
+        {
+          "text": "DATE:",
+          "confidence": 0.9876128435134888,
+          "bbox": [
+            [
+              355,
+              1400
+            ],
+            [
+              415,
+              1400
+            ],
+            [
+              415,
+              1421
+            ],
+            [
+              355,
+              1421
+            ]
+          ]
+        },
+        {
+          "text": "ACTION",
+          "confidence": 0.9840400815010071,
+          "bbox": [
+            [
+              527,
+              1396
+            ],
+            [
+              591,
+              1396
+            ],
+            [
+              591,
+              1418
+            ],
+            [
+              527,
+              1418
+            ]
+          ]
+        },
+        {
+          "text": "INFO.",
+          "confidence": 0.9706109166145325,
+          "bbox": [
+            [
+              587,
+              1396
+            ],
+            [
+              644,
+              1398
+            ],
+            [
+              644,
+              1419
+            ],
+            [
+              586,
+              1417
+            ]
+          ]
+        },
+        {
+          "text": "Info.",
+          "confidence": 0.9674586057662964,
+          "bbox": [
+            [
+              890,
+              1407
+            ],
+            [
+              934,
+              1407
+            ],
+            [
+              934,
+              1429
+            ],
+            [
+              890,
+              1429
+            ]
+          ]
+        },
+        {
+          "text": "Action",
+          "confidence": 0.9883711934089661,
+          "bbox": [
+            [
+              949,
+              1409
+            ],
+            [
+              1006,
+              1411
+            ],
+            [
+              1005,
+              1432
+            ],
+            [
+              948,
+              1430
+            ]
+          ]
+        },
+        {
+          "text": "Initial",
+          "confidence": 0.9498964548110962,
+          "bbox": [
+            [
+              1014,
+              1412
+            ],
+            [
+              1065,
+              1414
+            ],
+            [
+              1064,
+              1435
+            ],
+            [
+              1013,
+              1432
+            ]
+          ]
+        },
+        {
+          "text": "DL/KMAY/am",
+          "confidence": 0.9866098165512085,
+          "bbox": [
+            [
+              141,
+              1435
+            ],
+            [
+              288,
+              1437
+            ],
+            [
+              288,
+              1469
+            ],
+            [
+              140,
+              1466
+            ]
+          ]
+        },
+        {
+          "text": "Chiaf Dist Planning Eng",
+          "confidence": 0.7940219640731812,
+          "bbox": [
+            [
+              354,
+              1426
+            ],
+            [
+              499,
+              1426
+            ],
+            [
+              499,
+              1450
+            ],
+            [
+              354,
+              1450
+            ]
+          ]
+        },
+        {
+          "text": "Chief Engineer(D&P）",
+          "confidence": 0.922714352607727,
+          "bbox": [
+            [
+              707,
+              1427
+            ],
+            [
+              875,
+              1425
+            ],
+            [
+              875,
+              1446
+            ],
+            [
+              708,
+              1448
+            ]
+          ]
+        },
+        {
+          "text": "X",
+          "confidence": 0.3409581482410431,
+          "bbox": [
+            [
+              533,
+              1453
+            ],
+            [
+              594,
+              1453
+            ],
+            [
+              594,
+              1524
+            ],
+            [
+              533,
+              1524
+            ]
+          ]
+        },
+        {
+          "text": "Secretary",
+          "confidence": 0.9932286143302917,
+          "bbox": [
+            [
+              706,
+              1444
+            ],
+            [
+              785,
+              1448
+            ],
+            [
+              784,
+              1469
+            ],
+            [
+              705,
+              1465
+            ]
+          ]
+        },
+        {
+          "text": "Senir Dist.PlannngEngr(）",
+          "confidence": 0.7486495971679688,
+          "bbox": [
+            [
+              351,
+              1455
+            ],
+            [
+              523,
+              1453
+            ],
+            [
+              523,
+              1476
+            ],
+            [
+              351,
+              1479
+            ]
+          ]
+        },
+        {
+          "text": "Senior DistPlanningEngr(W",
+          "confidence": 0.8288277387619019,
+          "bbox": [
+            [
+              353,
+              1482
+            ],
+            [
+              523,
+              1482
+            ],
+            [
+              523,
+              1506
+            ],
+            [
+              353,
+              1506
+            ]
+          ]
+        },
+        {
+          "text": "25.MAR 88",
+          "confidence": 0.9612185955047607,
+          "bbox": [
+            [
+              809,
+              1480
+            ],
+            [
+              966,
+              1489
+            ],
+            [
+              964,
+              1531
+            ],
+            [
+              807,
+              1521
+            ]
+          ]
+        },
+        {
+          "text": "Senior DistPlanning Engr（E）",
+          "confidence": 0.7667881846427917,
+          "bbox": [
+            [
+              353,
+              1512
+            ],
+            [
+              523,
+              1510
+            ],
+            [
+              523,
+              1534
+            ],
+            [
+              353,
+              1536
+            ]
+          ]
+        },
+        {
+          "text": "Engr.(Mapping Compuer）",
+          "confidence": 0.8662610650062561,
+          "bbox": [
+            [
+              353,
+              1542
+            ],
+            [
+              515,
+              1539
+            ],
+            [
+              516,
+              1563
+            ],
+            [
+              354,
+              1566
+            ]
+          ]
+        },
+        {
+          "text": "Chief HW & SP Engr.",
+          "confidence": 0.9244852662086487,
+          "bbox": [
+            [
+              706,
+              1538
+            ],
+            [
+              870,
+              1547
+            ],
+            [
+              869,
+              1568
+            ],
+            [
+              705,
+              1559
+            ]
+          ]
+        },
+        {
+          "text": "Chief DP Engr.",
+          "confidence": 0.9584125876426697,
+          "bbox": [
+            [
+              706,
+              1558
+            ],
+            [
+              825,
+              1566
+            ],
+            [
+              824,
+              1586
+            ],
+            [
+              705,
+              1578
+            ]
+          ]
+        },
+        {
+          "text": "Drawing Ofice",
+          "confidence": 0.8815336227416992,
+          "bbox": [
+            [
+              352,
+              1570
+            ],
+            [
+              440,
+              1568
+            ],
+            [
+              441,
+              1595
+            ],
+            [
+              353,
+              1598
+            ]
+          ]
+        },
+        {
+          "text": "Chiof PPS Engr.",
+          "confidence": 0.8585864305496216,
+          "bbox": [
+            [
+              705,
+              1578
+            ],
+            [
+              830,
+              1587
+            ],
+            [
+              829,
+              1607
+            ],
+            [
+              704,
+              1598
+            ]
+          ]
+        },
+        {
+          "text": "Admin. Office",
+          "confidence": 0.8732362389564514,
+          "bbox": [
+            [
+              352,
+              1599
+            ],
+            [
+              433,
+              1596
+            ],
+            [
+              434,
+              1621
+            ],
+            [
+              353,
+              1624
+            ]
+          ]
+        },
+        {
+          "text": "Chiaf SW Engr.",
+          "confidence": 0.8936046361923218,
+          "bbox": [
+            [
+              705,
+              1597
+            ],
+            [
+              826,
+              1606
+            ],
+            [
+              825,
+              1627
+            ],
+            [
+              704,
+              1618
+            ]
+          ]
+        },
+        {
+          "text": "Remarks",
+          "confidence": 0.9634008407592773,
+          "bbox": [
+            [
+              704,
+              1620
+            ],
+            [
+              779,
+              1625
+            ],
+            [
+              778,
+              1646
+            ],
+            [
+              703,
+              1641
+            ]
+          ]
+        },
+        {
+          "text": "6th flocrD&PFile",
+          "confidence": 0.8531376123428345,
+          "bbox": [
+            [
+              806,
+              1625
+            ],
+            [
+              1059,
+              1643
+            ],
+            [
+              1057,
+              1670
+            ],
+            [
+              804,
+              1652
+            ]
+          ]
+        },
+        {
+          "text": "o.44.14",
+          "confidence": 0.6378845572471619,
+          "bbox": [
+            [
+              406,
+              1658
+            ],
+            [
+              543,
+              1655
+            ],
+            [
+              544,
+              1683
+            ],
+            [
+              407,
+              1684
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_text": [
+    "香港房屋委員會",
+    "HONGKONG HOUSINGAUTHORITY",
+    "香港，夏懿道十號",
+    "CONSTRUCTIONBRANCH",
+    "和記大厦四樓",
+    "3/F, HUTCHISON HOUSE,",
+    "建築处",
+    "10,HARCOURTROAD,HONGKONG.",
+    "FAX No.: 5-8684204",
+    "TEL.:",
+    "5-8444333",
+    "Our Ref.: HD(BS)E/56/3",
+    "22 March 1988",
+    "Messrs.",
+    "Hong Kong Electric Co.",
+    "Electric House",
+    "44 Kennedy Road",
+    "Hong Kong",
+    "(Attn.: Mr. S.L. Lok)",
+    "Chief Engr. (Dev. & P)",
+    "Dear Sir,",
+    "Transformer Rooms of",
+    "Blocks M,N,O&P",
+    "Lei Tung Estate - Phase 3",
+    "Please be informed that our part of the SF6 leakage alarm",
+    "system for the transformer rooms for Blocks M,N,O& P has been",
+    "completed. Attached is a copy of letter ref. J432/088/GEN/0301",
+    "dated 21 March 1988 from the installing contractor Messrs. The",
+    "General Electric Company of H.K. Ltd. for your reference please.",
+    "N. R. N.",
+    "B010822",
+    "SINED:",
+    "Yours faithfully,",
+    "30 MAR 1988",
+    "RECEIVED",
+    "MAR 24 434PM88",
+    "(Daniel H.M.LEE)",
+    "Senior Building Services Engineer",
+    "Hb iit Autop,",
+    "for Director of Housing",
+    "29/3/8",
+    "en",
+    "Encl.",
+    "841/A/0141-0164019",
+    "C.C. BSI/C20",
+    "02g",
+    "IBUTION PLANNING DEPT.",
+    "MAR",
+    "1988",
+    "DEVELOPMENT &FLANNING DIVISION",
+    "DATE:",
+    "ACTION",
+    "INFO.",
+    "Info.",
+    "Action",
+    "Initial",
+    "DL/KMAY/am",
+    "Chiaf Dist Planning Eng",
+    "Chief Engineer(D&P）",
+    "X",
+    "Secretary",
+    "Senir Dist.PlannngEngr(）",
+    "Senior DistPlanningEngr(W",
+    "25.MAR 88",
+    "Senior DistPlanning Engr（E）",
+    "Engr.(Mapping Compuer）",
+    "Chief HW & SP Engr.",
+    "Chief DP Engr.",
+    "Drawing Ofice",
+    "Chiof PPS Engr.",
+    "Admin. Office",
+    "Chiaf SW Engr.",
+    "Remarks",
+    "6th flocrD&PFile",
+    "o.44.14"
+  ],
+  "classification": {
+    "category": "Incoming Letter",
+    "tags": [
+      "Agreement (Access)",
+      "VSC/VIC",
+      "Agreement (Fire Services)"
+    ],
+    "confidence": 0.16287878787878787,
+    "keywords_found": [
+      "contractor",
+      "building",
+      "to hongkong electric (partial)",
+      "to hk electric (partial)",
+      "agreement",
+      "ld ref (partial)",
+      "vic",
+      "fire services agreement (partial)",
+      "transformer room"
+    ],
+    "detailed_tags": [
+      {
+        "tag": "Agreement (Access)",
+        "confidence": 0.19,
+        "keywords_found": [
+          "agreement",
+          "transformer room",
+          "building"
+        ]
+      },
+      {
+        "tag": "VSC/VIC",
+        "confidence": 0.14285714285714285,
+        "keywords_found": [
+          "vic"
+        ]
+      },
+      {
+        "tag": "Agreement (Fire Services)",
+        "confidence": 0.13541666666666666,
+        "keywords_found": [
+          "fire services agreement (partial)"
+        ]
+      }
+    ],
+    "classification_notes": "Classified using 9 keyword matches"
+  }
+}

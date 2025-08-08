@@ -1,0 +1,12 @@
+/home/azureuser/PDFs/Agreement/841-A-0010_Agreement.pdf
+/home/azureuser/PDFs/Agreement/841-A-0032-Letter 19761029_Agreement.Page 1-1.pdf
+/home/azureuser/PDFs/Agreement/841-A-0049_Agreement.pdf
+/home/azureuser/PDFs/Cleaning/841-A-0123_Cleaning.pdf
+/home/azureuser/PDFs/Cleaning/841-A-0207-F02_Cleaning.Page 1-7.pdf
+/home/azureuser/PDFs/Cleaning/841-A-0363-F02_Cleaning.Page 1-7.pdf
+/home/azureuser/PDFs/Letter/841-A-0010_Letter.Page 1-1.pdf
+/home/azureuser/PDFs/Letter/841-C-0004-F01_Letter.pdf
+/home/azureuser/PDFs/Letter/841-C-0555-Letter P.17-24_Letter.Page 1-2.pdf
+/home/azureuser/PDFs/Inspection/841-A-0008-F02_InspectionXCleaning.Page 1-8.pdf
+/home/azureuser/PDFs/Inspection/841-A-0228_InspectionXCleaning.Page 1-8.pdf
+/home/azureuser/PDFs/Inspection/841-A-0320_InspectionXCleaning.Page 1-8.pdf

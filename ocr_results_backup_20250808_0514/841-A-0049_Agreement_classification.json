@@ -1,0 +1,29 @@
+{
+  "category": "Incoming Letter",
+  "tags": [
+    "Agreement (Access)"
+  ],
+  "confidence": 0.5606060606060606,
+  "keywords_found": [
+    "access agreement (partial)",
+    "access",
+    "to hongkong electric (partial)",
+    "public works department",
+    "to hk electric (partial)",
+    "architectural office",
+    "ld ref (partial)",
+    "agreement"
+  ],
+  "detailed_tags": [
+    {
+      "tag": "Agreement (Access)",
+      "confidence": 0.3333333333333333,
+      "keywords_found": [
+        "agreement",
+        "access agreement (partial)",
+        "access"
+      ]
+    }
+  ],
+  "classification_notes": "Classified using 8 keyword matches"
+}

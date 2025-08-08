@@ -1,0 +1,1405 @@
+{
+  "filename": "841-D-0172-F03_Agreement.pdf",
+  "processing_info": {
+    "pages_processed": 2,
+    "language_mode": "en",
+    "total_text_lines": 59
+  },
+  "ocr_results": [
+    {
+      "page": 1,
+      "en_results": [
+        {
+          "text": "HEC Info",
+          "confidence": 0.9502079486846924,
+          "bbox": [
+            [
+              1099,
+              227
+            ],
+            [
+              1500,
+              227
+            ],
+            [
+              1500,
+              357
+            ],
+            [
+              1099,
+              357
+            ]
+          ]
+        },
+        {
+          "text": "Agreement",
+          "confidence": 0.9371382594108582,
+          "bbox": [
+            [
+              1116,
+              469
+            ],
+            [
+              1501,
+              455
+            ],
+            [
+              1506,
+              581
+            ],
+            [
+              1120,
+              595
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "en_results": [
+        {
+          "text": "家康",
+          "confidence": 0.3866543173789978,
+          "bbox": [
+            [
+              921,
+              0
+            ],
+            [
+              1055,
+              4
+            ],
+            [
+              1049,
+              195
+            ],
+            [
+              915,
+              191
+            ]
+          ]
+        },
+        {
+          "text": "YUNGKONG",
+          "confidence": 0.9399092197418213,
+          "bbox": [
+            [
+              95,
+              20
+            ],
+            [
+              287,
+              20
+            ],
+            [
+              287,
+              54
+            ],
+            [
+              95,
+              54
+            ]
+          ]
+        },
+        {
+          "text": " CONSTRUCTION CO., LTD",
+          "confidence": 0.8316646218299866,
+          "bbox": [
+            [
+              277,
+              18
+            ],
+            [
+              664,
+              0
+            ],
+            [
+              666,
+              36
+            ],
+            [
+              279,
+              57
+            ]
+          ]
+        },
+        {
+          "text": "RM.B,8/F.,YAMTZE",
+          "confidence": 0.935071587562561,
+          "bbox": [
+            [
+              182,
+              61
+            ],
+            [
+              358,
+              55
+            ],
+            [
+              359,
+              76
+            ],
+            [
+              182,
+              82
+            ]
+          ]
+        },
+        {
+          "text": "COMMERCIALBUILDING,",
+          "confidence": 0.9898694753646851,
+          "bbox": [
+            [
+              355,
+              56
+            ],
+            [
+              571,
+              46
+            ],
+            [
+              572,
+              66
+            ],
+            [
+              356,
+              76
+            ]
+          ]
+        },
+        {
+          "text": "046067",
+          "confidence": 0.9958003163337708,
+          "bbox": [
+            [
+              647,
+              65
+            ],
+            [
+              854,
+              61
+            ],
+            [
+              855,
+              103
+            ],
+            [
+              648,
+              107
+            ]
+          ]
+        },
+        {
+          "text": "23THOMSONROAD,WANCHAI,HONGKONG.",
+          "confidence": 0.9837266206741333,
+          "bbox": [
+            [
+              182,
+              81
+            ],
+            [
+              569,
+              67
+            ],
+            [
+              570,
+              90
+            ],
+            [
+              182,
+              104
+            ]
+          ]
+        },
+        {
+          "text": "2136",
+          "confidence": 0.9993444085121155,
+          "bbox": [
+            [
+              376,
+              97
+            ],
+            [
+              422,
+              97
+            ],
+            [
+              422,
+              116
+            ],
+            [
+              376,
+              116
+            ]
+          ]
+        },
+        {
+          "text": "1932",
+          "confidence": 0.9992067217826843,
+          "bbox": [
+            [
+              419,
+              96
+            ],
+            [
+              465,
+              96
+            ],
+            [
+              465,
+              114
+            ],
+            [
+              419,
+              114
+            ]
+          ]
+        },
+        {
+          "text": "FAX:",
+          "confidence": 0.9577128887176514,
+          "bbox": [
+            [
+              470,
+              94
+            ],
+            [
+              517,
+              94
+            ],
+            [
+              517,
+              113
+            ],
+            [
+              470,
+              113
+            ]
+          ]
+        },
+        {
+          "text": "：28455653",
+          "confidence": 0.9716618657112122,
+          "bbox": [
+            [
+              506,
+              92
+            ],
+            [
+              603,
+              89
+            ],
+            [
+              603,
+              110
+            ],
+            [
+              507,
+              112
+            ]
+          ]
+        },
+        {
+          "text": "TEL:25221804,25220232,",
+          "confidence": 0.9676930904388428,
+          "bbox": [
+            [
+              152,
+              104
+            ],
+            [
+              376,
+              97
+            ],
+            [
+              377,
+              118
+            ],
+            [
+              152,
+              124
+            ]
+          ]
+        },
+        {
+          "text": "HECRECEIVED",
+          "confidence": 0.9870766997337341,
+          "bbox": [
+            [
+              654,
+              195
+            ],
+            [
+              849,
+              193
+            ],
+            [
+              849,
+              223
+            ],
+            [
+              655,
+              226
+            ]
+          ]
+        },
+        {
+          "text": "Date:6th September, 2002.",
+          "confidence": 0.8839272856712341,
+          "bbox": [
+            [
+              771,
+              245
+            ],
+            [
+              1056,
+              242
+            ],
+            [
+              1056,
+              273
+            ],
+            [
+              771,
+              276
+            ]
+          ]
+        },
+        {
+          "text": "BYFAX&POST",
+          "confidence": 0.9839038848876953,
+          "bbox": [
+            [
+              127,
+              280
+            ],
+            [
+              322,
+              284
+            ],
+            [
+              321,
+              311
+            ],
+            [
+              126,
+              307
+            ]
+          ]
+        },
+        {
+          "text": "SEP9234PM20002",
+          "confidence": 0.9520733952522278,
+          "bbox": [
+            [
+              631,
+              276
+            ],
+            [
+              879,
+              271
+            ],
+            [
+              880,
+              309
+            ],
+            [
+              632,
+              314
+            ]
+          ]
+        },
+        {
+          "text": "The Hongkong Electric Co. Ltd.",
+          "confidence": 0.9477342963218689,
+          "bbox": [
+            [
+              127,
+              341
+            ],
+            [
+              451,
+              343
+            ],
+            [
+              451,
+              373
+            ],
+            [
+              127,
+              371
+            ]
+          ]
+        },
+        {
+          "text": "SSU",
+          "confidence": 0.9527182579040527,
+          "bbox": [
+            [
+              992,
+              360
+            ],
+            [
+              1027,
+              360
+            ],
+            [
+              1027,
+              384
+            ],
+            [
+              992,
+              384
+            ]
+          ]
+        },
+        {
+          "text": "Hongkong Electric Centre",
+          "confidence": 0.9528350830078125,
+          "bbox": [
+            [
+              128,
+              373
+            ],
+            [
+              394,
+              376
+            ],
+            [
+              394,
+              403
+            ],
+            [
+              128,
+              401
+            ]
+          ]
+        },
+        {
+          "text": "SCANNED",
+          "confidence": 0.9937699437141418,
+          "bbox": [
+            [
+              972,
+              379
+            ],
+            [
+              1043,
+              376
+            ],
+            [
+              1044,
+              401
+            ],
+            [
+              973,
+              404
+            ]
+          ]
+        },
+        {
+          "text": "44 Kennedy Road",
+          "confidence": 0.9668592214584351,
+          "bbox": [
+            [
+              127,
+              401
+            ],
+            [
+              311,
+              406
+            ],
+            [
+              310,
+              436
+            ],
+            [
+              126,
+              432
+            ]
+          ]
+        },
+        {
+          "text": "Hong Kong",
+          "confidence": 0.9752119779586792,
+          "bbox": [
+            [
+              128,
+              432
+            ],
+            [
+              249,
+              437
+            ],
+            [
+              247,
+              469
+            ],
+            [
+              126,
+              465
+            ]
+          ]
+        },
+        {
+          "text": "GeneralManagerDevelopment&Planning）",
+          "confidence": 0.9575937390327454,
+          "bbox": [
+            [
+              691,
+              425
+            ],
+            [
+              1032,
+              425
+            ],
+            [
+              1032,
+              452
+            ],
+            [
+              691,
+              452
+            ]
+          ]
+        },
+        {
+          "text": "P.O.Box 915,G.P.O.,Hong Kong",
+          "confidence": 0.941052258014679,
+          "bbox": [
+            [
+              127,
+              464
+            ],
+            [
+              475,
+              468
+            ],
+            [
+              474,
+              499
+            ],
+            [
+              127,
+              495
+            ]
+          ]
+        },
+        {
+          "text": "Attn:Mr.B.W.Lo/Mr.C.T.Lui",
+          "confidence": 0.9809297323226929,
+          "bbox": [
+            [
+              130,
+              528
+            ],
+            [
+              455,
+              529
+            ],
+            [
+              455,
+              555
+            ],
+            [
+              130,
+              554
+            ]
+          ]
+        },
+        {
+          "text": "(Fax: 2537-1013)",
+          "confidence": 0.9643181562423706,
+          "bbox": [
+            [
+              185,
+              558
+            ],
+            [
+              361,
+              558
+            ],
+            [
+              361,
+              589
+            ],
+            [
+              185,
+              589
+            ]
+          ]
+        },
+        {
+          "text": "Dear Sirs,",
+          "confidence": 0.9849545359611511,
+          "bbox": [
+            [
+              128,
+              617
+            ],
+            [
+              235,
+              620
+            ],
+            [
+              233,
+              653
+            ],
+            [
+              127,
+              649
+            ]
+          ]
+        },
+        {
+          "text": "No. 72 Deep Water Bay Road, H.K.",
+          "confidence": 0.9420739412307739,
+          "bbox": [
+            [
+              388,
+              682
+            ],
+            [
+              771,
+              682
+            ],
+            [
+              771,
+              708
+            ],
+            [
+              388,
+              708
+            ]
+          ]
+        },
+        {
+          "text": "We refer to your letter to Mott Connell Ltd.under reference of",
+          "confidence": 0.9216527342796326,
+          "bbox": [
+            [
+              221,
+              740
+            ],
+            [
+              868,
+              737
+            ],
+            [
+              868,
+              767
+            ],
+            [
+              221,
+              770
+            ]
+          ]
+        },
+        {
+          "text": "D,P&IT/841/D/1072with copy tous and wish toconfirm:-",
+          "confidence": 0.9379822015762329,
+          "bbox": [
+            [
+              131,
+              769
+            ],
+            [
+              722,
+              768
+            ],
+            [
+              722,
+              799
+            ],
+            [
+              131,
+              800
+            ]
+          ]
+        },
+        {
+          "text": "1)",
+          "confidence": 0.845847487449646,
+          "bbox": [
+            [
+              175,
+              833
+            ],
+            [
+              201,
+              833
+            ],
+            [
+              201,
+              861
+            ],
+            [
+              175,
+              861
+            ]
+          ]
+        },
+        {
+          "text": "The loading/unloadingpoint iscapableofwithstanding the combinedweightof",
+          "confidence": 0.9657690525054932,
+          "bbox": [
+            [
+              213,
+              831
+            ],
+            [
+              1046,
+              830
+            ],
+            [
+              1046,
+              859
+            ],
+            [
+              213,
+              860
+            ]
+          ]
+        },
+        {
+          "text": "30 Tonnes.",
+          "confidence": 0.9859529733657837,
+          "bbox": [
+            [
+              215,
+              859
+            ],
+            [
+              331,
+              863
+            ],
+            [
+              330,
+              891
+            ],
+            [
+              214,
+              888
+            ]
+          ]
+        },
+        {
+          "text": "2)",
+          "confidence": 0.8982064127922058,
+          "bbox": [
+            [
+              170,
+              922
+            ],
+            [
+              200,
+              922
+            ],
+            [
+              200,
+              955
+            ],
+            [
+              170,
+              955
+            ]
+          ]
+        },
+        {
+          "text": "Thebundwallbehindthedouble-leafentrancedoorwillberemoved byusat",
+          "confidence": 0.9870389103889465,
+          "bbox": [
+            [
+              210,
+              922
+            ],
+            [
+              1015,
+              925
+            ],
+            [
+              1015,
+              953
+            ],
+            [
+              210,
+              950
+            ]
+          ]
+        },
+        {
+          "text": "timeof your equipment deliveryand re-instateafterwards.",
+          "confidence": 0.9519842863082886,
+          "bbox": [
+            [
+              212,
+              953
+            ],
+            [
+              816,
+              955
+            ],
+            [
+              816,
+              985
+            ],
+            [
+              212,
+              983
+            ]
+          ]
+        },
+        {
+          "text": "hulThui",
+          "confidence": 0.6932745575904846,
+          "bbox": [
+            [
+              151,
+              1044
+            ],
+            [
+              445,
+              1009
+            ],
+            [
+              467,
+              1190
+            ],
+            [
+              173,
+              1225
+            ]
+          ]
+        },
+        {
+          "text": "Yours faithfully,",
+          "confidence": 0.9779849052429199,
+          "bbox": [
+            [
+              625,
+              1109
+            ],
+            [
+              807,
+              1111
+            ],
+            [
+              807,
+              1142
+            ],
+            [
+              625,
+              1139
+            ]
+          ]
+        },
+        {
+          "text": "YUNGKONG CONSTRUCTIONCO.,LTD.",
+          "confidence": 0.9482213854789734,
+          "bbox": [
+            [
+              623,
+              1151
+            ],
+            [
+              963,
+              1157
+            ],
+            [
+              963,
+              1183
+            ],
+            [
+              623,
+              1178
+            ]
+          ]
+        },
+        {
+          "text": "Authorized Signature",
+          "confidence": 0.9572750926017761,
+          "bbox": [
+            [
+              752,
+              1249
+            ],
+            [
+              962,
+              1252
+            ],
+            [
+              962,
+              1279
+            ],
+            [
+              752,
+              1276
+            ]
+          ]
+        },
+        {
+          "text": "c.c. AKAA-Mr.P.T.Tse",
+          "confidence": 0.8998384475708008,
+          "bbox": [
+            [
+              120,
+              1336
+            ],
+            [
+              396,
+              1340
+            ],
+            [
+              396,
+              1368
+            ],
+            [
+              119,
+              1364
+            ]
+          ]
+        },
+        {
+          "text": "MCL (E&M) - Mr. Jeff Lui",
+          "confidence": 0.886859655380249,
+          "bbox": [
+            [
+              162,
+              1370
+            ],
+            [
+              455,
+              1373
+            ],
+            [
+              455,
+              1404
+            ],
+            [
+              162,
+              1401
+            ]
+          ]
+        },
+        {
+          "text": "DEVELOPMENTPL",
+          "confidence": 0.9071630835533142,
+          "bbox": [
+            [
+              567,
+              1361
+            ],
+            [
+              652,
+              1361
+            ],
+            [
+              652,
+              1378
+            ],
+            [
+              567,
+              1378
+            ]
+          ]
+        },
+        {
+          "text": "Junefair - Mr.Andy Choy",
+          "confidence": 0.8954198360443115,
+          "bbox": [
+            [
+              162,
+              1403
+            ],
+            [
+              442,
+              1408
+            ],
+            [
+              442,
+              1438
+            ],
+            [
+              162,
+              1432
+            ]
+          ]
+        },
+        {
+          "text": "General",
+          "confidence": 0.9809762835502625,
+          "bbox": [
+            [
+              566,
+              1395
+            ],
+            [
+              606,
+              1397
+            ],
+            [
+              605,
+              1415
+            ],
+            [
+              564,
+              1412
+            ]
+          ]
+        },
+        {
+          "text": "841/0/1072",
+          "confidence": 0.7494320273399353,
+          "bbox": [
+            [
+              437,
+              1408
+            ],
+            [
+              564,
+              1410
+            ],
+            [
+              563,
+              1461
+            ],
+            [
+              436,
+              1458
+            ]
+          ]
+        },
+        {
+          "text": "Secretary",
+          "confidence": 0.9880461096763611,
+          "bbox": [
+            [
+              565,
+              1414
+            ],
+            [
+              610,
+              1414
+            ],
+            [
+              610,
+              1432
+            ],
+            [
+              565,
+              1432
+            ]
+          ]
+        },
+        {
+          "text": "DISTRIBUTION PLANNING DEP",
+          "confidence": 0.9723458290100098,
+          "bbox": [
+            [
+              252,
+              1464
+            ],
+            [
+              507,
+              1453
+            ],
+            [
+              508,
+              1479
+            ],
+            [
+              253,
+              1490
+            ]
+          ]
+        },
+        {
+          "text": "10 SEP2002",
+          "confidence": 0.9569931030273438,
+          "bbox": [
+            [
+              635,
+              1456
+            ],
+            [
+              789,
+              1456
+            ],
+            [
+              789,
+              1495
+            ],
+            [
+              635,
+              1495
+            ]
+          ]
+        },
+        {
+          "text": "11SEP 2002",
+          "confidence": 0.8890998959541321,
+          "bbox": [
+            [
+              241,
+              1483
+            ],
+            [
+              431,
+              1483
+            ],
+            [
+              431,
+              1539
+            ],
+            [
+              241,
+              1539
+            ]
+          ]
+        },
+        {
+          "text": "ACTION",
+          "confidence": 0.9906948208808899,
+          "bbox": [
+            [
+              411,
+              1506
+            ],
+            [
+              466,
+              1502
+            ],
+            [
+              468,
+              1524
+            ],
+            [
+              412,
+              1527
+            ]
+          ]
+        },
+        {
+          "text": "Chief Dist. Planning Engr",
+          "confidence": 0.8754810094833374,
+          "bbox": [
+            [
+              252,
+              1534
+            ],
+            [
+              386,
+              1534
+            ],
+            [
+              386,
+              1555
+            ],
+            [
+              252,
+              1555
+            ]
+          ]
+        },
+        {
+          "text": "Seniar DistPlanningEngrCh",
+          "confidence": 0.832213819026947,
+          "bbox": [
+            [
+              252,
+              1561
+            ],
+            [
+              409,
+              1561
+            ],
+            [
+              409,
+              1581
+            ],
+            [
+              252,
+              1581
+            ]
+          ]
+        },
+        {
+          "text": "Senior Dist.PlanningEngW)",
+          "confidence": 0.8508357405662537,
+          "bbox": [
+            [
+              250,
+              1589
+            ],
+            [
+              407,
+              1587
+            ],
+            [
+              407,
+              1607
+            ],
+            [
+              250,
+              1610
+            ]
+          ]
+        },
+        {
+          "text": "Senior Dist.PlanningEnr(）",
+          "confidence": 0.8608654141426086,
+          "bbox": [
+            [
+              251,
+              1616
+            ],
+            [
+              402,
+              1616
+            ],
+            [
+              402,
+              1636
+            ],
+            [
+              251,
+              1636
+            ]
+          ]
+        },
+        {
+          "text": "5th floor DP File",
+          "confidence": 0.9042535424232483,
+          "bbox": [
+            [
+              624,
+              1625
+            ],
+            [
+              846,
+              1623
+            ],
+            [
+              846,
+              1653
+            ],
+            [
+              624,
+              1655
+            ]
+          ]
+        },
+        {
+          "text": "DP Engr(MappingCmpue）",
+          "confidence": 0.8054375648498535,
+          "bbox": [
+            [
+              252,
+              1645
+            ],
+            [
+              408,
+              1645
+            ],
+            [
+              408,
+              1666
+            ],
+            [
+              252,
+              1666
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_text": [
+    "HEC Info",
+    "Agreement",
+    "家康",
+    "YUNGKONG",
+    " CONSTRUCTION CO., LTD",
+    "RM.B,8/F.,YAMTZE",
+    "COMMERCIALBUILDING,",
+    "046067",
+    "23THOMSONROAD,WANCHAI,HONGKONG.",
+    "2136",
+    "1932",
+    "FAX:",
+    "：28455653",
+    "TEL:25221804,25220232,",
+    "HECRECEIVED",
+    "Date:6th September, 2002.",
+    "BYFAX&POST",
+    "SEP9234PM20002",
+    "The Hongkong Electric Co. Ltd.",
+    "SSU",
+    "Hongkong Electric Centre",
+    "SCANNED",
+    "44 Kennedy Road",
+    "Hong Kong",
+    "GeneralManagerDevelopment&Planning）",
+    "P.O.Box 915,G.P.O.,Hong Kong",
+    "Attn:Mr.B.W.Lo/Mr.C.T.Lui",
+    "(Fax: 2537-1013)",
+    "Dear Sirs,",
+    "No. 72 Deep Water Bay Road, H.K.",
+    "We refer to your letter to Mott Connell Ltd.under reference of",
+    "D,P&IT/841/D/1072with copy tous and wish toconfirm:-",
+    "1)",
+    "The loading/unloadingpoint iscapableofwithstanding the combinedweightof",
+    "30 Tonnes.",
+    "2)",
+    "Thebundwallbehindthedouble-leafentrancedoorwillberemoved byusat",
+    "timeof your equipment deliveryand re-instateafterwards.",
+    "hulThui",
+    "Yours faithfully,",
+    "YUNGKONG CONSTRUCTIONCO.,LTD.",
+    "Authorized Signature",
+    "c.c. AKAA-Mr.P.T.Tse",
+    "MCL (E&M) - Mr. Jeff Lui",
+    "DEVELOPMENTPL",
+    "Junefair - Mr.Andy Choy",
+    "General",
+    "841/0/1072",
+    "Secretary",
+    "DISTRIBUTION PLANNING DEP",
+    "10 SEP2002",
+    "11SEP 2002",
+    "ACTION",
+    "Chief Dist. Planning Engr",
+    "Seniar DistPlanningEngrCh",
+    "Senior Dist.PlanningEngW)",
+    "Senior Dist.PlanningEnr(）",
+    "5th floor DP File",
+    "DP Engr(MappingCmpue）"
+  ],
+  "classification": {
+    "category": "Outgoing Letter",
+    "tags": [
+      "Agreement (Access)"
+    ],
+    "confidence": 0.20138888888888892,
+    "keywords_found": [
+      "file no (partial)",
+      "building",
+      "agreement",
+      "file ref (partial)",
+      "our reference (partial)",
+      "our ref (partial)"
+    ],
+    "detailed_tags": [
+      {
+        "tag": "Agreement (Access)",
+        "confidence": 0.125,
+        "keywords_found": [
+          "agreement",
+          "building"
+        ]
+      }
+    ],
+    "classification_notes": "Classified using 6 keyword matches"
+  }
+}

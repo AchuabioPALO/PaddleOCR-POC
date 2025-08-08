@@ -1,0 +1,1991 @@
+{
+  "filename": "841-I-0047-F02_Agreement_Fire Service.pdf",
+  "processing_info": {
+    "pages_processed": 2,
+    "language_mode": "en",
+    "total_text_lines": 83
+  },
+  "ocr_results": [
+    {
+      "page": 1,
+      "en_results": [
+        {
+          "text": "bigboXX Agreement",
+          "confidence": 0.9865519404411316,
+          "bbox": [
+            [
+              384,
+              667
+            ],
+            [
+              687,
+              658
+            ],
+            [
+              688,
+              696
+            ],
+            [
+              385,
+              705
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "en_results": [
+        {
+          "text": "201412088384",
+          "confidence": 0.9490447640419006,
+          "bbox": [
+            [
+              398,
+              16
+            ],
+            [
+              718,
+              0
+            ],
+            [
+              720,
+              55
+            ],
+            [
+              401,
+              71
+            ]
+          ]
+        },
+        {
+          "text": "P&T Architects and Engineers Ld",
+          "confidence": 0.9005319476127625,
+          "bbox": [
+            [
+              657,
+              111
+            ],
+            [
+              1156,
+              119
+            ],
+            [
+              1155,
+              169
+            ],
+            [
+              657,
+              161
+            ]
+          ]
+        },
+        {
+          "text": "Chief Distribution Planning Engineer",
+          "confidence": 0.9770545959472656,
+          "bbox": [
+            [
+              226,
+              140
+            ],
+            [
+              624,
+              124
+            ],
+            [
+              625,
+              155
+            ],
+            [
+              228,
+              171
+            ]
+          ]
+        },
+        {
+          "text": "The Hongkong Electric Company Limited",
+          "confidence": 0.955598771572113,
+          "bbox": [
+            [
+              226,
+              167
+            ],
+            [
+              677,
+              152
+            ],
+            [
+              678,
+              181
+            ],
+            [
+              227,
+              196
+            ]
+          ]
+        },
+        {
+          "text": "Hongkong Electric Centre",
+          "confidence": 0.9686504006385803,
+          "bbox": [
+            [
+              225,
+              196
+            ],
+            [
+              510,
+              183
+            ],
+            [
+              511,
+              210
+            ],
+            [
+              227,
+              223
+            ]
+          ]
+        },
+        {
+          "text": "44 Kennedy Road",
+          "confidence": 0.9396460056304932,
+          "bbox": [
+            [
+              225,
+              222
+            ],
+            [
+              426,
+              214
+            ],
+            [
+              427,
+              241
+            ],
+            [
+              226,
+              248
+            ]
+          ]
+        },
+        {
+          "text": "ToMnTony Can",
+          "confidence": 0.5922361016273499,
+          "bbox": [
+            [
+              504,
+              216
+            ],
+            [
+              899,
+              193
+            ],
+            [
+              904,
+              273
+            ],
+            [
+              509,
+              295
+            ]
+          ]
+        },
+        {
+          "text": "Hong Kong",
+          "confidence": 0.9865537285804749,
+          "bbox": [
+            [
+              224,
+              247
+            ],
+            [
+              353,
+              243
+            ],
+            [
+              354,
+              275
+            ],
+            [
+              226,
+              279
+            ]
+          ]
+        },
+        {
+          "text": "MaSeNAN",
+          "confidence": 0.6628583669662476,
+          "bbox": [
+            [
+              639,
+              286
+            ],
+            [
+              834,
+              265
+            ],
+            [
+              840,
+              322
+            ],
+            [
+              645,
+              343
+            ]
+          ]
+        },
+        {
+          "text": "Attn: Mr. S.C.Chan",
+          "confidence": 0.9054674506187439,
+          "bbox": [
+            [
+              225,
+              302
+            ],
+            [
+              453,
+              293
+            ],
+            [
+              454,
+              321
+            ],
+            [
+              227,
+              330
+            ]
+          ]
+        },
+        {
+          "text": "December, 2014",
+          "confidence": 0.7222772836685181,
+          "bbox": [
+            [
+              918,
+              319
+            ],
+            [
+              1120,
+              316
+            ],
+            [
+              1121,
+              350
+            ],
+            [
+              918,
+              353
+            ]
+          ]
+        },
+        {
+          "text": "①M Shx luo 2n",
+          "confidence": 0.5370949506759644,
+          "bbox": [
+            [
+              570,
+              350
+            ],
+            [
+              936,
+              306
+            ],
+            [
+              945,
+              372
+            ],
+            [
+              578,
+              417
+            ]
+          ]
+        },
+        {
+          "text": "Mease l Genera Manager (T)",
+          "confidence": 0.8074179291725159,
+          "bbox": [
+            [
+              652,
+              389
+            ],
+            [
+              1069,
+              371
+            ],
+            [
+              1072,
+              436
+            ],
+            [
+              655,
+              454
+            ]
+          ]
+        },
+        {
+          "text": "6",
+          "confidence": 0.4849642515182495,
+          "bbox": [
+            [
+              1045,
+              388
+            ],
+            [
+              1112,
+              398
+            ],
+            [
+              1105,
+              448
+            ],
+            [
+              1037,
+              438
+            ]
+          ]
+        },
+        {
+          "text": "Dear Sir,",
+          "confidence": 0.9447238445281982,
+          "bbox": [
+            [
+              221,
+              408
+            ],
+            [
+              325,
+              404
+            ],
+            [
+              326,
+              435
+            ],
+            [
+              222,
+              439
+            ]
+          ]
+        },
+        {
+          "text": "ASD",
+          "confidence": 0.9919757843017578,
+          "bbox": [
+            [
+              1129,
+              421
+            ],
+            [
+              1170,
+              413
+            ],
+            [
+              1174,
+              436
+            ],
+            [
+              1134,
+              443
+            ]
+          ]
+        },
+        {
+          "text": "SCANNED",
+          "confidence": 0.9930886030197144,
+          "bbox": [
+            [
+              1124,
+              440
+            ],
+            [
+              1181,
+              431
+            ],
+            [
+              1185,
+              448
+            ],
+            [
+              1127,
+              458
+            ]
+          ]
+        },
+        {
+          "text": "RESIDENTIAL DEVELOPMENT AT5OISLANDROAD,HK",
+          "confidence": 0.9648808836936951,
+          "bbox": [
+            [
+              222,
+              457
+            ],
+            [
+              869,
+              456
+            ],
+            [
+              869,
+              490
+            ],
+            [
+              222,
+              491
+            ]
+          ]
+        },
+        {
+          "text": "LOTNO.RBL1182(FORMERLYRBL831)",
+          "confidence": 0.9685875177383423,
+          "bbox": [
+            [
+              224,
+              489
+            ],
+            [
+              701,
+              487
+            ],
+            [
+              701,
+              515
+            ],
+            [
+              224,
+              517
+            ]
+          ]
+        },
+        {
+          "text": "Compliance ofFS requirement",
+          "confidence": 0.9646137952804565,
+          "bbox": [
+            [
+              254,
+              516
+            ],
+            [
+              596,
+              515
+            ],
+            [
+              597,
+              545
+            ],
+            [
+              254,
+              546
+            ]
+          ]
+        },
+        {
+          "text": "OurRef.:3766/2/293/pc",
+          "confidence": 0.9584227800369263,
+          "bbox": [
+            [
+              224,
+              545
+            ],
+            [
+              507,
+              541
+            ],
+            [
+              507,
+              569
+            ],
+            [
+              224,
+              573
+            ]
+          ]
+        },
+        {
+          "text": "We hereby confirm that the transformer room was constructed in accordance",
+          "confidence": 0.9768206477165222,
+          "bbox": [
+            [
+              224,
+              601
+            ],
+            [
+              1126,
+              598
+            ],
+            [
+              1127,
+              628
+            ],
+            [
+              224,
+              631
+            ]
+          ]
+        },
+        {
+          "text": "with the FS requirement as stated in fire services notes of the general building",
+          "confidence": 0.9595760107040405,
+          "bbox": [
+            [
+              226,
+              629
+            ],
+            [
+              1125,
+              628
+            ],
+            [
+              1126,
+              659
+            ],
+            [
+              226,
+              660
+            ]
+          ]
+        },
+        {
+          "text": "plan.",
+          "confidence": 0.9982836842536926,
+          "bbox": [
+            [
+              225,
+              660
+            ],
+            [
+              285,
+              660
+            ],
+            [
+              285,
+              690
+            ],
+            [
+              225,
+              690
+            ]
+          ]
+        },
+        {
+          "text": "Should you have any queries,please do not hesitate to contact our Mr. So Chun",
+          "confidence": 0.9575592875480652,
+          "bbox": [
+            [
+              227,
+              716
+            ],
+            [
+              1126,
+              710
+            ],
+            [
+              1127,
+              740
+            ],
+            [
+              227,
+              745
+            ]
+          ]
+        },
+        {
+          "text": "Waiat28327487orMsYvonne Luk at28323483.",
+          "confidence": 0.9697016477584839,
+          "bbox": [
+            [
+              228,
+              741
+            ],
+            [
+              828,
+              741
+            ],
+            [
+              828,
+              768
+            ],
+            [
+              228,
+              768
+            ]
+          ]
+        },
+        {
+          "text": "HK Electric",
+          "confidence": 0.9461578726768494,
+          "bbox": [
+            [
+              944,
+              812
+            ],
+            [
+              1119,
+              817
+            ],
+            [
+              1118,
+              849
+            ],
+            [
+              943,
+              844
+            ]
+          ]
+        },
+        {
+          "text": "Yours faithfully,",
+          "confidence": 0.9760327339172363,
+          "bbox": [
+            [
+              227,
+              823
+            ],
+            [
+              407,
+              823
+            ],
+            [
+              407,
+              854
+            ],
+            [
+              227,
+              854
+            ]
+          ]
+        },
+        {
+          "text": "Received",
+          "confidence": 0.9948238134384155,
+          "bbox": [
+            [
+              961,
+              851
+            ],
+            [
+              1102,
+              855
+            ],
+            [
+              1100,
+              890
+            ],
+            [
+              960,
+              886
+            ]
+          ]
+        },
+        {
+          "text": "016578",
+          "confidence": 0.999323844909668,
+          "bbox": [
+            [
+              937,
+              892
+            ],
+            [
+              1094,
+              897
+            ],
+            [
+              1092,
+              943
+            ],
+            [
+              936,
+              938
+            ]
+          ]
+        },
+        {
+          "text": "2014DEC-8A9:04",
+          "confidence": 0.9888734817504883,
+          "bbox": [
+            [
+              895,
+              937
+            ],
+            [
+              1152,
+              947
+            ],
+            [
+              1151,
+              981
+            ],
+            [
+              893,
+              971
+            ]
+          ]
+        },
+        {
+          "text": "Chan Wan Ming",
+          "confidence": 0.9775915145874023,
+          "bbox": [
+            [
+              229,
+              986
+            ],
+            [
+              410,
+              995
+            ],
+            [
+              408,
+              1023
+            ],
+            [
+              227,
+              1014
+            ]
+          ]
+        },
+        {
+          "text": "for P&T Architects and Engineers Ltd",
+          "confidence": 0.9652087092399597,
+          "bbox": [
+            [
+              225,
+              1012
+            ],
+            [
+              646,
+              1022
+            ],
+            [
+              645,
+              1055
+            ],
+            [
+              224,
+              1046
+            ]
+          ]
+        },
+        {
+          "text": "cC:SHKP-Mr. Tim Mak /Mr.Vincent Lim",
+          "confidence": 0.8917902112007141,
+          "bbox": [
+            [
+              229,
+              1097
+            ],
+            [
+              719,
+              1106
+            ],
+            [
+              718,
+              1136
+            ],
+            [
+              229,
+              1127
+            ]
+          ]
+        },
+        {
+          "text": "Fugro -Mr. Andes Wong",
+          "confidence": 0.9454697966575623,
+          "bbox": [
+            [
+              274,
+              1126
+            ],
+            [
+              560,
+              1133
+            ],
+            [
+              560,
+              1163
+            ],
+            [
+              273,
+              1156
+            ]
+          ]
+        },
+        {
+          "text": "JRP-Mr.Ultima Chim",
+          "confidence": 0.9300904870033264,
+          "bbox": [
+            [
+              277,
+              1155
+            ],
+            [
+              526,
+              1161
+            ],
+            [
+              525,
+              1188
+            ],
+            [
+              276,
+              1182
+            ]
+          ]
+        },
+        {
+          "text": "all w/e, by email",
+          "confidence": 0.9617675542831421,
+          "bbox": [
+            [
+              755,
+              1157
+            ],
+            [
+              951,
+              1159
+            ],
+            [
+              951,
+              1193
+            ],
+            [
+              755,
+              1191
+            ]
+          ]
+        },
+        {
+          "text": "STRIBUTIONPLANNINGDEPARTMENT",
+          "confidence": 0.9767266511917114,
+          "bbox": [
+            [
+              0,
+              1174
+            ],
+            [
+              261,
+              1180
+            ],
+            [
+              260,
+              1208
+            ],
+            [
+              0,
+              1202
+            ]
+          ]
+        },
+        {
+          "text": "Sanfield-Mr.SammyChow",
+          "confidence": 0.9874750971794128,
+          "bbox": [
+            [
+              276,
+              1183
+            ],
+            [
+              592,
+              1189
+            ],
+            [
+              591,
+              1216
+            ],
+            [
+              276,
+              1210
+            ]
+          ]
+        },
+        {
+          "text": "ATE:",
+          "confidence": 0.9346828460693359,
+          "bbox": [
+            [
+              0,
+              1207
+            ],
+            [
+              58,
+              1214
+            ],
+            [
+              53,
+              1248
+            ],
+            [
+              0,
+              1240
+            ]
+          ]
+        },
+        {
+          "text": "DEC2014",
+          "confidence": 0.9971746802330017,
+          "bbox": [
+            [
+              80,
+              1203
+            ],
+            [
+              188,
+              1217
+            ],
+            [
+              183,
+              1258
+            ],
+            [
+              75,
+              1244
+            ]
+          ]
+        },
+        {
+          "text": "ACTIONFYI",
+          "confidence": 0.95326828956604,
+          "bbox": [
+            [
+              176,
+              1231
+            ],
+            [
+              270,
+              1234
+            ],
+            [
+              269,
+              1270
+            ],
+            [
+              175,
+              1267
+            ]
+          ]
+        },
+        {
+          "text": "hiefD.P.Engr.",
+          "confidence": 0.941339373588562,
+          "bbox": [
+            [
+              0,
+              1259
+            ],
+            [
+              117,
+              1267
+            ],
+            [
+              116,
+              1295
+            ],
+            [
+              0,
+              1287
+            ]
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.9523921608924866,
+          "bbox": [
+            [
+              210,
+              1267
+            ],
+            [
+              238,
+              1267
+            ],
+            [
+              238,
+              1296
+            ],
+            [
+              210,
+              1296
+            ]
+          ]
+        },
+        {
+          "text": "eniorD.P.Engr.(W)",
+          "confidence": 0.936099648475647,
+          "bbox": [
+            [
+              0,
+              1290
+            ],
+            [
+              162,
+              1298
+            ],
+            [
+              160,
+              1329
+            ],
+            [
+              0,
+              1321
+            ]
+          ]
+        },
+        {
+          "text": "UC/YL/SCW/pc",
+          "confidence": 0.912188708782196,
+          "bbox": [
+            [
+              230,
+              1290
+            ],
+            [
+              398,
+              1295
+            ],
+            [
+              397,
+              1324
+            ],
+            [
+              229,
+              1319
+            ]
+          ]
+        },
+        {
+          "text": "N",
+          "confidence": 0.9875124096870422,
+          "bbox": [
+            [
+              637,
+              1298
+            ],
+            [
+              677,
+              1298
+            ],
+            [
+              677,
+              1332
+            ],
+            [
+              637,
+              1332
+            ]
+          ]
+        },
+        {
+          "text": "aior D.P.Engr.(C)",
+          "confidence": 0.8734582662582397,
+          "bbox": [
+            [
+              0,
+              1322
+            ],
+            [
+              162,
+              1330
+            ],
+            [
+              160,
+              1361
+            ],
+            [
+              0,
+              1353
+            ]
+          ]
+        },
+        {
+          "text": "gsoret",
+          "confidence": 0.5676248073577881,
+          "bbox": [
+            [
+              583,
+              1327
+            ],
+            [
+              784,
+              1321
+            ],
+            [
+              787,
+              1392
+            ],
+            [
+              585,
+              1399
+            ]
+          ]
+        },
+        {
+          "text": "enior D.P.Engr.(E)",
+          "confidence": 0.8940222263336182,
+          "bbox": [
+            [
+              0,
+              1354
+            ],
+            [
+              157,
+              1362
+            ],
+            [
+              155,
+              1390
+            ],
+            [
+              0,
+              1383
+            ]
+          ]
+        },
+        {
+          "text": "1.112/14.",
+          "confidence": 0.6170916557312012,
+          "bbox": [
+            [
+              694,
+              1369
+            ],
+            [
+              852,
+              1369
+            ],
+            [
+              852,
+              1447
+            ],
+            [
+              694,
+              1447
+            ]
+          ]
+        },
+        {
+          "text": "rawingOffice",
+          "confidence": 0.981785774230957,
+          "bbox": [
+            [
+              0,
+              1388
+            ],
+            [
+              109,
+              1392
+            ],
+            [
+              108,
+              1417
+            ],
+            [
+              0,
+              1413
+            ]
+          ]
+        },
+        {
+          "text": "33/F,3KisRoadNorthonHonoTel:26Fax:-913Email:tahk@p-rou.com",
+          "confidence": 0.667662501335144,
+          "bbox": [
+            [
+              184,
+              1437
+            ],
+            [
+              1024,
+              1450
+            ],
+            [
+              1023,
+              1477
+            ],
+            [
+              183,
+              1464
+            ]
+          ]
+        },
+        {
+          "text": "Architectural",
+          "confidence": 0.9435870051383972,
+          "bbox": [
+            [
+              184,
+              1467
+            ],
+            [
+              239,
+              1469
+            ],
+            [
+              238,
+              1487
+            ],
+            [
+              183,
+              1484
+            ]
+          ]
+        },
+        {
+          "text": "DrecorNuRuCCCaHuCBCCCCoJNCHD",
+          "confidence": 0.5502262711524963,
+          "bbox": [
+            [
+              283,
+              1465
+            ],
+            [
+              963,
+              1478
+            ],
+            [
+              963,
+              1499
+            ],
+            [
+              283,
+              1486
+            ]
+          ]
+        },
+        {
+          "text": "StructuralEnineerin：Direcor-DTangJLauM.Chew",
+          "confidence": 0.7438754439353943,
+          "bbox": [
+            [
+              183,
+              1485
+            ],
+            [
+              434,
+              1486
+            ],
+            [
+              434,
+              1504
+            ],
+            [
+              183,
+              1503
+            ]
+          ]
+        },
+        {
+          "text": "HNGGG366",
+          "confidence": 0.6225109100341797,
+          "bbox": [
+            [
+              181,
+              1511
+            ],
+            [
+              875,
+              1524
+            ],
+            [
+              874,
+              1547
+            ],
+            [
+              180,
+              1534
+            ]
+          ]
+        },
+        {
+          "text": "SINGAPOREPTCONSULTANTSPTELTDTEL:6565352011FAX6565351283",
+          "confidence": 0.9189386367797852,
+          "bbox": [
+            [
+              182,
+              1532
+            ],
+            [
+              479,
+              1533
+            ],
+            [
+              479,
+              1550
+            ],
+            [
+              182,
+              1548
+            ]
+          ]
+        },
+        {
+          "text": "PTCOCT",
+          "confidence": 0.607430636882782,
+          "bbox": [
+            [
+              224,
+              1543
+            ],
+            [
+              617,
+              1550
+            ],
+            [
+              616,
+              1570
+            ],
+            [
+              224,
+              1563
+            ]
+          ]
+        },
+        {
+          "text": "BANGKOK",
+          "confidence": 0.9677304029464722,
+          "bbox": [
+            [
+              671,
+              1537
+            ],
+            [
+              714,
+              1540
+            ],
+            [
+              713,
+              1558
+            ],
+            [
+              670,
+              1555
+            ]
+          ]
+        },
+        {
+          "text": "PALMERURHT666518FA6627",
+          "confidence": 0.642392098903656,
+          "bbox": [
+            [
+              735,
+              1539
+            ],
+            [
+              1063,
+              1544
+            ],
+            [
+              1063,
+              1564
+            ],
+            [
+              734,
+              1559
+            ]
+          ]
+        },
+        {
+          "text": "VETNAM",
+          "confidence": 0.9736500382423401,
+          "bbox": [
+            [
+              183,
+              1549
+            ],
+            [
+              220,
+              1549
+            ],
+            [
+              220,
+              1563
+            ],
+            [
+              183,
+              1563
+            ]
+          ]
+        },
+        {
+          "text": "PTCONSUAENACOLEL848-31037FAX843007",
+          "confidence": 0.6898264288902283,
+          "bbox": [
+            [
+              231,
+              1559
+            ],
+            [
+              531,
+              1563
+            ],
+            [
+              531,
+              1582
+            ],
+            [
+              231,
+              1579
+            ]
+          ]
+        },
+        {
+          "text": "SHANGHAI",
+          "confidence": 0.9925374984741211,
+          "bbox": [
+            [
+              670,
+              1554
+            ],
+            [
+              713,
+              1554
+            ],
+            [
+              713,
+              1572
+            ],
+            [
+              670,
+              1572
+            ]
+          ]
+        },
+        {
+          "text": "：PAEG13A",
+          "confidence": 0.5644394159317017,
+          "bbox": [
+            [
+              736,
+              1555
+            ],
+            [
+              1099,
+              1561
+            ],
+            [
+              1099,
+              1580
+            ],
+            [
+              735,
+              1575
+            ]
+          ]
+        },
+        {
+          "text": "BELJING",
+          "confidence": 0.8312621712684631,
+          "bbox": [
+            [
+              181,
+              1576
+            ],
+            [
+              214,
+              1579
+            ],
+            [
+              213,
+              1595
+            ],
+            [
+              180,
+              1592
+            ]
+          ]
+        },
+        {
+          "text": "AMERGIC61",
+          "confidence": 0.5286089777946472,
+          "bbox": [
+            [
+              228,
+              1571
+            ],
+            [
+              648,
+              1581
+            ],
+            [
+              648,
+              1603
+            ],
+            [
+              228,
+              1594
+            ]
+          ]
+        },
+        {
+          "text": "DALIAN",
+          "confidence": 0.9454975128173828,
+          "bbox": [
+            [
+              181,
+              1593
+            ],
+            [
+              213,
+              1593
+            ],
+            [
+              213,
+              1608
+            ],
+            [
+              181,
+              1608
+            ]
+          ]
+        },
+        {
+          "text": "WUHAN",
+          "confidence": 0.9765251278877258,
+          "bbox": [
+            [
+              671,
+              1586
+            ],
+            [
+              704,
+              1586
+            ],
+            [
+              704,
+              1603
+            ],
+            [
+              671,
+              1603
+            ]
+          ]
+        },
+        {
+          "text": "PAMERUCHGRCT2713A",
+          "confidence": 0.6056739091873169,
+          "bbox": [
+            [
+              733,
+              1586
+            ],
+            [
+              1163,
+              1593
+            ],
+            [
+              1163,
+              1613
+            ],
+            [
+              732,
+              1606
+            ]
+          ]
+        },
+        {
+          "text": "SHENZHEN",
+          "confidence": 0.9947314262390137,
+          "bbox": [
+            [
+              180,
+              1609
+            ],
+            [
+              224,
+              1609
+            ],
+            [
+              224,
+              1624
+            ],
+            [
+              180,
+              1624
+            ]
+          ]
+        },
+        {
+          "text": "CHONGOING",
+          "confidence": 0.9587743282318115,
+          "bbox": [
+            [
+              670,
+              1601
+            ],
+            [
+              717,
+              1601
+            ],
+            [
+              717,
+              1619
+            ],
+            [
+              670,
+              1619
+            ]
+          ]
+        },
+        {
+          "text": "：PALMERTURNERCONSULANSSHANGHLDCHONGINGBRANCHTEL862368818861FA86236898850",
+          "confidence": 0.7496355772018433,
+          "bbox": [
+            [
+              732,
+              1602
+            ],
+            [
+              1181,
+              1609
+            ],
+            [
+              1181,
+              1629
+            ],
+            [
+              731,
+              1622
+            ]
+          ]
+        },
+        {
+          "text": "DUBAI",
+          "confidence": 0.9886494874954224,
+          "bbox": [
+            [
+              180,
+              1624
+            ],
+            [
+              209,
+              1624
+            ],
+            [
+              209,
+              1640
+            ],
+            [
+              180,
+              1640
+            ]
+          ]
+        },
+        {
+          "text": "MACAU",
+          "confidence": 0.9878260493278503,
+          "bbox": [
+            [
+              669,
+              1617
+            ],
+            [
+              702,
+              1617
+            ],
+            [
+              702,
+              1634
+            ],
+            [
+              669,
+              1634
+            ]
+          ]
+        },
+        {
+          "text": "：PTARCHTCTSENGINEERSLDMACAUBRACHTEL:8532850341FA8534214",
+          "confidence": 0.7261818647384644,
+          "bbox": [
+            [
+              732,
+              1619
+            ],
+            [
+              1087,
+              1625
+            ],
+            [
+              1087,
+              1642
+            ],
+            [
+              731,
+              1636
+            ]
+          ]
+        },
+        {
+          "text": "",
+          "confidence": 0.0,
+          "bbox": [
+            [
+              224,
+              1633
+            ],
+            [
+              596,
+              1641
+            ],
+            [
+              595,
+              1665
+            ],
+            [
+              224,
+              1657
+            ]
+          ]
+        },
+        {
+          "text": "ABU DHABI",
+          "confidence": 0.9422454833984375,
+          "bbox": [
+            [
+              669,
+              1630
+            ],
+            [
+              714,
+              1633
+            ],
+            [
+              713,
+              1651
+            ],
+            [
+              668,
+              1649
+            ]
+          ]
+        },
+        {
+          "text": "AJMAN",
+          "confidence": 0.8959850072860718,
+          "bbox": [
+            [
+              180,
+              1641
+            ],
+            [
+              212,
+              1641
+            ],
+            [
+              212,
+              1656
+            ],
+            [
+              180,
+              1656
+            ]
+          ]
+        },
+        {
+          "text": "：P&TARCHITECTS&ENGINEERSLTD（ABUDHABIBRANCHTEL:971-26506003FAX97126506008",
+          "confidence": 0.8804502487182617,
+          "bbox": [
+            [
+              732,
+              1635
+            ],
+            [
+              1113,
+              1643
+            ],
+            [
+              1112,
+              1660
+            ],
+            [
+              731,
+              1652
+            ]
+          ]
+        },
+        {
+          "text": "RASALKHAAPTARCCENGNSLDRASLKHAABRANCHTEL9714356803FAX97143586800",
+          "confidence": 0.6788470149040222,
+          "bbox": [
+            [
+              667,
+              1647
+            ],
+            [
+              1136,
+              1659
+            ],
+            [
+              1135,
+              1680
+            ],
+            [
+              667,
+              1668
+            ]
+          ]
+        },
+        {
+          "text": "OTHEROFFCILI",
+          "confidence": 0.7395043969154358,
+          "bbox": [
+            [
+              179,
+              1671
+            ],
+            [
+              434,
+              1670
+            ],
+            [
+              434,
+              1690
+            ],
+            [
+              179,
+              1690
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_text": [
+    "bigboXX Agreement",
+    "201412088384",
+    "P&T Architects and Engineers Ld",
+    "Chief Distribution Planning Engineer",
+    "The Hongkong Electric Company Limited",
+    "Hongkong Electric Centre",
+    "44 Kennedy Road",
+    "ToMnTony Can",
+    "Hong Kong",
+    "MaSeNAN",
+    "Attn: Mr. S.C.Chan",
+    "December, 2014",
+    "①M Shx luo 2n",
+    "Mease l Genera Manager (T)",
+    "6",
+    "Dear Sir,",
+    "ASD",
+    "SCANNED",
+    "RESIDENTIAL DEVELOPMENT AT5OISLANDROAD,HK",
+    "LOTNO.RBL1182(FORMERLYRBL831)",
+    "Compliance ofFS requirement",
+    "OurRef.:3766/2/293/pc",
+    "We hereby confirm that the transformer room was constructed in accordance",
+    "with the FS requirement as stated in fire services notes of the general building",
+    "plan.",
+    "Should you have any queries,please do not hesitate to contact our Mr. So Chun",
+    "Waiat28327487orMsYvonne Luk at28323483.",
+    "HK Electric",
+    "Yours faithfully,",
+    "Received",
+    "016578",
+    "2014DEC-8A9:04",
+    "Chan Wan Ming",
+    "for P&T Architects and Engineers Ltd",
+    "cC:SHKP-Mr. Tim Mak /Mr.Vincent Lim",
+    "Fugro -Mr. Andes Wong",
+    "JRP-Mr.Ultima Chim",
+    "all w/e, by email",
+    "STRIBUTIONPLANNINGDEPARTMENT",
+    "Sanfield-Mr.SammyChow",
+    "ATE:",
+    "DEC2014",
+    "ACTIONFYI",
+    "hiefD.P.Engr.",
+    "2",
+    "eniorD.P.Engr.(W)",
+    "UC/YL/SCW/pc",
+    "N",
+    "aior D.P.Engr.(C)",
+    "gsoret",
+    "enior D.P.Engr.(E)",
+    "1.112/14.",
+    "rawingOffice",
+    "33/F,3KisRoadNorthonHonoTel:26Fax:-913Email:tahk@p-rou.com",
+    "Architectural",
+    "DrecorNuRuCCCaHuCBCCCCoJNCHD",
+    "StructuralEnineerin：Direcor-DTangJLauM.Chew",
+    "HNGGG366",
+    "SINGAPOREPTCONSULTANTSPTELTDTEL:6565352011FAX6565351283",
+    "PTCOCT",
+    "BANGKOK",
+    "PALMERURHT666518FA6627",
+    "VETNAM",
+    "PTCONSUAENACOLEL848-31037FAX843007",
+    "SHANGHAI",
+    "：PAEG13A",
+    "BELJING",
+    "AMERGIC61",
+    "DALIAN",
+    "WUHAN",
+    "PAMERUCHGRCT2713A",
+    "SHENZHEN",
+    "CHONGOING",
+    "：PALMERTURNERCONSULANSSHANGHLDCHONGINGBRANCHTEL862368818861FA86236898850",
+    "DUBAI",
+    "MACAU",
+    "：PTARCHTCTSENGINEERSLDMACAUBRACHTEL:8532850341FA8534214",
+    "",
+    "ABU DHABI",
+    "AJMAN",
+    "：P&TARCHITECTS&ENGINEERSLTD（ABUDHABIBRANCHTEL:971-26506003FAX97126506008",
+    "RASALKHAAPTARCCENGNSLDRASLKHAABRANCHTEL9714356803FAX97143586800",
+    "OTHEROFFCILI"
+  ],
+  "classification": {
+    "category": "Incoming Letter",
+    "tags": [
+      "Agreement (Fire Services)",
+      "Agreement (Access)",
+      "Defect (Fire Services)",
+      "VSC/VIC"
+    ],
+    "confidence": 0.18939393939393936,
+    "keywords_found": [
+      "fire services defect (partial)",
+      "fire services",
+      "building",
+      "to hongkong electric (partial)",
+      "to hk electric (partial)",
+      "agreement",
+      "ld ref (partial)",
+      "vic",
+      "fire services agreement (partial)",
+      "architectural office (partial)",
+      "fire agreement (partial)",
+      "transformer room",
+      "consultant"
+    ],
+    "detailed_tags": [
+      {
+        "tag": "Agreement (Fire Services)",
+        "confidence": 0.38125,
+        "keywords_found": [
+          "fire services",
+          "fire agreement (partial)",
+          "fire services agreement (partial)"
+        ]
+      },
+      {
+        "tag": "Agreement (Access)",
+        "confidence": 0.19,
+        "keywords_found": [
+          "agreement",
+          "transformer room",
+          "building"
+        ]
+      },
+      {
+        "tag": "Defect (Fire Services)",
+        "confidence": 0.15277777777777776,
+        "keywords_found": [
+          "fire services defect (partial)"
+        ]
+      },
+      {
+        "tag": "VSC/VIC",
+        "confidence": 0.14285714285714285,
+        "keywords_found": [
+          "vic"
+        ]
+      }
+    ],
+    "classification_notes": "Classified using 13 keyword matches"
+  }
+}

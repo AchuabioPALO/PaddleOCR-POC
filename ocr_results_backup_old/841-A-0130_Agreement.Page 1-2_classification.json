@@ -1,0 +1,34 @@
+{
+  "category": "Inspection",
+  "tags": [
+    "Agreement (Access)",
+    "VSC/VIC"
+  ],
+  "confidence": 0.3181818181818182,
+  "keywords_found": [
+    "inspection",
+    "inspect",
+    "vic",
+    "entry",
+    "check",
+    "agreement"
+  ],
+  "detailed_tags": [
+    {
+      "tag": "Agreement (Access)",
+      "confidence": 0.25,
+      "keywords_found": [
+        "agreement",
+        "entry"
+      ]
+    },
+    {
+      "tag": "VSC/VIC",
+      "confidence": 0.21428571428571427,
+      "keywords_found": [
+        "vic"
+      ]
+    }
+  ],
+  "classification_notes": "Classified using 6 keyword matches"
+}

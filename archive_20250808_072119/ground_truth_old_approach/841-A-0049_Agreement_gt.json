@@ -1,0 +1,29 @@
+{
+  "category": "Incoming Letter",
+  "tags": [
+    "Agreement (Access)"
+  ],
+  "confidence": 1.0,
+  "keywords_found": [
+    "access agreement (partial)",
+    "to hk electric (partial)",
+    "agreement",
+    "public works department",
+    "access",
+    "ld ref (partial)",
+    "to hongkong electric (partial)",
+    "architectural office"
+  ],
+  "detailed_tags": [
+    {
+      "tag": "Agreement (Access)",
+      "confidence": 0.3333333333333333,
+      "keywords_found": [
+        "agreement",
+        "access agreement (partial)",
+        "access"
+      ]
+    }
+  ],
+  "classification_notes": "Auto-generated ground truth from OCR classification results"
+}

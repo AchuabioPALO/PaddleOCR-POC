@@ -1,0 +1,43 @@
+{
+  "category": "Outgoing Letter",
+  "tags": [
+    "Agreement (Access)",
+    "VSC/VIC",
+    "Agreement (Fire Services)"
+  ],
+  "confidence": 0.2263888888888889,
+  "keywords_found": [
+    "our ref",
+    "building",
+    "agreement",
+    "vic",
+    "fire services agreement (partial)",
+    "transformer room"
+  ],
+  "detailed_tags": [
+    {
+      "tag": "Agreement (Access)",
+      "confidence": 0.19,
+      "keywords_found": [
+        "agreement",
+        "transformer room",
+        "building"
+      ]
+    },
+    {
+      "tag": "VSC/VIC",
+      "confidence": 0.14285714285714285,
+      "keywords_found": [
+        "vic"
+      ]
+    },
+    {
+      "tag": "Agreement (Fire Services)",
+      "confidence": 0.10416666666666666,
+      "keywords_found": [
+        "fire services agreement (partial)"
+      ]
+    }
+  ],
+  "classification_notes": "Classified using 6 keyword matches"
+}

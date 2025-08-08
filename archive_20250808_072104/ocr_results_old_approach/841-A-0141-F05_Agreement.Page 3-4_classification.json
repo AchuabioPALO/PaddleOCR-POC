@@ -1,0 +1,39 @@
+{
+  "category": "Outgoing Letter",
+  "tags": [
+    "Agreement (Ventilation)",
+    "Agreement (Access)"
+  ],
+  "confidence": 0.20138888888888892,
+  "keywords_found": [
+    "ventilation",
+    "file no (partial)",
+    "ventilation agreement (partial)",
+    "agreement",
+    "supply",
+    "file ref (partial)",
+    "transformer room",
+    "our reference (partial)",
+    "our ref (partial)"
+  ],
+  "detailed_tags": [
+    {
+      "tag": "Agreement (Ventilation)",
+      "confidence": 0.21875,
+      "keywords_found": [
+        "ventilation",
+        "ventilation agreement (partial)"
+      ]
+    },
+    {
+      "tag": "Agreement (Access)",
+      "confidence": 0.19,
+      "keywords_found": [
+        "agreement",
+        "transformer room",
+        "supply"
+      ]
+    }
+  ],
+  "classification_notes": "Classified using 9 keyword matches"
+}

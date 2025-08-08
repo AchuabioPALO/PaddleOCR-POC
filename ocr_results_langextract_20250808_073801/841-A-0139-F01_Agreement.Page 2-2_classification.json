@@ -1,0 +1,22 @@
+{
+  "category": "Letter",
+  "tags": [
+    "Agreement (Ventilation)",
+    "VSC/VIC"
+  ],
+  "confidence": 0.48125,
+  "detailed_tags": [
+    {
+      "tag": "Agreement (Ventilation)",
+      "confidence": 0.35,
+      "method": "LangExtract ML+Pattern"
+    },
+    {
+      "tag": "VSC/VIC",
+      "confidence": 0.3,
+      "method": "LangExtract ML+Pattern"
+    }
+  ],
+  "method": "LangExtract",
+  "classification_notes": "LangExtract ML classification with 2 tags identified"
+}

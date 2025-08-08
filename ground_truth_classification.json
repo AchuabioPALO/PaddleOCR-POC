@@ -1,0 +1,52 @@
+{
+  "841-A-0010_Letter.Page 1-1": {
+    "category": "Outgoing Letter",
+    "tags": ["Agreement (Access)"],
+    "notes": "Letter regarding electrical supply agreement"
+  },
+  "841-A-0032-Letter 19761029_Agreement.Page 1-1": {
+    "category": "Outgoing Letter", 
+    "tags": ["Agreement (Access)"],
+    "notes": "Agreement letter about electrical supply and transformer room"
+  },
+  "841-A-0049_Agreement": {
+    "category": "Agreement",
+    "tags": ["Agreement (Access)"],
+    "notes": "Formal agreement document for access/electrical services"
+  },
+  "841-A-0130_Agreement.Page 1-2": {
+    "category": "Agreement",
+    "tags": ["Agreement (Access)", "VSC/VIC"],
+    "notes": "Agreement with VIC component for access services"
+  },
+  "841-A-0141-F05_Agreement.Page 3-4": {
+    "category": "Agreement",
+    "tags": ["Agreement (Ventilation)", "Agreement (Access)"],
+    "notes": "Agreement covering ventilation and access systems"
+  },
+  "841-A-0141-F05_Agreement.Page 5-5": {
+    "category": "Agreement",
+    "tags": ["Agreement (Fire Services)", "Agreement (Access)", "VSC/VIC"],
+    "notes": "Agreement for fire services with VIC component"
+  },
+  "841-A-0177_Agreement.Page 2-2": {
+    "category": "Agreement",
+    "tags": ["Agreement (Fire Services)", "Agreement (Access)"],
+    "notes": "Agreement document covering fire services and access"
+  },
+  "841-C-0555_Agreement": {
+    "category": "Agreement",
+    "tags": ["Agreement (Access)", "Agreement (Fire Services)", "VSC/VIC"],
+    "notes": "Multi-service agreement with VIC component"
+  },
+  "841-D-0172-F03_Agreement": {
+    "category": "Agreement",
+    "tags": ["Agreement (Access)"],
+    "notes": "Access agreement document"
+  },
+  "841-I-0047-F02_Agreement_Fire Service": {
+    "category": "Agreement",
+    "tags": ["Agreement (Fire Services)", "Agreement (Access)", "VSC/VIC"],
+    "notes": "Fire service agreement with access and VIC components"
+  }
+}

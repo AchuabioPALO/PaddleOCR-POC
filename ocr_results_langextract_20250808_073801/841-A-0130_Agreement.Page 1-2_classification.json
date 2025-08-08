@@ -1,0 +1,22 @@
+{
+  "category": "Incoming Letter",
+  "tags": [
+    "VSC/VIC",
+    "Agreement (Access)"
+  ],
+  "confidence": 0.45375000000000004,
+  "detailed_tags": [
+    {
+      "tag": "VSC/VIC",
+      "confidence": 0.4,
+      "method": "LangExtract ML+Pattern"
+    },
+    {
+      "tag": "Agreement (Access)",
+      "confidence": 0.35,
+      "method": "LangExtract ML+Pattern"
+    }
+  ],
+  "method": "LangExtract",
+  "classification_notes": "LangExtract ML classification with 2 tags identified"
+}

@@ -1,0 +1,49 @@
+{
+  "category": "Incoming Letter",
+  "tags": [
+    "Agreement (Access)",
+    "VSC/VIC"
+  ],
+  "confidence": 0.20075757575757572,
+  "keywords_found": [
+    "premises",
+    "electrical installation",
+    "building",
+    "to hongkong electric (partial)",
+    "to hk electric (partial)",
+    "agreement",
+    "supply",
+    "installation",
+    "ld ref (partial)",
+    "vic",
+    "from government (partial)",
+    "electrical supply (partial)",
+    "entry",
+    "government",
+    "consultant"
+  ],
+  "detailed_tags": [
+    {
+      "tag": "Agreement (Access)",
+      "confidence": 0.4525,
+      "keywords_found": [
+        "agreement",
+        "entry",
+        "supply",
+        "installation",
+        "electrical supply (partial)",
+        "electrical installation",
+        "building",
+        "premises"
+      ]
+    },
+    {
+      "tag": "VSC/VIC",
+      "confidence": 0.21428571428571427,
+      "keywords_found": [
+        "vic"
+      ]
+    }
+  ],
+  "classification_notes": "Classified using 15 keyword matches"
+}

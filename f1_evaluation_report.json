@@ -1,70 +1,174 @@
 {
   "overall_statistics": {
-    "total_files": 4,
+    "total_files": 12,
     "word_level_stats": {
-      "mean_f1": 0.7823625555924558,
-      "std_f1": 0.06278461917005558,
-      "min_f1": 0.688715953307393,
-      "max_f1": 0.8534201954397395
+      "mean_f1": 0.015702099612714286,
+      "std_f1": 0.005187495647227393,
+      "min_f1": 0.007352941176470588,
+      "max_f1": 0.02469135802469136
     },
     "character_level_stats": {
-      "mean_f1": 0.979824326439375,
-      "std_f1": 0.007223103117524656,
-      "min_f1": 0.9714285714285714,
-      "max_f1": 0.9876543209876543
+      "mean_f1": 0.48887729356652426,
+      "std_f1": 0.07672333107459804,
+      "min_f1": 0.33333333333333337,
+      "max_f1": 0.625
     }
   },
   "individual_results": [
     {
+      "file": "841-A-0008-F02_InspectionXCleaning.Page 1-8_text.txt",
+      "word_level": {
+        "precision": 0.009009009009009009,
+        "recall": 0.4444444444444444,
+        "f1": 0.017660044150110375
+      },
+      "character_level": {
+        "precision": 0.30357142857142855,
+        "recall": 1.0,
+        "f1": 0.4657534246575342
+      }
+    },
+    {
       "file": "841-A-0049_Agreement_text.txt",
       "word_level": {
-        "precision": 0.7512437810945274,
-        "recall": 0.7783505154639175,
-        "f1": 0.7645569620253165
+        "precision": 0.004975124378109453,
+        "recall": 0.1111111111111111,
+        "f1": 0.009523809523809523
       },
       "character_level": {
-        "precision": 1.0,
-        "recall": 0.9491525423728814,
-        "f1": 0.9739130434782608
+        "precision": 0.2857142857142857,
+        "recall": 1.0,
+        "f1": 0.4444444444444445
       }
     },
     {
-      "file": "841-A-0139-F01_Agreement.Page 2-2_text.txt",
+      "file": "841-A-0010_Letter.Page 1-1_text.txt",
       "word_level": {
-        "precision": 0.9776119402985075,
-        "recall": 0.7572254335260116,
-        "f1": 0.8534201954397395
+        "precision": 0.008064516129032258,
+        "recall": 0.16666666666666666,
+        "f1": 0.015384615384615385
       },
       "character_level": {
-        "precision": 1.0,
-        "recall": 0.9444444444444444,
-        "f1": 0.9714285714285714
+        "precision": 0.3888888888888889,
+        "recall": 1.0,
+        "f1": 0.56
       }
     },
     {
-      "file": "841-A-0130_Agreement.Page 1-2_text.txt",
+      "file": "841-A-0032-Letter 19761029_Agreement.Page 1-1_text.txt",
       "word_level": {
-        "precision": 0.9215686274509803,
-        "recall": 0.7430830039525692,
-        "f1": 0.8227571115973742
+        "precision": 0.013333333333333334,
+        "recall": 0.16666666666666666,
+        "f1": 0.02469135802469136
       },
       "character_level": {
-        "precision": 1.0,
-        "recall": 0.972972972972973,
-        "f1": 0.9863013698630138
+        "precision": 0.45454545454545453,
+        "recall": 1.0,
+        "f1": 0.625
       }
     },
     {
-      "file": "841-A-0032-Letter 19761029_Agreement_text.txt",
+      "file": "841-A-0320_InspectionXCleaning.Page 1-8_text.txt",
       "word_level": {
-        "precision": 0.6040955631399317,
-        "recall": 0.8009049773755657,
-        "f1": 0.688715953307393
+        "precision": 0.009708737864077669,
+        "recall": 0.4444444444444444,
+        "f1": 0.019002375296912115
       },
       "character_level": {
-        "precision": 1.0,
-        "recall": 0.975609756097561,
-        "f1": 0.9876543209876543
+        "precision": 0.29310344827586204,
+        "recall": 1.0,
+        "f1": 0.4533333333333333
+      }
+    },
+    {
+      "file": "841-A-0207-F02_Cleaning.Page 1-7_text.txt",
+      "word_level": {
+        "precision": 0.00909090909090909,
+        "recall": 0.4444444444444444,
+        "f1": 0.017817371937639197
+      },
+      "character_level": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5
+      }
+    },
+    {
+      "file": "841-C-0555-Letter P.17-24_Letter.Page 1-2_text.txt",
+      "word_level": {
+        "precision": 0.003745318352059925,
+        "recall": 0.2,
+        "f1": 0.007352941176470588
+      },
+      "character_level": {
+        "precision": 0.4,
+        "recall": 1.0,
+        "f1": 0.5714285714285715
+      }
+    },
+    {
+      "file": "841-C-0004-F01_Letter_text.txt",
+      "word_level": {
+        "precision": 0.005319148936170213,
+        "recall": 0.125,
+        "f1": 0.01020408163265306
+      },
+      "character_level": {
+        "precision": 0.2537313432835821,
+        "recall": 1.0,
+        "f1": 0.40476190476190477
+      }
+    },
+    {
+      "file": "841-A-0228_InspectionXCleaning.Page 1-8_text.txt",
+      "word_level": {
+        "precision": 0.0091324200913242,
+        "recall": 0.4444444444444444,
+        "f1": 0.017897091722595078
+      },
+      "character_level": {
+        "precision": 0.3148148148148148,
+        "recall": 1.0,
+        "f1": 0.4788732394366197
+      }
+    },
+    {
+      "file": "841-A-0010_Agreement_text.txt",
+      "word_level": {
+        "precision": 0.005,
+        "recall": 0.2222222222222222,
+        "f1": 0.009779951100244499
+      },
+      "character_level": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f1": 0.33333333333333337
+      }
+    },
+    {
+      "file": "841-A-0363-F02_Cleaning.Page 1-7_text.txt",
+      "word_level": {
+        "precision": 0.008602150537634409,
+        "recall": 0.36363636363636365,
+        "f1": 0.01680672268907563
+      },
+      "character_level": {
+        "precision": 0.3090909090909091,
+        "recall": 1.0,
+        "f1": 0.4722222222222222
+      }
+    },
+    {
+      "file": "841-A-0123_Cleaning_text.txt",
+      "word_level": {
+        "precision": 0.011494252873563218,
+        "recall": 0.375,
+        "f1": 0.022304832713754646
+      },
+      "character_level": {
+        "precision": 0.38636363636363635,
+        "recall": 1.0,
+        "f1": 0.5573770491803279
       }
     }
   ]

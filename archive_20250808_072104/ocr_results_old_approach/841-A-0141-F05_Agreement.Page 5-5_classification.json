@@ -1,0 +1,46 @@
+{
+  "category": "Incoming Letter",
+  "tags": [
+    "Agreement (Access)",
+    "VSC/VIC",
+    "Agreement (Fire Services)"
+  ],
+  "confidence": 0.16287878787878787,
+  "keywords_found": [
+    "contractor",
+    "building",
+    "to hongkong electric (partial)",
+    "to hk electric (partial)",
+    "agreement",
+    "ld ref (partial)",
+    "vic",
+    "fire services agreement (partial)",
+    "transformer room"
+  ],
+  "detailed_tags": [
+    {
+      "tag": "Agreement (Access)",
+      "confidence": 0.19,
+      "keywords_found": [
+        "agreement",
+        "transformer room",
+        "building"
+      ]
+    },
+    {
+      "tag": "VSC/VIC",
+      "confidence": 0.14285714285714285,
+      "keywords_found": [
+        "vic"
+      ]
+    },
+    {
+      "tag": "Agreement (Fire Services)",
+      "confidence": 0.13541666666666666,
+      "keywords_found": [
+        "fire services agreement (partial)"
+      ]
+    }
+  ],
+  "classification_notes": "Classified using 9 keyword matches"
+}

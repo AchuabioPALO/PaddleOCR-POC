@@ -1,0 +1,615 @@
+{
+  "filename": "841-A-0177_Agreement.Page 2-2.pdf",
+  "processing_info": {
+    "pages_processed": 1,
+    "language_mode": "en",
+    "total_text_lines": 24
+  },
+  "ocr_results": [
+    {
+      "page": 1,
+      "en_results": [
+        {
+          "text": "T.&D.Division",
+          "confidence": 0.9703197479248047,
+          "bbox": [
+            [
+              591,
+              34
+            ],
+            [
+              794,
+              23
+            ],
+            [
+              796,
+              54
+            ],
+            [
+              593,
+              65
+            ]
+          ]
+        },
+        {
+          "text": "Our Ref.T&D/841/A/1077",
+          "confidence": 0.9466907978057861,
+          "bbox": [
+            [
+              154,
+              186
+            ],
+            [
+              512,
+              203
+            ],
+            [
+              511,
+              231
+            ],
+            [
+              153,
+              214
+            ]
+          ]
+        },
+        {
+          "text": "24th September 1982",
+          "confidence": 0.9614649415016174,
+          "bbox": [
+            [
+              794,
+              235
+            ],
+            [
+              1087,
+              250
+            ],
+            [
+              1085,
+              277
+            ],
+            [
+              793,
+              262
+            ]
+          ]
+        },
+        {
+          "text": "Messrs. SLN And Associates,",
+          "confidence": 0.9199932217597961,
+          "bbox": [
+            [
+              152,
+              274
+            ],
+            [
+              569,
+              289
+            ],
+            [
+              568,
+              319
+            ],
+            [
+              151,
+              304
+            ]
+          ]
+        },
+        {
+          "text": "Room 602,Double Building,",
+          "confidence": 0.9446378946304321,
+          "bbox": [
+            [
+              152,
+              303
+            ],
+            [
+              551,
+              317
+            ],
+            [
+              550,
+              348
+            ],
+            [
+              151,
+              334
+            ]
+          ]
+        },
+        {
+          "text": "No.22 Stanley Street,",
+          "confidence": 0.9522210359573364,
+          "bbox": [
+            [
+              151,
+              337
+            ],
+            [
+              489,
+              344
+            ],
+            [
+              488,
+              371
+            ],
+            [
+              150,
+              364
+            ]
+          ]
+        },
+        {
+          "text": "Hong Kong.",
+          "confidence": 0.981886088848114,
+          "bbox": [
+            [
+              151,
+              367
+            ],
+            [
+              303,
+              370
+            ],
+            [
+              303,
+              398
+            ],
+            [
+              150,
+              395
+            ]
+          ]
+        },
+        {
+          "text": "Dear Sir,",
+          "confidence": 0.9438832402229309,
+          "bbox": [
+            [
+              152,
+              498
+            ],
+            [
+              289,
+              498
+            ],
+            [
+              289,
+              529
+            ],
+            [
+              152,
+              529
+            ]
+          ]
+        },
+        {
+          "text": "Transformer Room on",
+          "confidence": 0.9530478119850159,
+          "bbox": [
+            [
+              397,
+              552
+            ],
+            [
+              694,
+              567
+            ],
+            [
+              692,
+              595
+            ],
+            [
+              396,
+              580
+            ]
+          ]
+        },
+        {
+          "text": "R.B.L.853,Brick Hil1",
+          "confidence": 0.9216800928115845,
+          "bbox": [
+            [
+              395,
+              581
+            ],
+            [
+              739,
+              597
+            ],
+            [
+              738,
+              627
+            ],
+            [
+              394,
+              611
+            ]
+          ]
+        },
+        {
+          "text": "Deep Water Bay, H.K.",
+          "confidence": 0.9677221179008484,
+          "bbox": [
+            [
+              396,
+              611
+            ],
+            [
+              705,
+              625
+            ],
+            [
+              703,
+              656
+            ],
+            [
+              395,
+              642
+            ]
+          ]
+        },
+        {
+          "text": "We refer to your letter of 1oth September 1982.",
+          "confidence": 0.9563331604003906,
+          "bbox": [
+            [
+              299,
+              695
+            ],
+            [
+              1031,
+              720
+            ],
+            [
+              1030,
+              753
+            ],
+            [
+              298,
+              728
+            ]
+          ]
+        },
+        {
+          "text": "In view of the fact that the transformer room is",
+          "confidence": 0.9696876406669617,
+          "bbox": [
+            [
+              300,
+              753
+            ],
+            [
+              1048,
+              776
+            ],
+            [
+              1047,
+              810
+            ],
+            [
+              299,
+              788
+            ]
+          ]
+        },
+        {
+          "text": "a free standing structure, we accept your proposals of",
+          "confidence": 0.9679039120674133,
+          "bbox": [
+            [
+              147,
+              781
+            ],
+            [
+              990,
+              802
+            ],
+            [
+              989,
+              839
+            ],
+            [
+              146,
+              818
+            ]
+          ]
+        },
+        {
+          "text": "installing a portable fire fighting system in lieu of a fixed",
+          "confidence": 0.9632603526115417,
+          "bbox": [
+            [
+              148,
+              812
+            ],
+            [
+              1076,
+              832
+            ],
+            [
+              1076,
+              867
+            ],
+            [
+              147,
+              847
+            ]
+          ]
+        },
+        {
+          "text": "fire fighting system in the transformer room.",
+          "confidence": 0.9679743647575378,
+          "bbox": [
+            [
+              149,
+              844
+            ],
+            [
+              842,
+              858
+            ],
+            [
+              841,
+              888
+            ],
+            [
+              148,
+              874
+            ]
+          ]
+        },
+        {
+          "text": "Yours faithfully,",
+          "confidence": 0.9866923093795776,
+          "bbox": [
+            [
+              604,
+              1057
+            ],
+            [
+              866,
+              1061
+            ],
+            [
+              865,
+              1092
+            ],
+            [
+              603,
+              1088
+            ]
+          ]
+        },
+        {
+          "text": "THE HONGKONG ELECTRIC CO.,LTD.",
+          "confidence": 0.9547552466392517,
+          "bbox": [
+            [
+              496,
+              1086
+            ],
+            [
+              975,
+              1093
+            ],
+            [
+              975,
+              1121
+            ],
+            [
+              496,
+              1115
+            ]
+          ]
+        },
+        {
+          "text": "A",
+          "confidence": 0.20240764319896698,
+          "bbox": [
+            [
+              718,
+              1192
+            ],
+            [
+              757,
+              1192
+            ],
+            [
+              757,
+              1222
+            ],
+            [
+              718,
+              1222
+            ]
+          ]
+        },
+        {
+          "text": "C.",
+          "confidence": 0.7750239372253418,
+          "bbox": [
+            [
+              666,
+              1259
+            ],
+            [
+              710,
+              1259
+            ],
+            [
+              710,
+              1281
+            ],
+            [
+              666,
+              1281
+            ]
+          ]
+        },
+        {
+          "text": "Turner",
+          "confidence": 0.9925251007080078,
+          "bbox": [
+            [
+              705,
+              1257
+            ],
+            [
+              807,
+              1257
+            ],
+            [
+              807,
+              1282
+            ],
+            [
+              705,
+              1282
+            ]
+          ]
+        },
+        {
+          "text": "ASSISTANT CHIEF ENGINEER (PLANNING)",
+          "confidence": 0.9367523193359375,
+          "bbox": [
+            [
+              493,
+              1285
+            ],
+            [
+              1034,
+              1283
+            ],
+            [
+              1034,
+              1310
+            ],
+            [
+              493,
+              1312
+            ]
+          ]
+        },
+        {
+          "text": "FUC:GY",
+          "confidence": 0.7796747088432312,
+          "bbox": [
+            [
+              132,
+              1358
+            ],
+            [
+              237,
+              1356
+            ],
+            [
+              238,
+              1396
+            ],
+            [
+              133,
+              1399
+            ]
+          ]
+        },
+        {
+          "text": "C.C.Float File",
+          "confidence": 0.9088101387023926,
+          "bbox": [
+            [
+              139,
+              1550
+            ],
+            [
+              371,
+              1567
+            ],
+            [
+              369,
+              1595
+            ],
+            [
+              136,
+              1578
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_text": [
+    "T.&D.Division",
+    "Our Ref.T&D/841/A/1077",
+    "24th September 1982",
+    "Messrs. SLN And Associates,",
+    "Room 602,Double Building,",
+    "No.22 Stanley Street,",
+    "Hong Kong.",
+    "Dear Sir,",
+    "Transformer Room on",
+    "R.B.L.853,Brick Hil1",
+    "Deep Water Bay, H.K.",
+    "We refer to your letter of 1oth September 1982.",
+    "In view of the fact that the transformer room is",
+    "a free standing structure, we accept your proposals of",
+    "installing a portable fire fighting system in lieu of a fixed",
+    "fire fighting system in the transformer room.",
+    "Yours faithfully,",
+    "THE HONGKONG ELECTRIC CO.,LTD.",
+    "A",
+    "C.",
+    "Turner",
+    "ASSISTANT CHIEF ENGINEER (PLANNING)",
+    "FUC:GY",
+    "C.C.Float File"
+  ],
+  "classification": {
+    "category": "Outgoing Letter",
+    "tags": [
+      "Agreement (Fire Services)",
+      "Agreement (Access)",
+      "Defect (Fire Services)"
+    ],
+    "confidence": 0.24722222222222223,
+    "keywords_found": [
+      "our ref",
+      "file no (partial)",
+      "building",
+      "agreement",
+      "file ref (partial)",
+      "fire services agreement (partial)",
+      "fire agreement (partial)",
+      "fire system (partial)",
+      "transformer room"
+    ],
+    "detailed_tags": [
+      {
+        "tag": "Agreement (Fire Services)",
+        "confidence": 0.26041666666666663,
+        "keywords_found": [
+          "fire agreement (partial)",
+          "fire services agreement (partial)",
+          "fire system (partial)"
+        ]
+      },
+      {
+        "tag": "Agreement (Access)",
+        "confidence": 0.19,
+        "keywords_found": [
+          "agreement",
+          "transformer room",
+          "building"
+        ]
+      },
+      {
+        "tag": "Defect (Fire Services)",
+        "confidence": 0.12499999999999999,
+        "keywords_found": []
+      }
+    ],
+    "classification_notes": "Classified using 9 keyword matches"
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "demo_timestamp": "2024-10-20",
+  "classification_results": [
+    {
+      "category": "Unknown",
+      "tags": [
+        "Agreement (Access)",
+        "Agreement (Fire Services)",
+        "Agreement (Ventilation)"
+      ],
+      "confidence": 0.0,
+      "keywords_found": [
+        "access authorization",
+        "agreement",
+        "fire agreement (partial)",
+        "fire services",
+        "fire services agreement (partial)",
+        "access agreement",
+        "ventilation services (partial)",
+        "ventilation",
+        "ventilation agreement (partial)",
+        "access"
+      ],
+      "detailed_tags": [
+        {
+          "tag": "Agreement (Access)",
+          "confidence": 0.5388888888888889,
+          "keywords_found": [
+            "agreement",
+            "access agreement",
+            "access",
+            "access authorization"
+          ]
+        },
+        {
+          "tag": "Agreement (Fire Services)",
+          "confidence": 0.39999999999999997,
+          "keywords_found": [
+            "fire services",
+            "fire agreement (partial)",
+            "fire services agreement (partial)"
+          ]
+        },
+        {
+          "tag": "Agreement (Ventilation)",
+          "confidence": 0.2857142857142857,
+          "keywords_found": [
+            "ventilation",
+            "ventilation agreement (partial)",
+            "ventilation services (partial)"
+          ]
+        }
+      ],
+      "classification_notes": "Classified using 10 keyword matches"
+    },
+    {
+      "category": "Maintenance Record",
+      "tags": [
+        "Agreement (Fire Services)",
+        "Agreement (Ventilation)",
+        "VSC/VIC"
+      ],
+      "confidence": 0.41363636363636364,
+      "keywords_found": [
+        "maintenance report (partial)",
+        "vic",
+        "maintenance",
+        "fire services agreement (partial)",
+        "fire services",
+        "maintenance record",
+        "ventilation",
+        "service",
+        "ventilation services (partial)",
+        "service record (partial)"
+      ],
+      "detailed_tags": [
+        {
+          "tag": "Agreement (Fire Services)",
+          "confidence": 0.3404761904761905,
+          "keywords_found": [
+            "fire services",
+            "fire services agreement (partial)"
+          ]
+        },
+        {
+          "tag": "Agreement (Ventilation)",
+          "confidence": 0.25,
+          "keywords_found": [
+            "ventilation",
+            "ventilation services (partial)"
+          ]
+        },
+        {
+          "tag": "VSC/VIC",
+          "confidence": 0.21428571428571427,
+          "keywords_found": [
+            "vic"
+          ]
+        }
+      ],
+      "classification_notes": "Classified using 10 keyword matches"
+    },
+    {
+      "category": "Unknown",
+      "tags": [
+        "Defect (Civil)",
+        "Defect (Access)"
+      ],
+      "confidence": 0.0,
+      "keywords_found": [
+        "access defect (partial)",
+        "civil defect",
+        "structural defect (partial)",
+        "defect"
+      ],
+      "detailed_tags": [
+        {
+          "tag": "Defect (Civil)",
+          "confidence": 0.3833333333333333,
+          "keywords_found": [
+            "civil defect",
+            "structural defect (partial)"
+          ]
+        },
+        {
+          "tag": "Defect (Access)",
+          "confidence": 0.32142857142857145,
+          "keywords_found": [
+            "defect",
+            "access defect (partial)"
+          ]
+        }
+      ],
+      "classification_notes": "Classified using 4 keyword matches"
+    },
+    {
+      "category": "Commissioning Record",
+      "tags": [
+        "Agreement (Ventilation)"
+      ],
+      "confidence": 0.505,
+      "keywords_found": [
+        "commission",
+        "initial test (partial)",
+        "hvac",
+        "startup",
+        "commissioning",
+        "ventilation",
+        "commissioning record"
+      ],
+      "detailed_tags": [
+        {
+          "tag": "Agreement (Ventilation)",
+          "confidence": 0.35714285714285715,
+          "keywords_found": [
+            "ventilation",
+            "hvac"
+          ]
+        }
+      ],
+      "classification_notes": "Classified using 7 keyword matches"
+    },
+    {
+      "category": "Cleaning",
+      "tags": [
+        "Agreement (Ventilation)"
+      ],
+      "confidence": 0.3333333333333333,
+      "keywords_found": [
+        "cleaning report (partial)",
+        "cleaning",
+        "clean",
+        "cleaning record (partial)",
+        "ventilation"
+      ],
+      "detailed_tags": [
+        {
+          "tag": "Agreement (Ventilation)",
+          "confidence": 0.21428571428571427,
+          "keywords_found": [
+            "ventilation"
+          ]
+        }
+      ],
+      "classification_notes": "Classified using 5 keyword matches"
+    },
+    {
+      "category": "Slope Work",
+      "tags": [],
+      "confidence": 0.43571428571428567,
+      "keywords_found": [
+        "slope maintenance (partial)",
+        "slope work",
+        "slope"
+      ],
+      "detailed_tags": [],
+      "classification_notes": "Classified using 3 keyword matches"
+    }
+  ],
+  "summary_statistics": {
+    "total_documents": 6,
+    "category_distribution": {
+      "Unknown": 2,
+      "Maintenance Record": 1,
+      "Commissioning Record": 1,
+      "Cleaning": 1,
+      "Slope Work": 1
+    },
+    "tag_distribution": {
+      "Agreement (Access)": 1,
+      "Agreement (Fire Services)": 2,
+      "Agreement (Ventilation)": 4,
+      "VSC/VIC": 1,
+      "Defect (Civil)": 1,
+      "Defect (Access)": 1
+    },
+    "average_confidence": 0.2812806637806638,
+    "high_confidence_docs": 0,
+    "medium_confidence_docs": 4,
+    "low_confidence_docs": 2
+  }
+}

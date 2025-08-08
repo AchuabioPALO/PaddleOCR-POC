@@ -1,0 +1,28 @@
+{
+  "category": "Outgoing Letter",
+  "tags": [
+    "Agreement (Access)"
+  ],
+  "confidence": 0.15277777777777776,
+  "keywords_found": [
+    "supply",
+    "building",
+    "from hk electric (partial)",
+    "transformer room",
+    "our ref (partial)",
+    "electrical supply (partial)"
+  ],
+  "detailed_tags": [
+    {
+      "tag": "Agreement (Access)",
+      "confidence": 0.24,
+      "keywords_found": [
+        "transformer room",
+        "supply",
+        "electrical supply (partial)",
+        "building"
+      ]
+    }
+  ],
+  "classification_notes": "Classified using 6 keyword matches"
+}

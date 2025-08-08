@@ -1,0 +1,861 @@
+{
+  "filename": "841-A-0010_Letter.Page 1-1.pdf",
+  "processing_info": {
+    "pages_processed": 1,
+    "language_mode": "en",
+    "total_text_lines": 36
+  },
+  "ocr_results": [
+    {
+      "page": 1,
+      "en_results": [
+        {
+          "text": "T&D/841/01/0010",
+          "confidence": 0.9743037819862366,
+          "bbox": [
+            [
+              211,
+              246
+            ],
+            [
+              432,
+              256
+            ],
+            [
+              431,
+              281
+            ],
+            [
+              210,
+              272
+            ]
+          ]
+        },
+        {
+          "text": "15th February 1974",
+          "confidence": 0.9378640651702881,
+          "bbox": [
+            [
+              742,
+              310
+            ],
+            [
+              997,
+              325
+            ],
+            [
+              996,
+              353
+            ],
+            [
+              740,
+              338
+            ]
+          ]
+        },
+        {
+          "text": "Mr.Peter P.Sze,",
+          "confidence": 0.9637191295623779,
+          "bbox": [
+            [
+              204,
+              363
+            ],
+            [
+              453,
+              370
+            ],
+            [
+              452,
+              393
+            ],
+            [
+              203,
+              387
+            ]
+          ]
+        },
+        {
+          "text": "607 Man Yee BuiLding,",
+          "confidence": 0.9471722841262817,
+          "bbox": [
+            [
+              204,
+              382
+            ],
+            [
+              509,
+              391
+            ],
+            [
+              508,
+              419
+            ],
+            [
+              203,
+              410
+            ]
+          ]
+        },
+        {
+          "text": "Des Voeux Road,C..",
+          "confidence": 0.912119448184967,
+          "bbox": [
+            [
+              204,
+              409
+            ],
+            [
+              479,
+              413
+            ],
+            [
+              479,
+              437
+            ],
+            [
+              204,
+              433
+            ]
+          ]
+        },
+        {
+          "text": "Hong Kong.",
+          "confidence": 0.9654461145401001,
+          "bbox": [
+            [
+              203,
+              432
+            ],
+            [
+              348,
+              435
+            ],
+            [
+              348,
+              460
+            ],
+            [
+              202,
+              457
+            ]
+          ]
+        },
+        {
+          "text": "Dear Sir,",
+          "confidence": 0.9751659035682678,
+          "bbox": [
+            [
+              202,
+              497
+            ],
+            [
+              331,
+              500
+            ],
+            [
+              331,
+              526
+            ],
+            [
+              201,
+              524
+            ]
+          ]
+        },
+        {
+          "text": "S.I.L.739 Ah Kung Ngam",
+          "confidence": 0.9464361071586609,
+          "bbox": [
+            [
+              448,
+              546
+            ],
+            [
+              767,
+              556
+            ],
+            [
+              766,
+              583
+            ],
+            [
+              447,
+              573
+            ]
+          ]
+        },
+        {
+          "text": "Thank you for your letter dated 2gth January",
+          "confidence": 0.9359065890312195,
+          "bbox": [
+            [
+              376,
+              613
+            ],
+            [
+              1005,
+              633
+            ],
+            [
+              1004,
+              660
+            ],
+            [
+              375,
+              640
+            ]
+          ]
+        },
+        {
+          "text": "1974 enclosing a copy of your drawing No.1.",
+          "confidence": 0.9678503274917603,
+          "bbox": [
+            [
+              202,
+              635
+            ],
+            [
+              820,
+              650
+            ],
+            [
+              819,
+              676
+            ],
+            [
+              201,
+              662
+            ]
+          ]
+        },
+        {
+          "text": "It would not seem practical to Locate the",
+          "confidence": 0.9605482816696167,
+          "bbox": [
+            [
+              373,
+              684
+            ],
+            [
+              963,
+              699
+            ],
+            [
+              962,
+              726
+            ],
+            [
+              372,
+              711
+            ]
+          ]
+        },
+        {
+          "text": "transformer room as shown on your drawing, if,at a Later",
+          "confidence": 0.9544388651847839,
+          "bbox": [
+            [
+              199,
+              706
+            ],
+            [
+              1018,
+              723
+            ],
+            [
+              1018,
+              750
+            ],
+            [
+              198,
+              733
+            ]
+          ]
+        },
+        {
+          "text": "date it has to be resited due to new road building.",
+          "confidence": 0.9698911309242249,
+          "bbox": [
+            [
+              198,
+              727
+            ],
+            [
+              931,
+              743
+            ],
+            [
+              930,
+              773
+            ],
+            [
+              197,
+              756
+            ]
+          ]
+        },
+        {
+          "text": "We would also refer to our letter and drawing",
+          "confidence": 0.9675544500350952,
+          "bbox": [
+            [
+              370,
+              776
+            ],
+            [
+              1016,
+              791
+            ],
+            [
+              1016,
+              817
+            ],
+            [
+              369,
+              803
+            ]
+          ]
+        },
+        {
+          "text": "of 27th April 1970 giving details of minimum physical",
+          "confidence": 0.9503363370895386,
+          "bbox": [
+            [
+              196,
+              795
+            ],
+            [
+              957,
+              810
+            ],
+            [
+              956,
+              841
+            ],
+            [
+              195,
+              826
+            ]
+          ]
+        },
+        {
+          "text": "dimensions.",
+          "confidence": 0.9964364767074585,
+          "bbox": [
+            [
+              195,
+              822
+            ],
+            [
+              354,
+              824
+            ],
+            [
+              354,
+              849
+            ],
+            [
+              195,
+              847
+            ]
+          ]
+        },
+        {
+          "text": "To enable us to programme our future work and",
+          "confidence": 0.978632926940918,
+          "bbox": [
+            [
+              366,
+              869
+            ],
+            [
+              1014,
+              881
+            ],
+            [
+              1014,
+              909
+            ],
+            [
+              365,
+              896
+            ]
+          ]
+        },
+        {
+          "text": "to ensure that supply dates will be met we would appreciate",
+          "confidence": 0.9717136025428772,
+          "bbox": [
+            [
+              193,
+              890
+            ],
+            [
+              1042,
+              901
+            ],
+            [
+              1042,
+              930
+            ],
+            [
+              193,
+              919
+            ]
+          ]
+        },
+        {
+          "text": "receiving from you at your earliest convenience the",
+          "confidence": 0.9664813280105591,
+          "bbox": [
+            [
+              195,
+              913
+            ],
+            [
+              928,
+              925
+            ],
+            [
+              927,
+              951
+            ],
+            [
+              195,
+              940
+            ]
+          ]
+        },
+        {
+          "text": "following information:",
+          "confidence": 0.9772222638130188,
+          "bbox": [
+            [
+              195,
+              935
+            ],
+            [
+              508,
+              940
+            ],
+            [
+              508,
+              967
+            ],
+            [
+              195,
+              962
+            ]
+          ]
+        },
+        {
+          "text": "1)",
+          "confidence": 0.786710262298584,
+          "bbox": [
+            [
+              308,
+              984
+            ],
+            [
+              342,
+              984
+            ],
+            [
+              342,
+              1009
+            ],
+            [
+              308,
+              1009
+            ]
+          ]
+        },
+        {
+          "text": "Details regarding the electrical load that it",
+          "confidence": 0.9613024592399597,
+          "bbox": [
+            [
+              362,
+              983
+            ],
+            [
+              1012,
+              992
+            ],
+            [
+              1012,
+              1022
+            ],
+            [
+              362,
+              1013
+            ]
+          ]
+        },
+        {
+          "text": "is proposed to install in the building, with",
+          "confidence": 0.9495477080345154,
+          "bbox": [
+            [
+              364,
+              1008
+            ],
+            [
+              997,
+              1015
+            ],
+            [
+              997,
+              1042
+            ],
+            [
+              364,
+              1035
+            ]
+          ]
+        },
+        {
+          "text": "a note on any proposed special types of electrical",
+          "confidence": 0.9690881371498108,
+          "bbox": [
+            [
+              364,
+              1031
+            ],
+            [
+              1077,
+              1039
+            ],
+            [
+              1077,
+              1066
+            ],
+            [
+              364,
+              1057
+            ]
+          ]
+        },
+        {
+          "text": "Loads.",
+          "confidence": 0.9399850964546204,
+          "bbox": [
+            [
+              363,
+              1052
+            ],
+            [
+              451,
+              1055
+            ],
+            [
+              450,
+              1080
+            ],
+            [
+              362,
+              1077
+            ]
+          ]
+        },
+        {
+          "text": "2）",
+          "confidence": 0.7548670768737793,
+          "bbox": [
+            [
+              306,
+              1098
+            ],
+            [
+              340,
+              1098
+            ],
+            [
+              340,
+              1123
+            ],
+            [
+              306,
+              1123
+            ]
+          ]
+        },
+        {
+          "text": "Estimated date of completion of the building.",
+          "confidence": 0.9717501997947693,
+          "bbox": [
+            [
+              364,
+              1098
+            ],
+            [
+              1007,
+              1106
+            ],
+            [
+              1007,
+              1133
+            ],
+            [
+              364,
+              1125
+            ]
+          ]
+        },
+        {
+          "text": "3)",
+          "confidence": 0.815899133682251,
+          "bbox": [
+            [
+              303,
+              1143
+            ],
+            [
+              339,
+              1143
+            ],
+            [
+              339,
+              1168
+            ],
+            [
+              303,
+              1168
+            ]
+          ]
+        },
+        {
+          "text": "Approximate date by which supply is required.",
+          "confidence": 0.9719029068946838,
+          "bbox": [
+            [
+              361,
+              1143
+            ],
+            [
+              1007,
+              1151
+            ],
+            [
+              1007,
+              1178
+            ],
+            [
+              361,
+              1170
+            ]
+          ]
+        },
+        {
+          "text": "Yours faithfully.",
+          "confidence": 0.938949704170227,
+          "bbox": [
+            [
+              628,
+              1213
+            ],
+            [
+              873,
+              1218
+            ],
+            [
+              873,
+              1243
+            ],
+            [
+              628,
+              1238
+            ]
+          ]
+        },
+        {
+          "text": "THE HONGKONG ELECTRIC CO.. LTD..",
+          "confidence": 0.9241594076156616,
+          "bbox": [
+            [
+              516,
+              1235
+            ],
+            [
+              975,
+              1242
+            ],
+            [
+              974,
+              1266
+            ],
+            [
+              516,
+              1259
+            ]
+          ]
+        },
+        {
+          "text": "D.",
+          "confidence": 0.8364453315734863,
+          "bbox": [
+            [
+              720,
+              1288
+            ],
+            [
+              792,
+              1288
+            ],
+            [
+              792,
+              1330
+            ],
+            [
+              720,
+              1330
+            ]
+          ]
+        },
+        {
+          "text": "R.M.Duffield",
+          "confidence": 0.97903972864151,
+          "bbox": [
+            [
+              654,
+              1338
+            ],
+            [
+              848,
+              1343
+            ],
+            [
+              848,
+              1367
+            ],
+            [
+              654,
+              1363
+            ]
+          ]
+        },
+        {
+          "text": "PLANNING ENGINEER",
+          "confidence": 0.9789778590202332,
+          "bbox": [
+            [
+              624,
+              1360
+            ],
+            [
+              875,
+              1367
+            ],
+            [
+              875,
+              1391
+            ],
+            [
+              623,
+              1384
+            ]
+          ]
+        },
+        {
+          "text": "RMD:HL",
+          "confidence": 0.9698667526245117,
+          "bbox": [
+            [
+              187,
+              1395
+            ],
+            [
+              280,
+              1398
+            ],
+            [
+              279,
+              1422
+            ],
+            [
+              186,
+              1419
+            ]
+          ]
+        },
+        {
+          "text": "Copy to: T.& D.Manager (2)",
+          "confidence": 0.8505986928939819,
+          "bbox": [
+            [
+              187,
+              1416
+            ],
+            [
+              584,
+              1423
+            ],
+            [
+              583,
+              1450
+            ],
+            [
+              187,
+              1443
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_text": [
+    "T&D/841/01/0010",
+    "15th February 1974",
+    "Mr.Peter P.Sze,",
+    "607 Man Yee BuiLding,",
+    "Des Voeux Road,C..",
+    "Hong Kong.",
+    "Dear Sir,",
+    "S.I.L.739 Ah Kung Ngam",
+    "Thank you for your letter dated 2gth January",
+    "1974 enclosing a copy of your drawing No.1.",
+    "It would not seem practical to Locate the",
+    "transformer room as shown on your drawing, if,at a Later",
+    "date it has to be resited due to new road building.",
+    "We would also refer to our letter and drawing",
+    "of 27th April 1970 giving details of minimum physical",
+    "dimensions.",
+    "To enable us to programme our future work and",
+    "to ensure that supply dates will be met we would appreciate",
+    "receiving from you at your earliest convenience the",
+    "following information:",
+    "1)",
+    "Details regarding the electrical load that it",
+    "is proposed to install in the building, with",
+    "a note on any proposed special types of electrical",
+    "Loads.",
+    "2）",
+    "Estimated date of completion of the building.",
+    "3)",
+    "Approximate date by which supply is required.",
+    "Yours faithfully.",
+    "THE HONGKONG ELECTRIC CO.. LTD..",
+    "D.",
+    "R.M.Duffield",
+    "PLANNING ENGINEER",
+    "RMD:HL",
+    "Copy to: T.& D.Manager (2)"
+  ],
+  "classification": {
+    "category": "Outgoing Letter",
+    "tags": [
+      "Agreement (Access)"
+    ],
+    "confidence": 0.4375,
+    "detailed_tags": [
+      {
+        "tag": "Agreement (Access)",
+        "confidence": 0.3,
+        "method": "LangExtract ML+Pattern"
+      }
+    ],
+    "method": "LangExtract",
+    "classification_notes": "LangExtract ML classification with 1 tags identified"
+  }
+}

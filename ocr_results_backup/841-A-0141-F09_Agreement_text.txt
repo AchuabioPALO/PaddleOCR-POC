@@ -1,0 +1,406 @@
+[EN] bigboXX Agreement
+[CH] bigboXX Agreement
+[EN] ARCHITECTURAL
+[EN] SERVICES DEPARTMENT建築署
+[EN] QUEENSWAY
+[EN] GOVERNMENT
+[EN] OFFICES,66 QUEENSWAY,
+[EN] HONG
+[EN] KONG.
+[EN] 香港金鐘道六十六號金鐘道政府合署
+[EN] FAX852-8690289
+[EN] OurRef.:ASD(BS)3131ES.WK.BS
+[EN] Messrs The Hongkong Electric Co.,Ld.
+[EN] 22 November,1994
+[EN] P.O.Box 915, G.P.O., Hong Kong.
+[EN] (Attn.: Mr.S.L.LOK)
+[EN] Dear Sir,
+[EN] Chief Engineer (D&P）
+[EN] Electrical Supply for Secondary School
+[EN] Abn Bapl Lu Ming Choi
+[EN] (School B) at Lei Tung Estate, Ap Lei Chau
+[EN] college
+[EN] (P.W.P.No.131ES)
+[EN] I wouldlike to confirmthat the AFA system forthetransformerroom has
+[EN] been deleted as explained in the attached minute and the SF alarm has been completed as
+[EN] claimed by our Sub-contractor, Messrs Ryoden Engineering Co. Ltd.
+[EN] The name of the captioned school is Aberdeen Baptist Lui Ming Choi College.
+[EN] For future information,please contact the undersignedon Tel.No.8673668.
+[EN] 054961
+[EN] Yours faithfully,
+[EN] KMo.
+[EN] RECEIVED
+[EN] (H.K.SIU)
+[EN] Nov 24 1219 PH94
+[EN] for Chief Architect/3
+[EN] 28/h
+[EN] Encl.
+[EN] tnkn J
+[EN] PA -Mr.K.S.WU
+[EN] c.C.
+[EN] )w/e
+[EN] PCOW-Mr.K.W.LEE
+[EN] )w/e
+[EN] PBSI-Mr.T.K.HO
+[EN] ) w/e
+[EN] Messrs Ryoden Engineering Co. Ltd.
+[EN] ) w/e
+[EN] 11/F.,Ryoden Industrial Centre
+[EN] DEVELOPMENT&PLANNINGDIVISION
+[EN] Info.
+[EN] Action
+[EN] Initial
+[EN] 26-38 Ta Chuen Ping Street
+[EN] Chief Engineer(D&P
+[EN] 4
+[EN] Secretary
+[EN] Kwai Chung, N.T.
+[EN] (Attn.: Mr.Ken NG)
+[EN] 24
+[EN] NOV1994
+[EN] 25NOV
+[EN] Deputy Chief Engr.(D&P)
+[EN] HKS/
+[EN] ION PLANNING
+[EN] DEPT.
+[EN] Chief HW&SP Engr
+[EN] Chief DP Engr.
+[EN] 1994
+[EN] Chief SWEngr
+[EN] D&P.Flo,No.
+[EN] ACTION
+[EN] INFO.
+[EN] flovrD&PFe
+[EN] Planning Engr
+[EN] st
+[EN] Planning Engr(C)
+[EN] MsC
+[EN] 2
+[EN] Dist.
+[EN] PlanningEngr(W）
+[EN] Dist.Planning Engr(E）
+[EN] N.R.N.
+[EN] Engr.(Mapping Computer）
+[EN] ewingOffice
+[EN] dmin. Office
+[EN] SIGNED:
+[CH] ARCHITECTURAL
+[CH] SERVICES DEPARTMENT建築署
+[CH] QUEENSWAY
+[CH] GOVERNMENT
+[CH] OFFICES,66 QUEENSWAY,
+[CH] HONG
+[CH] KONG.
+[CH] 香港金鐘道六十六號金鐘道政府合署
+[CH] FAX852-8690289
+[CH] OurRef.:ASD(BS)3131ES.WK.BS
+[CH] Messrs The Hongkong Electric Co.,Ld.
+[CH] 22 November,1994
+[CH] P.O.Box 915, G.P.O., Hong Kong.
+[CH] (Attn.: Mr.S.L.LOK)
+[CH] Dear Sir,
+[CH] Chief Engineer (D&P）
+[CH] Electrical Supply for Secondary School
+[CH] Abn Bapl Lu Ming Choi
+[CH] (School B) at Lei Tung Estate, Ap Lei Chau
+[CH] college
+[CH] (P.W.P.No.131ES)
+[CH] I wouldlike to confirmthat the AFA system forthetransformerroom has
+[CH] been deleted as explained in the attached minute and the SF alarm has been completed as
+[CH] claimed by our Sub-contractor, Messrs Ryoden Engineering Co. Ltd.
+[CH] The name of the captioned school is Aberdeen Baptist Lui Ming Choi College.
+[CH] For future information,please contact the undersignedon Tel.No.8673668.
+[CH] 054961
+[CH] Yours faithfully,
+[CH] KMo.
+[CH] RECEIVED
+[CH] (H.K.SIU)
+[CH] Nov 24 1219 PH94
+[CH] for Chief Architect/3
+[CH] 28/h
+[CH] Encl.
+[CH] tnkn J
+[CH] PA -Mr.K.S.WU
+[CH] c.C.
+[CH] )w/e
+[CH] PCOW-Mr.K.W.LEE
+[CH] )w/e
+[CH] PBSI-Mr.T.K.HO
+[CH] ) w/e
+[CH] Messrs Ryoden Engineering Co. Ltd.
+[CH] ) w/e
+[CH] 11/F.,Ryoden Industrial Centre
+[CH] DEVELOPMENT&PLANNINGDIVISION
+[CH] Info.
+[CH] Action
+[CH] Initial
+[CH] 26-38 Ta Chuen Ping Street
+[CH] Chief Engineer(D&P
+[CH] 4
+[CH] Secretary
+[CH] Kwai Chung, N.T.
+[CH] (Attn.: Mr.Ken NG)
+[CH] 24
+[CH] NOV1994
+[CH] 25NOV
+[CH] Deputy Chief Engr.(D&P)
+[CH] HKS/
+[CH] ION PLANNING
+[CH] DEPT.
+[CH] Chief HW&SP Engr
+[CH] Chief DP Engr.
+[CH] 1994
+[CH] Chief SWEngr
+[CH] D&P.Flo,No.
+[CH] ACTION
+[CH] INFO.
+[CH] flovrD&PFe
+[CH] Planning Engr
+[CH] st
+[CH] Planning Engr(C)
+[CH] MsC
+[CH] 2
+[CH] Dist.
+[CH] PlanningEngr(W）
+[CH] Dist.Planning Engr(E）
+[CH] N.R.N.
+[CH] Engr.(Mapping Computer）
+[CH] ewingOffice
+[CH] dmin. Office
+[CH] SIGNED:
+[EN] NoteofMeeting forAdditional F.S.Requirements
+[EN] of Standard Primaryand Secondary Schools
+[EN] Venue :
+[EN] Rm.3832,Queensway Government Offices66 Queensway,Hong Kong
+[EN] Date:
+[EN] 5 January 1994
+[EN] Time:
+[EN] 3:00 p.m.
+[EN] ASD
+[EN] Attendence :
+[EN] Mr.J.Beveridge
+[EN] ASD
+[EN] Mr.K.S.Wu
+[EN] ASD
+[EN] Mr.G.Chakrabarti
+[EN] ASD
+[EN] Mr.P.C.Chan
+[EN] ASD
+[EN] Mr. H.K.Siu
+[EN] FSD
+[EN] Mr. S.L.Kan
+[EN] FSD
+[EN] Mr.Y.W.Ng
+[EN] FSD
+[EN] Mr.W.H.Kwok
+[EN] Mr.H.W.Ng
+[EN] FSD
+[EN] Mr.H.W.Tsui
+[EN] FSD
+[EN] 1.
+[EN] FSD expressed that directtelephone link, AFA system, heat and smoke detctors
+[EN] were no longer required in transformer room and switchrooms. However, the
+[EN] provisionof emergency lighting except in toilets shouldbe added for future standard
+[EN] schools.
+[EN] 2.
+[EN] FSDacceptedthatemergencylightingcouldbeinstalledinthecorridors.
+[EN] 3.
+[EN] "EXIT" signs wouldalso berequired at thestaircaseof eachfloor to indicate the
+[EN] escape route.
+[EN] 4.
+[EN] FSDemphasisedthat sprinkler system for standard schooland portableextinguishers
+[EN] for D.S.Room were not required. Whereas, the Halon ceiling-mounted extinguishers
+[EN] in D.G.Store was stillacceptable.
+[EN] 5.
+[EN] The portable extinguishers would be supplied by FSD and Contractor for the
+[EN] Government schools and subvented schools respectively.
+[EN] 6.
+[EN] The F.S.requirements for special schools would be considered case by case.
+[EN] 7.
+[EN] FSD reminded that the maximum height of schools would be 24 m only andthe
+[EN] minimum distance betweenfireengineandbuilding wouldbe10m.Furthermore,
+[EN] firemen liftmight berequired in future.
+[CH] NoteofMeeting forAdditional F.S.Requirements
+[CH] of Standard Primaryand Secondary Schools
+[CH] Venue :
+[CH] Rm.3832,Queensway Government Offices66 Queensway,Hong Kong
+[CH] Date:
+[CH] 5 January 1994
+[CH] Time:
+[CH] 3:00 p.m.
+[CH] ASD
+[CH] Attendence :
+[CH] Mr.J.Beveridge
+[CH] ASD
+[CH] Mr.K.S.Wu
+[CH] ASD
+[CH] Mr.G.Chakrabarti
+[CH] ASD
+[CH] Mr.P.C.Chan
+[CH] ASD
+[CH] Mr. H.K.Siu
+[CH] FSD
+[CH] Mr. S.L.Kan
+[CH] FSD
+[CH] Mr.Y.W.Ng
+[CH] FSD
+[CH] Mr.W.H.Kwok
+[CH] Mr.H.W.Ng
+[CH] FSD
+[CH] Mr.H.W.Tsui
+[CH] FSD
+[CH] 1.
+[CH] FSD expressed that directtelephone link, AFA system, heat and smoke detctors
+[CH] were no longer required in transformer room and switchrooms. However, the
+[CH] provisionof emergency lighting except in toilets shouldbe added for future standard
+[CH] schools.
+[CH] 2.
+[CH] FSDacceptedthatemergencylightingcouldbeinstalledinthecorridors.
+[CH] 3.
+[CH] "EXIT" signs wouldalso berequired at thestaircaseof eachfloor to indicate the
+[CH] escape route.
+[CH] 4.
+[CH] FSDemphasisedthat sprinkler system for standard schooland portableextinguishers
+[CH] for D.S.Room were not required. Whereas, the Halon ceiling-mounted extinguishers
+[CH] in D.G.Store was stillacceptable.
+[CH] 5.
+[CH] The portable extinguishers would be supplied by FSD and Contractor for the
+[CH] Government schools and subvented schools respectively.
+[CH] 6.
+[CH] The F.S.requirements for special schools would be considered case by case.
+[CH] 7.
+[CH] FSD reminded that the maximum height of schools would be 24 m only andthe
+[CH] minimum distance betweenfireengineandbuilding wouldbe10m.Furthermore,
+[CH] firemen liftmight berequired in future.
+[EN] ARCHITECTURAL SERVICESDEPARTMENT建築署
+[EN] QUEENSWAY GOVERNMENT OFFICES,66 QUEENSWAY,HONG
+[EN] KQNG.香港金鐘道六十六號金鐘道政府合署
+[EN] 398
+[EN] Our Ref.:
+[EN] ASD(BS)3119ES.WK.BS
+[EN] RECEIVED
+[EN] ASD(BS)3131ES.WK.BS
+[EN] Your Ref.:
+[EN] D&P/841/A/0141-024
+[EN] D&P/841/A/0141-025
+[EN] DEC31143A94
+[EN] Messrs The Hongkong Electric Co., Ltd.
+[EN] 29 December, 1994
+[EN] Electric House, 44 Kennedy Road,
+[EN] Hong Kong.
+[EN] (Attn.: Mr. S.L.LOK)
+[EN] Chuef Engineer (D&P)
+[EN] Dear Sir,
+[EN] Electrical Supplyfor Two Secondary
+[EN] Abn Bapt Lii Ming Choi
+[EN] Schools at Lei Tung Estate, Ap Lei Chau
+[EN] College
+[EN] (P.W.P.No.119ES &131ES)
+[EN] Asconfirmed byour Structural Engineer,I would liketo inform you that
+[EN] theaveaeloorloainoftwoansormroomorthecatioedrjciots
+[EN] 20kPa.Forfutureinformationpleasecontacttheundersignedon Tel.No.28676.
+[EN] DEVELOPMENT&PLININGDI
+[EN] Inio.
+[EN] Action
+[EN] Chief Engineer (D&P
+[EN] A
+[EN] Secretary
+[EN] 03JAN1995
+[EN] Yours faithfully,
+[EN] Depuy Chie!
+[EN] HWaSP EnTE.
+[EN] Cret DP Eog
+[EN] H
+[EN]  S Eogr
+[EN] DSP File tiO.
+[EN] BD&PFile
+[EN] 11
+[EN] (H.K.SIU)
+[EN] for Chief Architect/3
+[EN] Mkawti
+[EN] 1A/141-025
+[EN] c.c.
+[EN] PA -Mr.K.S.WU
+[EN] AA10141-024
+[EN] PSE-Mr.K.Y.SIN
+[EN] PCOW-Mr.K.W.LEE
+[EN] -4 JAN 1995
+[EN] PBSI-Mr.T.K.HO
+[EN] ACTIONO
+[EN] hshnL
+[EN] HKS/
+[EN] ng Eng(C)
+[EN] Dst Pianng Engr(w)
+[EN] S Dsi-g ng(E)
+[EN] N
+[EN] OP En (eping Computer)
+[EN] a Oice
+[EN] SIGNED:
+[EN] 
+[EN] n. Cnie
+[CH] ARCHITECTURAL SERVICESDEPARTMENT建築署
+[CH] QUEENSWAY GOVERNMENT OFFICES,66 QUEENSWAY,HONG
+[CH] KQNG.香港金鐘道六十六號金鐘道政府合署
+[CH] 398
+[CH] Our Ref.:
+[CH] ASD(BS)3119ES.WK.BS
+[CH] RECEIVED
+[CH] ASD(BS)3131ES.WK.BS
+[CH] Your Ref.:
+[CH] D&P/841/A/0141-024
+[CH] D&P/841/A/0141-025
+[CH] DEC31143A94
+[CH] Messrs The Hongkong Electric Co., Ltd.
+[CH] 29 December, 1994
+[CH] Electric House, 44 Kennedy Road,
+[CH] Hong Kong.
+[CH] (Attn.: Mr. S.L.LOK)
+[CH] Chuef Engineer (D&P)
+[CH] Dear Sir,
+[CH] Electrical Supplyfor Two Secondary
+[CH] Abn Bapt Lii Ming Choi
+[CH] Schools at Lei Tung Estate, Ap Lei Chau
+[CH] College
+[CH] (P.W.P.No.119ES &131ES)
+[CH] Asconfirmed byour Structural Engineer,I would liketo inform you that
+[CH] theaveaeloorloainoftwoansormroomorthecatioedrjciots
+[CH] 20kPa.Forfutureinformationpleasecontacttheundersignedon Tel.No.28676.
+[CH] DEVELOPMENT&PLININGDI
+[CH] Inio.
+[CH] Action
+[CH] Chief Engineer (D&P
+[CH] A
+[CH] Secretary
+[CH] 03JAN1995
+[CH] Yours faithfully,
+[CH] Depuy Chie!
+[CH] HWaSP EnTE.
+[CH] Cret DP Eog
+[CH] H
+[CH]  S Eogr
+[CH] DSP File tiO.
+[CH] BD&PFile
+[CH] 11
+[CH] (H.K.SIU)
+[CH] for Chief Architect/3
+[CH] Mkawti
+[CH] 1A/141-025
+[CH] c.c.
+[CH] PA -Mr.K.S.WU
+[CH] AA10141-024
+[CH] PSE-Mr.K.Y.SIN
+[CH] PCOW-Mr.K.W.LEE
+[CH] -4 JAN 1995
+[CH] PBSI-Mr.T.K.HO
+[CH] ACTIONO
+[CH] hshnL
+[CH] HKS/
+[CH] ng Eng(C)
+[CH] Dst Pianng Engr(w)
+[CH] S Dsi-g ng(E)
+[CH] N
+[CH] OP En (eping Computer)
+[CH] a Oice
+[CH] SIGNED:
+[CH] 
+[CH] n. Cnie

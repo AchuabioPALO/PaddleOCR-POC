@@ -1,0 +1,104 @@
+# Ground Truth for 841-A-0139-F01_Agreement.Page 2-2
+# Instructions:
+# 1. Review and correct the OCR text below
+# 2. Remove obvious OCR errors (garbled text from diagrams, etc.)
+# 3. Fix spelling and formatting errors
+# 4. Keep the main document content intact
+# 5. Remove these instruction lines when done
+# 6. Save the file as-is for F1 evaluation
+#
+# Original OCR file: 841-A-0139-F01_Agreement.Page 2-2_text.txt
+# 
+# ===== GROUND TRUTH TEXT STARTS BELOW =====
+
+T.& D.Division
+Our Ref:T&D/841/01/0139
+Your Ref:
+E270
+4th July 1980
+Messrs. Associated Consulting
+Engineer,
+1611 Asian House,
+No.1 Hennessy Road,
+Hong Kong.
+Dear Sir,
+Mechanical
+Ventilation
+for
+Substations
+We
+are
+in
+receipt
+of
+the
+letter
+you
+addressed
+to Mr.C.P.Man
+of
+Hongkong
+Electric
+Holdings
+dated
+the
+18th June 1980
+and
+concerning
+ventilation
+of
+substations.
+Your
+attention
+is
+drawn
+to
+the
+conditions
+and
+ventilation
+installation
+we
+agreed
+with
+you
+in
+connection
+with the
+substation for Admiralty
+Development.
+In
+this
+case you have attested that the mean room
+temperature
+over a 24 hour
+cycle
+is
+within
+the
+35°c limit
+and
+we
+assume
+that you have achieved this in a sensible
+manner.
+Whilst
+we
+agree that in some
+cases
+it is difficult
+to obtain such an environment it is necessary that it be
+done, thereby ensuring that our equipment, all components,
+are able to operate at their stated ratings and performances
+such
+that reliable service and life are obtained from them.
+Should you feel it necessary to contact us further
+on this please feel free to do so.
+Yours faithfully,
+THE HONGKONG ELECTRIC CO. LTD.
+(Sgd) W.Huddleston (2)
+W.Huddleston
+ASSISTANT CHIEF ENGINEER (PLANNING）
+WH:SSY:AL
+C.c.
+float file

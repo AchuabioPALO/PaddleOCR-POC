@@ -1,0 +1,71 @@
+{
+  "overall_statistics": {
+    "total_files": 4,
+    "word_level_stats": {
+      "mean_f1": 0.7823625555924558,
+      "std_f1": 0.06278461917005558,
+      "min_f1": 0.688715953307393,
+      "max_f1": 0.8534201954397395
+    },
+    "character_level_stats": {
+      "mean_f1": 0.979824326439375,
+      "std_f1": 0.007223103117524656,
+      "min_f1": 0.9714285714285714,
+      "max_f1": 0.9876543209876543
+    }
+  },
+  "individual_results": [
+    {
+      "file": "841-A-0049_Agreement_text.txt",
+      "word_level": {
+        "precision": 0.7512437810945274,
+        "recall": 0.7783505154639175,
+        "f1": 0.7645569620253165
+      },
+      "character_level": {
+        "precision": 1.0,
+        "recall": 0.9491525423728814,
+        "f1": 0.9739130434782608
+      }
+    },
+    {
+      "file": "841-A-0139-F01_Agreement.Page 2-2_text.txt",
+      "word_level": {
+        "precision": 0.9776119402985075,
+        "recall": 0.7572254335260116,
+        "f1": 0.8534201954397395
+      },
+      "character_level": {
+        "precision": 1.0,
+        "recall": 0.9444444444444444,
+        "f1": 0.9714285714285714
+      }
+    },
+    {
+      "file": "841-A-0130_Agreement.Page 1-2_text.txt",
+      "word_level": {
+        "precision": 0.9215686274509803,
+        "recall": 0.7430830039525692,
+        "f1": 0.8227571115973742
+      },
+      "character_level": {
+        "precision": 1.0,
+        "recall": 0.972972972972973,
+        "f1": 0.9863013698630138
+      }
+    },
+    {
+      "file": "841-A-0032-Letter 19761029_Agreement_text.txt",
+      "word_level": {
+        "precision": 0.6040955631399317,
+        "recall": 0.8009049773755657,
+        "f1": 0.688715953307393
+      },
+      "character_level": {
+        "precision": 1.0,
+        "recall": 0.975609756097561,
+        "f1": 0.9876543209876543
+      }
+    }
+  ]
+}

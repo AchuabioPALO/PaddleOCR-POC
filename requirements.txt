@@ -1,0 +1,6 @@
+paddlepaddle
+paddleocr
+opencv-python
+pillow
+pymupdf
+scikit-learn

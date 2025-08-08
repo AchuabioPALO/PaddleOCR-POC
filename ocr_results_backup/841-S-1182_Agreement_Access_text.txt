@@ -1,0 +1,712 @@
+[EN] CMA
+[EN] CM WONG &ASSOCIATESLTD
+[EN] 11/F Universal Trade Centre
+[EN] 黃志明建築工程師有限公司
+[EN] 3-5A Arbuthnot Road, Hong Kong
+[EN] Tel:(852)2522-1068
+[EN] Fax:(852)2526-3111
+[EN] www.cmwal.com
+[EN] 2017080328481
+[EN] cmwal@cmwal.com
+[EN] OUR REF
+[EN] SK854/338G
+[EN] 31July2017
+[EN] By Hand
+[EN] The Hong Kong Electric Co., Ltd
+[EN] Hong Kong Electric Centre,
+[EN] 44 Kennedy Road,
+[EN] Hong Kong
+[EN] Attn: Mr.S.C.Chan/Mr.L.M.Cheung
+[EN] ASD
+[EN] SCANNED
+[EN] Dear Sirs,
+[EN] T&D/CDPE
+[EN] Proposed Residential Development at Shau Kei Wan,Hong Kong-Lot No.IL854
+[EN] Confirmation of Floor Loading at Transformer Room
+[EN] Wewritetocertifythatthesubstationstructureoftheabove substationandtheworkingplatformofthe
+[EN] cable chamber have been designed and constructed in accordance withall requirements in item1.2of
+[EN] HKElectric's drawing no.P585/03/R-6.
+[EN] Acopy ofself-explanationletterfromHip HingConstructionCo.Ltd is attachedfor yourinformation.
+[EN] Should you have any queries,please contact ourMr.Hong Yau at2973 5791.
+[EN] 0=①S2)
+[EN] N.R.N.
+[EN] NPN.
+[EN] Yours faithfully
+[EN] SIGNED: an
+[EN] ②Tony
+[EN] Forandonbehalfof
+[EN] 181812017
+[EN] C M WONG &ASSOCIATES LTD
+[EN] HK Electric
+[EN] NRA
+[EN] Received
+[EN] 033258
+[EN] 2017AUG-3A10:28
+[EN] Chan Bong Kwok
+[EN] Registered StructuralEngineer
+[EN] 84/s1182
+[EN] Encl.
+[EN] c.C.
+[EN] OasisRainbowLimitedAtn:MsGenevieveChen/Mr.PongCheun)allw/ebyemail
+[EN] P&T(Attn: Ms.Laura Lam/Mr.Fabius Wu)
+[EN] DEUTIONPLANNINGDEART
+[EN] RE(Attn:Mr.KC Wong）
+[EN] BKC/ymh
+[EN] DATE: 04AUG 2017
+[EN] ECTONEY
+[EN] 如
+[EN] Mr Lm Cher
+[EN] Chief D.P.Eng
+[EN] Sonior D.P.Engr.W)
+[EN] Snior D.P.Engr.(C)
+[EN] J14408122
+[EN] enior D.P.Engt.(E)
+[EN] 2a
+[EN] Drawing Ofice
+[EN] 黄志明IrCMWONGJPBSC(Eng)MSc(Eng）FHKIE CEng FICE FIStruCtE RPE APRSERGE
+[EN] 陳邦國Ir Stanley BKCHAN BEng MHKIE MIStructE RPE RSE
+[EN] 李子良Ir Chris TLLEEBEng MSc FHKIE CEng MIStruCtE RPE RGE
+[EN] COA
+[EN] SERTIFIED
+[EN] SESTEWR
+[EN] 梁志雄Ir BEnCHLEUNGBEng MHKIE MIStruCtE RPE AP RSE
+[EN] HKQAA
+[EN] HKQAA
+[EN] HKQAA
+[EN] 游立仁IrTerenceLYYAUBEng MPhil MHKIE CEngMICE MIEAustCPEng RPERSERGE
+[EN] 尤耀晃IrFrancisYFYAUMEng MHKIECEng MICE MIStruCtE RPERSE
+[EN] ISO 9001:2008
+[EN] ISO 14001:2004
+[EN] OHSAS 18001:2007
+[EN] Certificate No.:CC 801
+[EN] Certificate No.:CC 5408
+[EN] Certificate No.:CC 5409
+[CH] CMA
+[CH] CM WONG &ASSOCIATESLTD
+[CH] 11/F Universal Trade Centre
+[CH] 黃志明建築工程師有限公司
+[CH] 3-5A Arbuthnot Road, Hong Kong
+[CH] Tel:(852)2522-1068
+[CH] Fax:(852)2526-3111
+[CH] www.cmwal.com
+[CH] 2017080328481
+[CH] cmwal@cmwal.com
+[CH] OUR REF
+[CH] SK854/338G
+[CH] 31July2017
+[CH] By Hand
+[CH] The Hong Kong Electric Co., Ltd
+[CH] Hong Kong Electric Centre,
+[CH] 44 Kennedy Road,
+[CH] Hong Kong
+[CH] Attn: Mr.S.C.Chan/Mr.L.M.Cheung
+[CH] ASD
+[CH] SCANNED
+[CH] Dear Sirs,
+[CH] T&D/CDPE
+[CH] Proposed Residential Development at Shau Kei Wan,Hong Kong-Lot No.IL854
+[CH] Confirmation of Floor Loading at Transformer Room
+[CH] Wewritetocertifythatthesubstationstructureoftheabove substationandtheworkingplatformofthe
+[CH] cable chamber have been designed and constructed in accordance withall requirements in item1.2of
+[CH] HKElectric's drawing no.P585/03/R-6.
+[CH] Acopy ofself-explanationletterfromHip HingConstructionCo.Ltd is attachedfor yourinformation.
+[CH] Should you have any queries,please contact ourMr.Hong Yau at2973 5791.
+[CH] 0=①S2)
+[CH] N.R.N.
+[CH] NPN.
+[CH] Yours faithfully
+[CH] SIGNED: an
+[CH] ②Tony
+[CH] Forandonbehalfof
+[CH] 181812017
+[CH] C M WONG &ASSOCIATES LTD
+[CH] HK Electric
+[CH] NRA
+[CH] Received
+[CH] 033258
+[CH] 2017AUG-3A10:28
+[CH] Chan Bong Kwok
+[CH] Registered StructuralEngineer
+[CH] 84/s1182
+[CH] Encl.
+[CH] c.C.
+[CH] OasisRainbowLimitedAtn:MsGenevieveChen/Mr.PongCheun)allw/ebyemail
+[CH] P&T(Attn: Ms.Laura Lam/Mr.Fabius Wu)
+[CH] DEUTIONPLANNINGDEART
+[CH] RE(Attn:Mr.KC Wong）
+[CH] BKC/ymh
+[CH] DATE: 04AUG 2017
+[CH] ECTONEY
+[CH] 如
+[CH] Mr Lm Cher
+[CH] Chief D.P.Eng
+[CH] Sonior D.P.Engr.W)
+[CH] Snior D.P.Engr.(C)
+[CH] J14408122
+[CH] enior D.P.Engt.(E)
+[CH] 2a
+[CH] Drawing Ofice
+[CH] 黄志明IrCMWONGJPBSC(Eng)MSc(Eng）FHKIE CEng FICE FIStruCtE RPE APRSERGE
+[CH] 陳邦國Ir Stanley BKCHAN BEng MHKIE MIStructE RPE RSE
+[CH] 李子良Ir Chris TLLEEBEng MSc FHKIE CEng MIStruCtE RPE RGE
+[CH] COA
+[CH] SERTIFIED
+[CH] SESTEWR
+[CH] 梁志雄Ir BEnCHLEUNGBEng MHKIE MIStruCtE RPE AP RSE
+[CH] HKQAA
+[CH] HKQAA
+[CH] HKQAA
+[CH] 游立仁IrTerenceLYYAUBEng MPhil MHKIE CEngMICE MIEAustCPEng RPERSERGE
+[CH] 尤耀晃IrFrancisYFYAUMEng MHKIECEng MICE MIStruCtE RPERSE
+[CH] ISO 9001:2008
+[CH] ISO 14001:2004
+[CH] OHSAS 18001:2007
+[CH] Certificate No.:CC 801
+[CH] Certificate No.:CC 5408
+[CH] Certificate No.:CC 5409
+[EN] HIP HING CONSTRUCTION CO LTD
+[EN] 新創建集成員Memberof NWSHoldings
+[EN] Our Ref.: S3193/HC201602-C02/VP/RT
+[EN] 27 July 2017
+[EN] CM Wong & Associates Ltd
+[EN] 11/F., Universal Trade Centre,
+[EN] 3-5AArbuthnot Road,
+[EN] Hong Kong
+[EN] Attn.: Mr. Stanley Chan/ Mr. Hong MH Yau
+[EN] Dear Sirs,
+[EN] Proposed Residential Development at Shau Kei Wan Inland LotNo. 854
+[EN] Confirmation of Structure Loading at Transformer Room
+[EN] We write toconfirm that thefloor structure and the working platformon topof the cable
+[EN] trench of the transformer room have been constructed in accordance with the HKE's
+[EN] requirements.Enclosed please find the recordofnon-destructive concrete record (By rebound
+[EN] hammer) and the verification check on working platform for your reference and review.
+[EN] If there is any query, please contact the undersigned.
+[EN] Thank you for your kind attention.
+[EN] Yours faithfully,
+[EN] HIP HINGCONSTRUCTIONCO LTD
+[EN] Victor Pang
+[EN] Project Manager
+[EN] w/o
+[EN] c.c.
+[EN] Wing Tai
+[EN] -Ms. Genevieve Chen / Mr. Pong Cheung/
+[EN] Mr. Kelvin Lam
+[EN] w/o
+[EN] P&T
+[EN] -Ms.Jennifer Lee/Mr.Fabius Wu
+[EN] w/o
+[EN] RE
+[EN] -Mr.KC Wong
+[EN] w/o
+[EN] COW
+[EN] - Mr. Keith Wan
+[EN] VP/RT/rt
+[EN] 商界展關懷
+[EN] years
+[EN] 香港九龍灣宏開道八號其士商業中心十一樓11/F ChevalierCommercial Centre，8 Wang Hoi RoadKowloon Bay HongKong
+[EN] caringcompany
+[EN] 電話Tel:（852)25259251傳真Fax:(852)28459295電郵Email:emai@hiphing.com.hk網址Website:www.hiphin.com.k
+[EN] HongtongCoudoocalS
+[EN] 社
+[CH] HIP HING CONSTRUCTION CO LTD
+[CH] 新創建集成員Memberof NWSHoldings
+[CH] Our Ref.: S3193/HC201602-C02/VP/RT
+[CH] 27 July 2017
+[CH] CM Wong & Associates Ltd
+[CH] 11/F., Universal Trade Centre,
+[CH] 3-5AArbuthnot Road,
+[CH] Hong Kong
+[CH] Attn.: Mr. Stanley Chan/ Mr. Hong MH Yau
+[CH] Dear Sirs,
+[CH] Proposed Residential Development at Shau Kei Wan Inland LotNo. 854
+[CH] Confirmation of Structure Loading at Transformer Room
+[CH] We write toconfirm that thefloor structure and the working platformon topof the cable
+[CH] trench of the transformer room have been constructed in accordance with the HKE's
+[CH] requirements.Enclosed please find the recordofnon-destructive concrete record (By rebound
+[CH] hammer) and the verification check on working platform for your reference and review.
+[CH] If there is any query, please contact the undersigned.
+[CH] Thank you for your kind attention.
+[CH] Yours faithfully,
+[CH] HIP HINGCONSTRUCTIONCO LTD
+[CH] Victor Pang
+[CH] Project Manager
+[CH] w/o
+[CH] c.c.
+[CH] Wing Tai
+[CH] -Ms. Genevieve Chen / Mr. Pong Cheung/
+[CH] Mr. Kelvin Lam
+[CH] w/o
+[CH] P&T
+[CH] -Ms.Jennifer Lee/Mr.Fabius Wu
+[CH] w/o
+[CH] RE
+[CH] -Mr.KC Wong
+[CH] w/o
+[CH] COW
+[CH] - Mr. Keith Wan
+[CH] VP/RT/rt
+[CH] 商界展關懷
+[CH] years
+[CH] 香港九龍灣宏開道八號其士商業中心十一樓11/F ChevalierCommercial Centre，8 Wang Hoi RoadKowloon Bay HongKong
+[CH] caringcompany
+[CH] 電話Tel:（852)25259251傳真Fax:(852)28459295電郵Email:emai@hiphing.com.hk網址Website:www.hiphin.com.k
+[CH] HongtongCoudoocalS
+[CH] 社
+[EN] Hammer Test Report for G/F
+[EN] Transformer Room
+[CH] Hammer Test Report for G/F
+[CH] Transformer Room
+[EN] BD's Refno.BD3/3017/14PT.Ⅱ
+[EN] Record of Non-destructive TestingofConcrete by the use of Rebound Hammer
+[EN] Project:Proposed Residential Development at ShauKei Wan Inland Lot.854
+[EN] Hammer Serial No.
+[EN] AGNO0329
+[EN] Tested By: LAM CHuN LAP
+[EN] Date of Testing:_201712017
+[EN] Recorded By: LAM cHun LAP
+[EN] Floor
+[EN] Mark
+[EN] Size
+[EN] Readings as taken
+[EN] Cube Strength
+[EN] Remarks
+[EN] Measured Approved
+[EN] Date Cast
+[EN] 2
+[EN] 3
+[EN] 4
+[EN] 5
+[EN] 6
+[EN] 7
+[EN] 8
+[EN] 9
+[EN] 10
+[EN] 11
+[EN] 12
+[EN] Equi
+[EN] Appd.
+[EN] G/F
+[EN] 251
+[EN] 4036
+[EN] 4044
+[EN] 46
+[EN] 40
+[EN] 42
+[EN] 42
+[EN] 46
+[EN] 40
+[EN] 41.6
+[EN] 48
+[EN] TRANSFOMER
+[EN] RoOM
+[EN] COntrACtOr: LAM CHUN LAP FOR HIP HING CONSTRUCTION LTD.
+[EN] AP/RSE：
+[EN] Anho
+[CH] BD's Refno.BD3/3017/14PT.Ⅱ
+[CH] Record of Non-destructive TestingofConcrete by the use of Rebound Hammer
+[CH] Project:Proposed Residential Development at ShauKei Wan Inland Lot.854
+[CH] Hammer Serial No.
+[CH] AGNO0329
+[CH] Tested By: LAM CHuN LAP
+[CH] Date of Testing:_201712017
+[CH] Recorded By: LAM cHun LAP
+[CH] Floor
+[CH] Mark
+[CH] Size
+[CH] Readings as taken
+[CH] Cube Strength
+[CH] Remarks
+[CH] Measured Approved
+[CH] Date Cast
+[CH] 2
+[CH] 3
+[CH] 4
+[CH] 5
+[CH] 6
+[CH] 7
+[CH] 8
+[CH] 9
+[CH] 10
+[CH] 11
+[CH] 12
+[CH] Equi
+[CH] Appd.
+[CH] G/F
+[CH] 251
+[CH] 4036
+[CH] 4044
+[CH] 46
+[CH] 40
+[CH] 42
+[CH] 42
+[CH] 46
+[CH] 40
+[CH] 41.6
+[CH] 48
+[CH] TRANSFOMER
+[CH] RoOM
+[CH] COntrACtOr: LAM CHUN LAP FOR HIP HING CONSTRUCTION LTD.
+[CH] AP/RSE：
+[CH] Anho
+[EN] 7ups0
+[EN] 2000 FENCE WALL
+[EN] (RCDEIALSREFERIODIG-ID-05)
+[EN] TRAISFORVER
+[EN] GS7
+[EN] GS7A
+[EN] 44.0
+[EN] ROOM
+[EN] SICEL PLAIE(OTFORAPPROAL)
+[EN] ss do
+[EN] BY OPEN CUR ELS (30BAX)
+[EN] 400mm THK
+[EN] SECTON C-C
+[EN] SCREEN WALL
+[EN] 2
+[EN] MASS FILL
+[EN] HK SCREEN BALL)
+[EN] ONCREL.CO
+[EN] 2100
+[EN] WE
+[EN] 8
+[EN] SOR
+[EN] mFENCEBALL
+[EN] 2500mm 1HK.
+[EN] REFER TO TPICALDETAL
+[EN] DNG 1O.TD
+[EN] CAP
+[EN] 2500mm THK.
+[EN] SECTION D-D
+[EN] METHOD STATEMENT FOR CONSTRUCTION OF SCREENWALL
+[EN] 1.CONPLETION OF ELSWORKS ACCORDING TO ELS APRPOVAL
+[EN] SECHONA-A
+[EN] PLAN DATED 14/8/2015
+[EN] 2.CONSTRUCTIONOFSCREENWALL BY MASS CONCREE
+[EN] 3.CONSTRUCTION OF SCREEN WALL WITH FILL BY C6O MASS
+[EN] FILL CONCRETE AND 215OMm MASS FLL CONCRETE
+[EN] 4.AFTERC6OSTRENCTHACHEVEDREMOVALOFELSSRT
+[EN] 250m
+[EN] SIDE TALLREFERTO
+[EN] PO0
+[EN] 1D-05.
+[EN] DEINL DIG HO.
+[EN] 3000
+[EN] 1250
+[EN] 2550
+[EN] 2650
+[EN] 2935
+[EN] 158001225005601692820
+[EN] 1825
+[EN] 37925965133730025 10
+[EN] SIVICPOOL
+[EN] 1
+[EN] 200mTHK
+[EN] L001
+[EN] SLAB
+[EN] CC82
+[EN] 1700
+[EN] 
+[EN] REFEA
+[EN] GB11
+[EN] 200
+[EN] 1700
+[EN] 7
+[EN] 1250
+[EN] 2550
+[EN] 2650
+[EN] 2935
+[EN] 57sy00 1200
+[EN] HP
+[EN] 8
+[EN] 05
+[EN] G/F FRAMING PLAN
+[EN] 1900
+[EN] NOTES:
+[EN] 1)ALL SLAB TO BE 2OOMM THK.UNLESS OTHERWISE SPECIFIED
+[EN] 2)ALLBEAMTOBE30Omm（B）x1000mm（D)UNLESSOTHERWISESPECED
+[EN] 3GFNFRAI MOTFS ANN TYPICA OFTAS PIFASF RFFFR TO DRAWING
+[EN] C
+[CH] 7ups0
+[CH] 2000 FENCE WALL
+[CH] (RCDEIALSREFERIODIG-ID-05)
+[CH] TRAISFORVER
+[CH] GS7
+[CH] GS7A
+[CH] 44.0
+[CH] ROOM
+[CH] SICEL PLAIE(OTFORAPPROAL)
+[CH] ss do
+[CH] BY OPEN CUR ELS (30BAX)
+[CH] 400mm THK
+[CH] SECTON C-C
+[CH] SCREEN WALL
+[CH] 2
+[CH] MASS FILL
+[CH] HK SCREEN BALL)
+[CH] ONCREL.CO
+[CH] 2100
+[CH] WE
+[CH] 8
+[CH] SOR
+[CH] mFENCEBALL
+[CH] 2500mm 1HK.
+[CH] REFER TO TPICALDETAL
+[CH] DNG 1O.TD
+[CH] CAP
+[CH] 2500mm THK.
+[CH] SECTION D-D
+[CH] METHOD STATEMENT FOR CONSTRUCTION OF SCREENWALL
+[CH] 1.CONPLETION OF ELSWORKS ACCORDING TO ELS APRPOVAL
+[CH] SECHONA-A
+[CH] PLAN DATED 14/8/2015
+[CH] 2.CONSTRUCTIONOFSCREENWALL BY MASS CONCREE
+[CH] 3.CONSTRUCTION OF SCREEN WALL WITH FILL BY C6O MASS
+[CH] FILL CONCRETE AND 215OMm MASS FLL CONCRETE
+[CH] 4.AFTERC6OSTRENCTHACHEVEDREMOVALOFELSSRT
+[CH] 250m
+[CH] SIDE TALLREFERTO
+[CH] PO0
+[CH] 1D-05.
+[CH] DEINL DIG HO.
+[CH] 3000
+[CH] 1250
+[CH] 2550
+[CH] 2650
+[CH] 2935
+[CH] 158001225005601692820
+[CH] 1825
+[CH] 37925965133730025 10
+[CH] SIVICPOOL
+[CH] 1
+[CH] 200mTHK
+[CH] L001
+[CH] SLAB
+[CH] CC82
+[CH] 1700
+[CH] 
+[CH] REFEA
+[CH] GB11
+[CH] 200
+[CH] 1700
+[CH] 7
+[CH] 1250
+[CH] 2550
+[CH] 2650
+[CH] 2935
+[CH] 57sy00 1200
+[CH] HP
+[CH] 8
+[CH] 05
+[CH] G/F FRAMING PLAN
+[CH] 1900
+[CH] NOTES:
+[CH] 1)ALL SLAB TO BE 2OOMM THK.UNLESS OTHERWISE SPECIFIED
+[CH] 2)ALLBEAMTOBE30Omm（B）x1000mm（D)UNLESSOTHERWISESPECED
+[CH] 3GFNFRAI MOTFS ANN TYPICA OFTAS PIFASF RFFFR TO DRAWING
+[CH] C
+[EN] 32105230
+[EN] 3205200
+[EN] YOO  
+[EN] X
+[EN] (GREENAREA）UNDERLEASE S.C.2&3
+[EN] NAIA
+[EN] 3
+[EN] N
+[EN] PUBLICFOOTPATH
+[EN] 3NIN
+[EN] DRAINAGERESERVE
+[EN] INIOD
+[EN] CO-ORDINATESFOR
+[EN] AAESAONC AAC )
+[EN] NONBUILDING AREA
+[EN] GROUND FLOOR PLAN
+[EN] ：ON3937
+[EN] H
+[EN] 
+[EN] 1635
+[EN] 9
+[EN] a
+[EN] 2
+[EN] J
+[EN] 0
+[EN] 3
+[EN] BET TEEE
+[EN] SISTH
+[EN] 0
+[EN] 
+[EN] hissr
+[EN] LS
+[EN] 0000
+[EN] 0
+[EN] O
+[EN] 80005
+[EN] SCH
+[EN] DGN
+[EN] 8
+[EN] O
+[EN] 00S8
+[EN] CARTE
+[EN] 8
+[EN] W
+[EN] TO0d ONIPNS
+[EN] SCIZ
+[EN] 2
+[EN] 9
+[EN] 8
+[EN] 001:1
+[EN] OF SUNKENSLAB
+[EN] TYPICALSECTION
+[EN] HAADIOO
+[EN] 10-01
+[EN] 8
+[EN] AS-NE
+[EN] AVT
+[EN] IN/HIVS
+[EN] 8
+[EN] REMARK:VECANCALVOLAIAICLUCHIGIOBEPROND）
+[EN] 法
+[EN] (
+[EN] 05F0
+[EN] 090-01/s6r9
+[EN] （03038>）5F0=
+[EN] (an xIn) Or
+[EN] AYTX3SH
+[EN] NEAESAE
+[EN] 20805210500=
+[EN] 1O0020
+[EN] 090-01/569
+[EN] 0050
+[EN] 1F0-01/
+[EN] 000
+[EN] FF0-01/8C1
+[EN] (An sIO) ScI?
+[EN] m
+[EN] X08×0521×0090
+[EN] 1080520090
+[EN] .ROAD
+[EN] 030
+[EN] YUY BOONS
+[EN] 340 03038
+[EN] YIYY
+[EN] OONV
+[EN] YSYROO N
+[EN] YY
+[EN] (,n)n
+[EN] JAYI NCOW
+[EN] H
+[EN] 7O Y3SYOQNS
+[EN] ONOILE
+[EN] 西
+[EN] F5
+[EN] noo rd
+[EN] 1725
+[EN] 5
+[EN] 1
+[EN] CONALRE
+[EN] TU
+[EN] HOHBHEEEYE
+[EN] 3ap
+[EN] 22
+[CH] 32105230
+[CH] 3205200
+[CH] YOO  
+[CH] X
+[CH] (GREENAREA）UNDERLEASE S.C.2&3
+[CH] NAIA
+[CH] 3
+[CH] N
+[CH] PUBLICFOOTPATH
+[CH] 3NIN
+[CH] DRAINAGERESERVE
+[CH] INIOD
+[CH] CO-ORDINATESFOR
+[CH] AAESAONC AAC )
+[CH] NONBUILDING AREA
+[CH] GROUND FLOOR PLAN
+[CH] ：ON3937
+[CH] H
+[CH] 
+[CH] 1635
+[CH] 9
+[CH] a
+[CH] 2
+[CH] J
+[CH] 0
+[CH] 3
+[CH] BET TEEE
+[CH] SISTH
+[CH] 0
+[CH] 
+[CH] hissr
+[CH] LS
+[CH] 0000
+[CH] 0
+[CH] O
+[CH] 80005
+[CH] SCH
+[CH] DGN
+[CH] 8
+[CH] O
+[CH] 00S8
+[CH] CARTE
+[CH] 8
+[CH] W
+[CH] TO0d ONIPNS
+[CH] SCIZ
+[CH] 2
+[CH] 9
+[CH] 8
+[CH] 001:1
+[CH] OF SUNKENSLAB
+[CH] TYPICALSECTION
+[CH] HAADIOO
+[CH] 10-01
+[CH] 8
+[CH] AS-NE
+[CH] AVT
+[CH] IN/HIVS
+[CH] 8
+[CH] REMARK:VECANCALVOLAIAICLUCHIGIOBEPROND）
+[CH] 法
+[CH] (
+[CH] 05F0
+[CH] 090-01/s6r9
+[CH] （03038>）5F0=
+[CH] (an xIn) Or
+[CH] AYTX3SH
+[CH] NEAESAE
+[CH] 20805210500=
+[CH] 1O0020
+[CH] 090-01/569
+[CH] 0050
+[CH] 1F0-01/
+[CH] 000
+[CH] FF0-01/8C1
+[CH] (An sIO) ScI?
+[CH] m
+[CH] X08×0521×0090
+[CH] 1080520090
+[CH] .ROAD
+[CH] 030
+[CH] YUY BOONS
+[CH] 340 03038
+[CH] YIYY
+[CH] OONV
+[CH] YSYROO N
+[CH] YY
+[CH] (,n)n
+[CH] JAYI NCOW
+[CH] H
+[CH] 7O Y3SYOQNS
+[CH] ONOILE
+[CH] 西
+[CH] F5
+[CH] noo rd
+[CH] 1725
+[CH] 5
+[CH] 1
+[CH] CONALRE
+[CH] TU
+[CH] HOHBHEEEYE
+[CH] 3ap
+[CH] 22

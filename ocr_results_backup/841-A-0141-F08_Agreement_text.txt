@@ -1,0 +1,756 @@
+[EN] bigboXX Agreement
+[CH] bigboXX Agreement
+[EN] Schematic wiring diagram is attached
+[EN] D,P&IT file
+[EN] 10C6J787.LE(96)
+[EN] C.A.S.,A.L.C.
+[EN] 30 OCT
+[EN] 1996
+[EN] DESPATCH DATE
+[EN] OUR REF:D,P&IT/841/A/0141
+[EN] 28th October 1996
+[EN] Director of Urban Services
+[EN] AL(HKM) 2/F.,Yue Wan Market,
+[EN] Yue Man Estate,
+[EN] Chai Wan,
+[EN] Hong Kong.
+[EN] Dear Sir,
+[EN] MOBILE LIBRARY O/S
+[EN] TUNG PING HOUSE, LEI TUNG ESTATE
+[EN] We refer to your application no. 611779 received on
+[EN] 22nd October 1996 and the subsequent telephone conversation
+[EN] between your Mr. C.W. Chan and our Mr. W.W. Cheng regarding
+[EN] the electricity supply to the above mobile library.
+[EN] Your proposal of obtaining supply from the customers
+[EN] main switch board of Tung Ping House is generally acceptable
+[EN] to us.
+[EN] It will be necessary for you to run your main wiring
+[EN] to the main switch board of Tung Ping House, but before a
+[EN] supply will be made available you must forward us a written
+[EN] statement of permission from the owners of property to which
+[EN] you attach wires or other equipment.
+[EN] With regard to your proposed electrical schematic
+[EN] wiring diagram, please ensure that the electrical installation
+[EN] concerned will comply with the Company's Supply Rules, the
+[EN] current edition of Electricity (Wiring) Regulations and the
+[EN] relevant Government Ordinances.
+[EN] Should you have any queries regarding the above
+[EN] matter, please contact our Mr. W.W. Cheng at telephone No.
+[EN] 2814 3478.
+[EN] Yours faithfully,
+[EN] THE HONGKONG ELECTRIC CO.LTD.
+[EN] 香港電燈有限公司
+[EN] B.W.LO
+[EN] CHIEF DISTRIBUTION PLANNING ENGINEER
+[EN] 8
+[EN] MC/col
+[EN] 
+[EN] Sebematie
+[EN] Wiring
+[EN] Diagram
+[EN] Sent to
+[EN] S.C.I.E.
+[EN] 30/10
+[EN] on
+[CH] Schematic wiring diagram is attached
+[CH] D,P&IT file
+[CH] 10C6J787.LE(96)
+[CH] C.A.S.,A.L.C.
+[CH] 30 OCT
+[CH] 1996
+[CH] DESPATCH DATE
+[CH] OUR REF:D,P&IT/841/A/0141
+[CH] 28th October 1996
+[CH] Director of Urban Services
+[CH] AL(HKM) 2/F.,Yue Wan Market,
+[CH] Yue Man Estate,
+[CH] Chai Wan,
+[CH] Hong Kong.
+[CH] Dear Sir,
+[CH] MOBILE LIBRARY O/S
+[CH] TUNG PING HOUSE, LEI TUNG ESTATE
+[CH] We refer to your application no. 611779 received on
+[CH] 22nd October 1996 and the subsequent telephone conversation
+[CH] between your Mr. C.W. Chan and our Mr. W.W. Cheng regarding
+[CH] the electricity supply to the above mobile library.
+[CH] Your proposal of obtaining supply from the customers
+[CH] main switch board of Tung Ping House is generally acceptable
+[CH] to us.
+[CH] It will be necessary for you to run your main wiring
+[CH] to the main switch board of Tung Ping House, but before a
+[CH] supply will be made available you must forward us a written
+[CH] statement of permission from the owners of property to which
+[CH] you attach wires or other equipment.
+[CH] With regard to your proposed electrical schematic
+[CH] wiring diagram, please ensure that the electrical installation
+[CH] concerned will comply with the Company's Supply Rules, the
+[CH] current edition of Electricity (Wiring) Regulations and the
+[CH] relevant Government Ordinances.
+[CH] Should you have any queries regarding the above
+[CH] matter, please contact our Mr. W.W. Cheng at telephone No.
+[CH] 2814 3478.
+[CH] Yours faithfully,
+[CH] THE HONGKONG ELECTRIC CO.LTD.
+[CH] 香港電燈有限公司
+[CH] B.W.LO
+[CH] CHIEF DISTRIBUTION PLANNING ENGINEER
+[CH] 8
+[CH] MC/col
+[CH] 
+[CH] Sebematie
+[CH] Wiring
+[CH] Diagram
+[CH] Sent to
+[CH] S.C.I.E.
+[CH] 30/10
+[CH] on
+[EN] PLEKSEADDRESS YOURREPLYTO
+[EN] URBANCOUNCIL
+[EN] 覆函請寄交
+[EN] PUBLICLIBRARIESOFFICE
+[EN] Hong Kong Mobile Library
+[EN] A  H
+[EN] 市政局
+[EN] Estate
+[EN] 公共圖書館辦事處
+[EN] 並引用本署檔案編號
+[EN] (48) in USD LIB 7/26 V
+[EN] 6TH FLOOR,
+[EN] CITY HALL HIGHBLOCK,
+[EN] TEL.NO.(電話）：29215055
+[EN] EDINBURGH PLACE,
+[EN] HONGKONG.
+[EN] FAX.NO.(傳真機):(852)2897 7774
+[EN] 香港愛丁堡廣場
+[EN] 大會堂高座六樓
+[EN] 來函不論中英文皆同樣迅速處理
+[EN] 3 December 1996
+[EN] Aplerchan site B
+[EN] A4//A10141
+[EN] Your Ref.: D,P&IT/841/A/0141
+[EN] Chief Engineer (D,P&I)
+[EN] Mr. LO B.W.
+[EN] Chief Distribution Planning Engineer
+[EN] DISTRIBUNON
+[EN] The Hongkong Electric Co Ltd
+[EN] -9DEC1996
+[EN] Electric Centre,
+[EN] DATE:
+[EN] ACTION
+[EN] 28 City Garden Road,
+[EN] Chief DistPlaning Engr
+[EN] Hong Kong.
+[EN] SeniorDisPannC
+[EN] Senior DistPanningE
+[EN] Senior DistPlanning Eng）
+[EN] Dear Sir,
+[EN] Dp t(Mapping Comuter）
+[EN] MOBILE LIBRARY O/S
+[EN] Drawing Oifice
+[EN] TUNG PING HOUSE,LEI TUNG ESTATE
+[EN] Aamin.Ofc
+[EN] Referring to your letter under
+[EN] reference,
+[EN] I
+[EN] attach
+[EN] herewith
+[EN] 
+[EN] a self-explanatory memo from the Housing Department
+[EN] to
+[EN] satisfy your requirements. The memo serves
+[EN] as a written statement
+[EN] of permission from the Housing Department and confirms that
+[EN] the
+[EN] electrical
+[EN] installation
+[EN] complies with
+[EN] stated
+[EN] rules
+[EN] and
+[EN] regulations.
+[EN] your prompt process of our application of
+[EN] electricity
+[EN] supply will be much appreciated. Should you have any queries
+[EN] on
+[EN] the matter, please feel free to contact Mr. Joseph CHAN
+[EN] at
+[EN] 29215055 0r 29212665.
+[EN] Thank you very much for your kind attention.
+[EN] 1. fu Ce
+[EN] rid
+[EN] Yours faithfully
+[EN] N. R. Nalnel
+[EN] 2Mww
+[EN] 6
+[EN] 3.wms
+[EN] B Mer
+[EN] (CHAN Kin-fan)
+[EN] SIuNED:
+[EN] 073431
+[EN] for Director of Urban
+[EN] Services
+[EN] C.C. L(M)2
+[EN] AL(CW)
+[EN] DEVELOPMENTPLANNING&INFORMATIONTECHNOLOGYD
+[EN] Ino.
+[EN] Action
+[EN] RECEIVED
+[EN] Chief Engineer （D,P&IT）
+[EN] 3
+[EN] Secretary
+[EN] 09 DEC1996
+[EN] DEC 6425PH96
+[EN] Deputy Chief Engr.(D&P)
+[EN] DeputyChiefEngr.(IT)
+[EN] Chief HW&SP Engr
+[EN] Chiaf DPEngr
+[EN] D.P&ITFie No.
+[EN] 市政總署
+[EN] URBAN
+[EN] SERVICES
+[EN] DEPARTMENT
+[CH] PLEKSEADDRESS YOURREPLYTO
+[CH] URBANCOUNCIL
+[CH] 覆函請寄交
+[CH] PUBLICLIBRARIESOFFICE
+[CH] Hong Kong Mobile Library
+[CH] A  H
+[CH] 市政局
+[CH] Estate
+[CH] 公共圖書館辦事處
+[CH] 並引用本署檔案編號
+[CH] (48) in USD LIB 7/26 V
+[CH] 6TH FLOOR,
+[CH] CITY HALL HIGHBLOCK,
+[CH] TEL.NO.(電話）：29215055
+[CH] EDINBURGH PLACE,
+[CH] HONGKONG.
+[CH] FAX.NO.(傳真機):(852)2897 7774
+[CH] 香港愛丁堡廣場
+[CH] 大會堂高座六樓
+[CH] 來函不論中英文皆同樣迅速處理
+[CH] 3 December 1996
+[CH] Aplerchan site B
+[CH] A4//A10141
+[CH] Your Ref.: D,P&IT/841/A/0141
+[CH] Chief Engineer (D,P&I)
+[CH] Mr. LO B.W.
+[CH] Chief Distribution Planning Engineer
+[CH] DISTRIBUNON
+[CH] The Hongkong Electric Co Ltd
+[CH] -9DEC1996
+[CH] Electric Centre,
+[CH] DATE:
+[CH] ACTION
+[CH] 28 City Garden Road,
+[CH] Chief DistPlaning Engr
+[CH] Hong Kong.
+[CH] SeniorDisPannC
+[CH] Senior DistPanningE
+[CH] Senior DistPlanning Eng）
+[CH] Dear Sir,
+[CH] Dp t(Mapping Comuter）
+[CH] MOBILE LIBRARY O/S
+[CH] Drawing Oifice
+[CH] TUNG PING HOUSE,LEI TUNG ESTATE
+[CH] Aamin.Ofc
+[CH] Referring to your letter under
+[CH] reference,
+[CH] I
+[CH] attach
+[CH] herewith
+[CH] 
+[CH] a self-explanatory memo from the Housing Department
+[CH] to
+[CH] satisfy your requirements. The memo serves
+[CH] as a written statement
+[CH] of permission from the Housing Department and confirms that
+[CH] the
+[CH] electrical
+[CH] installation
+[CH] complies with
+[CH] stated
+[CH] rules
+[CH] and
+[CH] regulations.
+[CH] your prompt process of our application of
+[CH] electricity
+[CH] supply will be much appreciated. Should you have any queries
+[CH] on
+[CH] the matter, please feel free to contact Mr. Joseph CHAN
+[CH] at
+[CH] 29215055 0r 29212665.
+[CH] Thank you very much for your kind attention.
+[CH] 1. fu Ce
+[CH] rid
+[CH] Yours faithfully
+[CH] N. R. Nalnel
+[CH] 2Mww
+[CH] 6
+[CH] 3.wms
+[CH] B Mer
+[CH] (CHAN Kin-fan)
+[CH] SIuNED:
+[CH] 073431
+[CH] for Director of Urban
+[CH] Services
+[CH] C.C. L(M)2
+[CH] AL(CW)
+[CH] DEVELOPMENTPLANNING&INFORMATIONTECHNOLOGYD
+[CH] Ino.
+[CH] Action
+[CH] RECEIVED
+[CH] Chief Engineer （D,P&IT）
+[CH] 3
+[CH] Secretary
+[CH] 09 DEC1996
+[CH] DEC 6425PH96
+[CH] Deputy Chief Engr.(D&P)
+[CH] DeputyChiefEngr.(IT)
+[CH] Chief HW&SP Engr
+[CH] Chiaf DPEngr
+[CH] D.P&ITFie No.
+[CH] 市政總署
+[CH] URBAN
+[CH] SERVICES
+[CH] DEPARTMENT
+[EN] MEMO
+[EN] Director of Housing
+[EN] From
+[EN] (HmLei Tung Estate)
+[EN] To
+[EN] Director ofUrban Services
+[EN] Rer.
+[EN] ln
+[EN] HD(H)LTG7/13/1
+[EN] (Attn.:
+[EN] Mr.CHANCheuk-wah
+[EN] Tel. No.
+[EN] 2874 7211
+[EN] Your Rer. (40)
+[EN] in
+[EN] USDLIB7/26V
+[EN] Fax. No.
+[EN] 28711258
+[EN] dated
+[EN] 6.11.1996
+[EN] Fex, No.
+[EN] Dete
+[EN] 3 December 1996
+[EN] Total Pages
+[EN] B
+[EN] Provision of an Electricity Meter Housed
+[EN] in a Metal Box for the
+[EN] MobileLibrary Stopat Lei Tung Estate
+[EN] Please refer to your-quoted memo on the captioned subject.
+[EN] 2.
+[EN] I am pleased to inform you that your application for installation of a
+[EN] siguboard and the provision of a electricity meter housed in a metal box for the
+[EN] Mobile Library stop at the open space near Tung Ping House has been approved by
+[EN] this office.
+[EN] 3.
+[EN] I also confirm that the above entire electrical imstallation was carried
+[EN] out by Registered Electrical Contractor in accordance with the current requirements
+[EN] stipulated under the Electricity Ordinance and the associated regulations, Code of
+[EN] Practice for the Electricity (Wiring) Regulations, Supply Rules of the Power
+[EN] Company and IEE Wiring Regulations.
+[EN] 4.
+[EN] For enquiries, please feel free to contact the undersigned at.
+[EN] 28747211.
+[EN] /
+[EN] (TsLin-tak)
+[EN] for Direcor of Housing
+[EN] [WINREF.:7-13-1]
+[CH] MEMO
+[CH] Director of Housing
+[CH] From
+[CH] (HmLei Tung Estate)
+[CH] To
+[CH] Director ofUrban Services
+[CH] Rer.
+[CH] ln
+[CH] HD(H)LTG7/13/1
+[CH] (Attn.:
+[CH] Mr.CHANCheuk-wah
+[CH] Tel. No.
+[CH] 2874 7211
+[CH] Your Rer. (40)
+[CH] in
+[CH] USDLIB7/26V
+[CH] Fax. No.
+[CH] 28711258
+[CH] dated
+[CH] 6.11.1996
+[CH] Fex, No.
+[CH] Dete
+[CH] 3 December 1996
+[CH] Total Pages
+[CH] B
+[CH] Provision of an Electricity Meter Housed
+[CH] in a Metal Box for the
+[CH] MobileLibrary Stopat Lei Tung Estate
+[CH] Please refer to your-quoted memo on the captioned subject.
+[CH] 2.
+[CH] I am pleased to inform you that your application for installation of a
+[CH] siguboard and the provision of a electricity meter housed in a metal box for the
+[CH] Mobile Library stop at the open space near Tung Ping House has been approved by
+[CH] this office.
+[CH] 3.
+[CH] I also confirm that the above entire electrical imstallation was carried
+[CH] out by Registered Electrical Contractor in accordance with the current requirements
+[CH] stipulated under the Electricity Ordinance and the associated regulations, Code of
+[CH] Practice for the Electricity (Wiring) Regulations, Supply Rules of the Power
+[CH] Company and IEE Wiring Regulations.
+[CH] 4.
+[CH] For enquiries, please feel free to contact the undersigned at.
+[CH] 28747211.
+[CH] /
+[CH] (TsLin-tak)
+[CH] for Direcor of Housing
+[CH] [WINREF.:7-13-1]
+[EN] 155616:35
+[EN] HONGKONG HOUSING AUTHORITY
+[EN] 香港秀屋委員会
+[EN] FACSIMILE TRANSMISSION
+[EN] To: H.K.Electric Co,
+[EN] Receiver's Fax No: 2873 4047
+[EN] Your Ref.:
+[EN] Attention: Mr
+[EN] W.W.Chang
+[EN] 6F
+[EN] Date:
+[EN] 23.10.96
+[EN] From:
+[EN] ABS
+[EN] 12
+[EN] Fax No:
+[EN] 2874 907
+[EN] No.of Pages :
+[EN] 5
+[EN] Our Ref.:
+[EN] (including this pages)
+[EN] Please notify
+[EN] K.Y.YEunB
+[EN] on Tel. No: 2874 9119
+[EN] if message received is incomplete.
+[EN] Subject :-
+[EN] Tung Ping. Mobile Lbrany
+[EN] Anmi C
+[EN] TOTAL P.04
+[EN] mwn dy
+[CH] 155616:35
+[CH] HONGKONG HOUSING AUTHORITY
+[CH] 香港秀屋委員会
+[CH] FACSIMILE TRANSMISSION
+[CH] To: H.K.Electric Co,
+[CH] Receiver's Fax No: 2873 4047
+[CH] Your Ref.:
+[CH] Attention: Mr
+[CH] W.W.Chang
+[CH] 6F
+[CH] Date:
+[CH] 23.10.96
+[CH] From:
+[CH] ABS
+[CH] 12
+[CH] Fax No:
+[CH] 2874 907
+[CH] No.of Pages :
+[CH] 5
+[CH] Our Ref.:
+[CH] (including this pages)
+[CH] Please notify
+[CH] K.Y.YEunB
+[CH] on Tel. No: 2874 9119
+[CH] if message received is incomplete.
+[CH] Subject :-
+[CH] Tung Ping. Mobile Lbrany
+[CH] Anmi C
+[CH] TOTAL P.04
+[CH] mwn dy
+[EN] Hong Kong Housing Authority
+[EN] Electrical Work Completion.Certificate-Form BS 1
+[EN] LTG-- 041
+[EN] To the Owner of Fixed Electrical Installation
+[EN] PART1(For Certification of Design
+[EN] D5
+[EN] P
+[EN] Signature o
+[EN] 1)
+[EN] Thisis to certify that the Fixed Electrical Installation depicted
+[EN] u
+[EN] in part 3 of this certificale has been designed in accordance
+[EN] Name in Full: So Kwingu
+[EN] 0H
+[EN] with the Electricity Ordinance.
+[EN] Post:_BSI/LTG
+[EN] Date:25/9186
+[EN] 布
+[EN] HONG
+[EN] KON
+[EN] PART2(FOCiCiOof thEINSTALLATIONINSPECTION&TESTING)
+[EN] 2)
+[EN] 1. YU SHEUNG YAN
+[EN] aregistered eiectrical worker.pursuant to regulation 19(1)ofthe
+[EN] Signature of Registered
+[EN] Electricity(Wiring) Regulationsmsde under sectlon59 of the Electricity Ordinance.Chapter406,
+[EN] Electrical Worker:
+[EN] hereby certify that (select the approprate paragraph by ticking the appropriate box beiow):-
+[EN] 余想仁
+[EN] v
+[EN] Ihaveinspected the Flxed ElectricaInstallationdepicted inpat3of this certificateon
+[EN] 26-9.19_6.I am satisfied that the Fixed ElectricaInstallatloncomplles
+[EN] Grade:8
+[EN] with the ordinance and is in safe working order.
+[EN] Permitted Work Code:AO B2
+[EN] Registration No:E9S443(0）
+[EN] I hsve inspected onlypart of the Fixed Eiectrical Installatlon depicled in part 3of ths
+[EN] Date:26/09/96
+[EN] certificate on
+[EN] 19
+[EN] .however in respect of those parts of the Fixed
+[EN] ElectricalInstallalion whichIhavenotinspectedIhave received valld certiates
+[EN] (FormWR(A))certified byother registered electrical workersfortheinddual partsas
+[EN] required underregulation21(3)ofthe Eiectricity(wiring) Regulatons.Iamsatisledthat
+[EN] theFixed Electrical Installationcomplies with the Orinanceandisin safe workingorder.
+[EN] 3)
+[EN] 1. NEWTON ENG CO, LTD.
+[EN] .a
+[EN] Signature of Registered
+[EN] Companys Chop:
+[EN] registered electrical contractor.endorse herewith in complance
+[EN] ElectricalContractr:
+[EN] 余
+[EN] 4
+[EN] RING
+[EN] with section 34(11) of the Electricity Ordinance,Chapter 406.
+[EN] and confirm that the above inspection recoros have been given to
+[EN] Registration no.: 001225
+[EN] 2
+[EN] the owner. and copies of whlch are being kept by men in accordance
+[EN] Date:27/09/96
+[EN] with regulation 22 of the Electricity (Wiring) Regulations.
+[EN] PART3
+[EN] 4)
+[EN] Name andaddressoftheOerofthe FixedElecricIntallaion:MongKongHousingAutorit33.FatKwong Stret.Kooon
+[EN] 5
+[EN] Address of Premises in which the Fixed Electrical Installation is Localed:
+[EN] MOBILE LIBRARY STOP NEAR TUNG PING HOUSE LEI.TUNG ESTATE.
+[EN] 6)
+[EN] Brief description of Fixed Electrical Instalation and/orSchematic Dlagrams (Additional No.of
+[EN] description sheets in A4 size attached.)
+[EN] drawings and
+[EN] a) Single line diagram number and, where avalable,works order numiber:
+[EN] 966100343
+[EN] b) Location &description of inspected part ofthe Fixed Electrical Installalfon:
+[EN] WHOLE
+[EN] c)Largest Switching Device of the inspected part of the Fixed Electrical Installation
+[EN] 63 amperes_
+[EN] 220 volts, single phase
+[EN] Note:
+[EN] Tick the appropriate box
+[EN] •Delele whichever is not appllcable
+[CH] Hong Kong Housing Authority
+[CH] Electrical Work Completion.Certificate-Form BS 1
+[CH] LTG-- 041
+[CH] To the Owner of Fixed Electrical Installation
+[CH] PART1(For Certification of Design
+[CH] D5
+[CH] P
+[CH] Signature o
+[CH] 1)
+[CH] Thisis to certify that the Fixed Electrical Installation depicted
+[CH] u
+[CH] in part 3 of this certificale has been designed in accordance
+[CH] Name in Full: So Kwingu
+[CH] 0H
+[CH] with the Electricity Ordinance.
+[CH] Post:_BSI/LTG
+[CH] Date:25/9186
+[CH] 布
+[CH] HONG
+[CH] KON
+[CH] PART2(FOCiCiOof thEINSTALLATIONINSPECTION&TESTING)
+[CH] 2)
+[CH] 1. YU SHEUNG YAN
+[CH] aregistered eiectrical worker.pursuant to regulation 19(1)ofthe
+[CH] Signature of Registered
+[CH] Electricity(Wiring) Regulationsmsde under sectlon59 of the Electricity Ordinance.Chapter406,
+[CH] Electrical Worker:
+[CH] hereby certify that (select the approprate paragraph by ticking the appropriate box beiow):-
+[CH] 余想仁
+[CH] v
+[CH] Ihaveinspected the Flxed ElectricaInstallationdepicted inpat3of this certificateon
+[CH] 26-9.19_6.I am satisfied that the Fixed ElectricaInstallatloncomplles
+[CH] Grade:8
+[CH] with the ordinance and is in safe working order.
+[CH] Permitted Work Code:AO B2
+[CH] Registration No:E9S443(0）
+[CH] I hsve inspected onlypart of the Fixed Eiectrical Installatlon depicled in part 3of ths
+[CH] Date:26/09/96
+[CH] certificate on
+[CH] 19
+[CH] .however in respect of those parts of the Fixed
+[CH] ElectricalInstallalion whichIhavenotinspectedIhave received valld certiates
+[CH] (FormWR(A))certified byother registered electrical workersfortheinddual partsas
+[CH] required underregulation21(3)ofthe Eiectricity(wiring) Regulatons.Iamsatisledthat
+[CH] theFixed Electrical Installationcomplies with the Orinanceandisin safe workingorder.
+[CH] 3)
+[CH] 1. NEWTON ENG CO, LTD.
+[CH] .a
+[CH] Signature of Registered
+[CH] Companys Chop:
+[CH] registered electrical contractor.endorse herewith in complance
+[CH] ElectricalContractr:
+[CH] 余
+[CH] 4
+[CH] RING
+[CH] with section 34(11) of the Electricity Ordinance,Chapter 406.
+[CH] and confirm that the above inspection recoros have been given to
+[CH] Registration no.: 001225
+[CH] 2
+[CH] the owner. and copies of whlch are being kept by men in accordance
+[CH] Date:27/09/96
+[CH] with regulation 22 of the Electricity (Wiring) Regulations.
+[CH] PART3
+[CH] 4)
+[CH] Name andaddressoftheOerofthe FixedElecricIntallaion:MongKongHousingAutorit33.FatKwong Stret.Kooon
+[CH] 5
+[CH] Address of Premises in which the Fixed Electrical Installation is Localed:
+[CH] MOBILE LIBRARY STOP NEAR TUNG PING HOUSE LEI.TUNG ESTATE.
+[CH] 6)
+[CH] Brief description of Fixed Electrical Instalation and/orSchematic Dlagrams (Additional No.of
+[CH] description sheets in A4 size attached.)
+[CH] drawings and
+[CH] a) Single line diagram number and, where avalable,works order numiber:
+[CH] 966100343
+[CH] b) Location &description of inspected part ofthe Fixed Electrical Installalfon:
+[CH] WHOLE
+[CH] c)Largest Switching Device of the inspected part of the Fixed Electrical Installation
+[CH] 63 amperes_
+[CH] 220 volts, single phase
+[CH] Note:
+[CH] Tick the appropriate box
+[CH] •Delele whichever is not appllcable
+[EN] S<KET CATIET
+[EN] J Laxis
+[EN] SOCKET CaTLET
+[EN] SCKET OUTLET
+[EN] ATERTIGHT
+[EN] TERTIGHT
+[EN] CONCRETE
+[EN] TERTENT
+[EN] TERTIGNT
+[EN] FILAR BOX
+[EN] []
+[EN] RCs
+[EN] ccB
+[EN] RCC8]
+[EN] 
+[EN] 
+[EN] ）
+[EN] E WAY MCS BOARD
+[EN] 16mm^²2} 2C RC/sSA/VC
+[EN] c.
+[EN] 63A S.P.
+[EN] KSOLATING SWITCH
+[EN] CABIE
+[EN] CTURGE FO.
+[EN] I E1GNICRVC EARTHING CAGLE AND
+[EN] 2×16M/C PVC.CABLE /N SURFACE G2.CoNDUIT
+[EN] SuRFLY CO'S KION METER
+[EN] 63A S.P.SN SWITCH FUSE
+[EN] 200A TR8N B.BC.
+[EN] ∴5
+[EN] ZOOA TIEN SITCH
+[EN] 95m^4CPC/3NA/PVC CABLE
+[EN] 一
+[EN] 
+[EN] |
+[EN] 10A
+[EN] i
+[EN] L.V. SWITCH BOARD IN MAIN SWITCH RUOM
+[EN] AT TING PING MOUSE
+[CH] S<KET CATIET
+[CH] J Laxis
+[CH] SOCKET CaTLET
+[CH] SCKET OUTLET
+[CH] ATERTIGHT
+[CH] TERTIGHT
+[CH] CONCRETE
+[CH] TERTENT
+[CH] TERTIGNT
+[CH] FILAR BOX
+[CH] []
+[CH] RCs
+[CH] ccB
+[CH] RCC8]
+[CH] 
+[CH] 
+[CH] ）
+[CH] E WAY MCS BOARD
+[CH] 16mm^²2} 2C RC/sSA/VC
+[CH] c.
+[CH] 63A S.P.
+[CH] KSOLATING SWITCH
+[CH] CABIE
+[CH] CTURGE FO.
+[CH] I E1GNICRVC EARTHING CAGLE AND
+[CH] 2×16M/C PVC.CABLE /N SURFACE G2.CoNDUIT
+[CH] SuRFLY CO'S KION METER
+[CH] 63A S.P.SN SWITCH FUSE
+[CH] 200A TR8N B.BC.
+[CH] ∴5
+[CH] ZOOA TIEN SITCH
+[CH] 95m^4CPC/3NA/PVC CABLE
+[CH] 一
+[CH] 
+[CH] |
+[CH] 10A
+[CH] i
+[CH] L.V. SWITCH BOARD IN MAIN SWITCH RUOM
+[CH] AT TING PING MOUSE
+[EN] 0
+[EN] 0
+[EN] 600x600
+[EN] 回
+[EN] caom
+[EN] X806.1.APE
+[EN] OFFICE
+[EN] LEGEND:-
+[EN] T
+[EN] 3
+[EN] (500×500×1500(L×WxH)
+[EN] CONCRETE PILLAR BOX
+[EN] ă
+[EN] 600×600×600 bEEP
+[EN] CABLE PIT
+[EN] 一
+[EN] 1 × 8omm G.IPPE
+[EN] Mdile Library Stop
+[EN] γ+cs
+[EN] 0
+[EN] Nean Tuny Piy foue
+[EN] .lei Tong Es tt
+[CH] 0
+[CH] 0
+[CH] 600x600
+[CH] 回
+[CH] caom
+[CH] X806.1.APE
+[CH] OFFICE
+[CH] LEGEND:-
+[CH] T
+[CH] 3
+[CH] (500×500×1500(L×WxH)
+[CH] CONCRETE PILLAR BOX
+[CH] ă
+[CH] 600×600×600 bEEP
+[CH] CABLE PIT
+[CH] 一
+[CH] 1 × 8omm G.IPPE
+[CH] Mdile Library Stop
+[CH] γ+cs
+[CH] 0
+[CH] Nean Tuny Piy foue
+[CH] .lei Tong Es tt

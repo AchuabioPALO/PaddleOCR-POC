@@ -1,0 +1,333 @@
+# Ground Truth for 841-A-0130_Agreement.Page 1-2
+# Instructions:
+# 1. Review and correct the OCR text below
+# 2. Remove obvious OCR errors (garbled text from diagrams, etc.)
+# 3. Fix spelling and formatting errors
+# 4. Keep the main document content intact
+# 5. Remove these instruction lines when done
+# 6. Save the file as-is for F1 evaluation
+#
+# Original OCR file: 841-A-0130_Agreement.Page 1-2_text.txt
+# 
+# ===== GROUND TRUTH TEXT STARTS BELOW =====
+
+c.c.
+ChielEngieer(T&D)-Schematic Wiring diagrarm is attached
+MSD file
+014909(SSSrec'd on 14/7/2004)
+W895D47L.DOC
+DESPATCHED
+DATE
+27JUL
+2004
+BY:MSD/DP
+OurRef.:MSD/841/A/0130
+26th July 2004
+Elegance Printing
+Company Limited,
+6/F,
+Zung
+Fu
+Industrial Building,
+1067
+King's
+Road,
+Quarry
+Bay,
+Hong
+Kong.
+Dear Sir,
+AKUNG NGAM VILLAGE ROAD 8, SHAUKEIWAN
+ADDITIONAL LOAD
+We refer to
+the
+letter
+dated
+3rd
+July
+2004
+from
+Careway
+Consultants
+Ltd.received
+by us on 14July2004
+concerning
+the
+captioned.
+
+The confirmation on the 
+floor
+loading
+the
+existing
+
+substation
+structure
+by
+Careway
+Consultants
+Ltd.
+is
+noted.
+It is
+also
+noted
+that
+a
+new
+switchroom
+has
+been
+proposed
+by you
+for
+accommodation
+of new
+service
+cables
+and
+cutouts.
+However,
+please
+note
+
+that
+your
+sleeve
+openings
+are
+insufficient for
+our
+cable
+installation.
+The
+new
+cutouts
+will
+be
+arranged
+
+in
+
+ring
+circuits
+and a
+total
+of 6
+nos.
+oflow
+voltage
+cable
+will
+be
+installed.
+You
+are
+required
+to
+of6
+nos.
+of
+150mm
+diameter
+sleeve
+openings
+can
+be
+provided
+at
+the
+building
+structure
+
+for
+our
+cable
+entry
+and
+submit
+your
+revised
+cable
+entry
+arrangement
+for
+our
+consideration.
+
+Please note
+that
+any
+reinstatement
+of
+excavation
+surfaces
+required
+for
+the
+provision
+of cable
+entry
+facilities
+and
+our
+cable
+laying
+work
+within
+the
+area
+of
+the
+above
+premises
+will
+be
+your
+responsibility.
+Also
+the
+cable
+entry
+facilities
+should
+be
+sealed
+properly
+by
+you
+against
+ingress
+of water
+to
+other
+parts
+of
+the
+premises
+during
+your
+excavation
+work
+
+and
+after
+our
+new
+cables
+are
+installed.
+
+Should
+you
+have
+any
+queries
+regarding
+the
+above
+matter,
+please
+contact
+our
+Mr.
+K.H.
+Yuen
+at
+telephone
+No.
+2843
+3194.
+Regarding
+your
+schematic
+wiring
+diagram,
+please
+ensure
+that
+the
+electrical
+installation
+concerned
+will
+comply
+with
+the
+Company's
+Supply
+Rules,
+the
+current
+edition
+of
+Electricity
+(Wiring)
+Regulations
+and
+the
+relevant
+Government
+Ordinances
+before
+notifying
+us
+that
+it is
+ready
+for
+our
+inspection.
+Schematic
+Wiring
+Diagram
+27
+JUL
+2004
+Sent
+to
+S.C.I.E.
+
+/To
+be
+continued...
+
+-2-
+Should you
+require
+any assistance concerning customer installations,
+please
+contact our
+Customer
+Installation Section at telephone No.28873455.
+Yours faithfully,
+
+B.W.Lo
+DISTRIBUTION PLANNING MANAGER
+KHY/cw
+Careway
+Consultants
+Ltd.,
+C.C.
+1907
+Fortress
+Tower,
+250
+King's
+Road,
+North
+Point,
+Hong
+Kong
+Luen
+Fat
+Engineering Co.,Ltd.,
+Flat
+G,
+2/F Cheong
+Hong Mansion,
+25-33
+Johnston
+Road,
+Hong
+Kong

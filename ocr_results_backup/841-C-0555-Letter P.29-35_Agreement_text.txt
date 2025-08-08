@@ -1,0 +1,628 @@
+[EN] OP.HQ.Admin.
+[EN] -7DEC1989
+[EN] OUR REF:D&P/841/C/0555
+[EN] YOUR REF:146(C)/B144-WHW
+[EN] 6th December 1989
+[EN] KNW Architects & Engineers Ltd.,
+[EN] 6th Floor, North, Somerset House,
+[EN] 28 Tong Chong Street,
+[EN] Quarry Bay,
+[EN] Hong Kong
+[EN] Dear Sirs,
+[EN] 34-36 CAINE ROAD
+[EN] We refer to your letters of 2lst November and
+[EN] lst December 1989 and the inspection of the above substation on
+[EN] 20th November 1989.
+[EN] We are pleased to advise you that your revised
+[EN] dimensions of louvres for the above substation are generally
+[EN] acceptable to us. We enclose two copies each of our drawing Nos.
+[EN] 841/C/0555 ReV.2,P29/88/R-1,P18/86/R-3 and P11/80/R-9
+[EN] incorporating your amendment and our up-dated requirement of the
+[EN] above substation for your attention.
+[EN] Please arrange with our Mr.K.M. Im at telephone No.
+[EN] 5-8l434l7 for further inspection of the above substation when all
+[EN] the defects have been cleared.
+[EN] Yours faithfully,
+[EN] THE HONGKONG ELECTRIC CO.LTD.
+[EN] B.W.LO
+[EN] CHIEF DISTRIBUTION PLANNING ENGINEER
+[EN] KMI:SKL
+[EN] Encl.
+[EN] C.C.D&P file
+[EN] Float file
+[EN] (J12KS480.LE)(89)
+[EN] B049647
+[CH] OP.HQ.Admin.
+[CH] -7DEC1989
+[CH] OUR REF:D&P/841/C/0555
+[CH] YOUR REF:146(C)/B144-WHW
+[CH] 6th December 1989
+[CH] KNW Architects & Engineers Ltd.,
+[CH] 6th Floor, North, Somerset House,
+[CH] 28 Tong Chong Street,
+[CH] Quarry Bay,
+[CH] Hong Kong
+[CH] Dear Sirs,
+[CH] 34-36 CAINE ROAD
+[CH] We refer to your letters of 2lst November and
+[CH] lst December 1989 and the inspection of the above substation on
+[CH] 20th November 1989.
+[CH] We are pleased to advise you that your revised
+[CH] dimensions of louvres for the above substation are generally
+[CH] acceptable to us. We enclose two copies each of our drawing Nos.
+[CH] 841/C/0555 ReV.2,P29/88/R-1,P18/86/R-3 and P11/80/R-9
+[CH] incorporating your amendment and our up-dated requirement of the
+[CH] above substation for your attention.
+[CH] Please arrange with our Mr.K.M. Im at telephone No.
+[CH] 5-8l434l7 for further inspection of the above substation when all
+[CH] the defects have been cleared.
+[CH] Yours faithfully,
+[CH] THE HONGKONG ELECTRIC CO.LTD.
+[CH] B.W.LO
+[CH] CHIEF DISTRIBUTION PLANNING ENGINEER
+[CH] KMI:SKL
+[CH] Encl.
+[CH] C.C.D&P file
+[CH] Float file
+[CH] (J12KS480.LE)(89)
+[CH] B049647
+[EN] 6/FNorth，Somerset House.
+[EN] Tel:5-8801288
+[EN] KNWARCHITECTS&ENGINEERSLIMITED
+[EN] 28 Tong Chong Street
+[EN] 關吴黄建築師·工程師有限公司
+[EN] Telex:71906KNWAEHX
+[EN] Quarry Bay, Hong Kong.
+[EN] Fax:5-8111511
+[EN] 049647
+[EN] RECEIVED
+[EN] Nv 23 217PM89
+[EN] Chief Engr.(Dev.&P
+[EN] November 21,1989
+[EN] Our Ref:146(C)/B144-WHW
+[EN] Your Ref:D&P/841/C/0555
+[EN] DEVELOPMENT &PLANNINGDIVISION
+[EN] A
+[EN] Info.
+[EN] Action
+[EN] lnliial
+[EN] Chief Engincar (DaP）
+[EN] The Hong Kong Electric Co.Ltd.,
+[EN] Secretary
+[EN] Electric House,
+[EN] Q
+[EN] 23.NOV 89
+[EN] 44 Kennedy Road,
+[EN] Hong Kong
+[EN] Chier HW & SP Engr
+[EN] Chial PPS Engr
+[EN] Attn :Mr. Lok
+[EN] Chiet DP Engr
+[EN] Chiet SW Engn
+[EN] Rernarks
+[EN] Cth-floor D& PFile
+[EN] Dear Sirs,
+[EN] Re : Electricity Supply - Transformer Room
+[EN] Proposed School & Convent Building
+[EN] 34-36 Caine Road,Hong Kong
+[EN] We refer to our facsimile transmittal dated October 27,1989 and forward
+[EN] herewith a copy of front view regarding the air intake louvre for the
+[EN] transformer room for your approval/comment.
+[EN] Yours faithfully,
+[EN] DISTRIBUTION PLANNING DEPT.
+[EN] 28
+[EN] 8NOV 1989
+[EN] ACTION
+[EN] INFO.
+[EN] DATE:
+[EN] Lul Chu Leung
+[EN] Chif Dist Plan
+[EN] m
+[EN] fos & on bohalf of
+[EN] CNW Archlteclo&Englineers LImited
+[EN] Senior Dist Faa
+[EN] 9
+[EN] Seris Da
+[EN] Encl.
+[EN] as stated
+[EN] SeniorLat P
+[EN] 租
+[EN] C.C.
+[EN] Canossian Missions
+[EN] Engr.(
+[EN] Langdon Every & Seah (w/e)
+[EN] M.KMI
+[EN] Drawing Oflics
+[EN] P.Chien (w/e)
+[EN] Admin Once
+[EN] s/s6ptbj
+[EN] MPK/phl
+[EN] B.U.
+[EN] rd 28m189
+[CH] 6/FNorth，Somerset House.
+[CH] Tel:5-8801288
+[CH] KNWARCHITECTS&ENGINEERSLIMITED
+[CH] 28 Tong Chong Street
+[CH] 關吴黄建築師·工程師有限公司
+[CH] Telex:71906KNWAEHX
+[CH] Quarry Bay, Hong Kong.
+[CH] Fax:5-8111511
+[CH] 049647
+[CH] RECEIVED
+[CH] Nv 23 217PM89
+[CH] Chief Engr.(Dev.&P
+[CH] November 21,1989
+[CH] Our Ref:146(C)/B144-WHW
+[CH] Your Ref:D&P/841/C/0555
+[CH] DEVELOPMENT &PLANNINGDIVISION
+[CH] A
+[CH] Info.
+[CH] Action
+[CH] lnliial
+[CH] Chief Engincar (DaP）
+[CH] The Hong Kong Electric Co.Ltd.,
+[CH] Secretary
+[CH] Electric House,
+[CH] Q
+[CH] 23.NOV 89
+[CH] 44 Kennedy Road,
+[CH] Hong Kong
+[CH] Chier HW & SP Engr
+[CH] Chial PPS Engr
+[CH] Attn :Mr. Lok
+[CH] Chiet DP Engr
+[CH] Chiet SW Engn
+[CH] Rernarks
+[CH] Cth-floor D& PFile
+[CH] Dear Sirs,
+[CH] Re : Electricity Supply - Transformer Room
+[CH] Proposed School & Convent Building
+[CH] 34-36 Caine Road,Hong Kong
+[CH] We refer to our facsimile transmittal dated October 27,1989 and forward
+[CH] herewith a copy of front view regarding the air intake louvre for the
+[CH] transformer room for your approval/comment.
+[CH] Yours faithfully,
+[CH] DISTRIBUTION PLANNING DEPT.
+[CH] 28
+[CH] 8NOV 1989
+[CH] ACTION
+[CH] INFO.
+[CH] DATE:
+[CH] Lul Chu Leung
+[CH] Chif Dist Plan
+[CH] m
+[CH] fos & on bohalf of
+[CH] CNW Archlteclo&Englineers LImited
+[CH] Senior Dist Faa
+[CH] 9
+[CH] Seris Da
+[CH] Encl.
+[CH] as stated
+[CH] SeniorLat P
+[CH] 租
+[CH] C.C.
+[CH] Canossian Missions
+[CH] Engr.(
+[CH] Langdon Every & Seah (w/e)
+[CH] M.KMI
+[CH] Drawing Oflics
+[CH] P.Chien (w/e)
+[CH] Admin Once
+[CH] s/s6ptbj
+[CH] MPK/phl
+[CH] B.U.
+[CH] rd 28m189
+[EN] 
+[EN] □
+[EN] 65.00
+[EN] 十1
+[EN] 5
+[EN] 3150'x!200H.
+[EN] T1
+[EN] 十1
+[EN] STEEL LOUYRE
+[EN] 
+[EN] □
+[EN] 1.+
+[EN] 二+
+[EN] ROOM
+[EN] t→
+[EN] □
+[EN] 
+[EN] FRONT. VIEW OF TRANSFORMER
+[EN] TL
+[EN] トL
+[EN] 1
+[EN] □
+[EN] t1
+[EN] 
+[EN] LL
+[EN] T+
+[EN] □
+[EN] 11
+[EN] L!
+[EN] LI
+[EN] 89
+[EN] STEEL LOyYkE-
+[EN] 1000×.2800H.
+[EN] 5.35
+[CH] 
+[CH] □
+[CH] 65.00
+[CH] 十1
+[CH] 5
+[CH] 3150'x!200H.
+[CH] T1
+[CH] 十1
+[CH] STEEL LOUYRE
+[CH] 
+[CH] □
+[CH] 1.+
+[CH] 二+
+[CH] ROOM
+[CH] t→
+[CH] □
+[CH] 
+[CH] FRONT. VIEW OF TRANSFORMER
+[CH] TL
+[CH] トL
+[CH] 1
+[CH] □
+[CH] t1
+[CH] 
+[CH] LL
+[CH] T+
+[CH] □
+[CH] 11
+[CH] L!
+[CH] LI
+[CH] 89
+[CH] STEEL LOyYkE-
+[CH] 1000×.2800H.
+[CH] 5.35
+[EN] ong Chong Stree:
+[EN] Tel:5-8801288
+[EN] KNWARCHITECTS&ENGINEERSLIMITED
+[EN] 關吴黄建築師·工程師有限公司
+[EN] C.a,Bay.Hong KOrg
+[EN] Telex:71906KNWAEHX
+[EN] Fax5-8111511
+[EN] December 1,1989
+[EN] Your Ref:D&P/841/C/0555
+[EN] Our Ref:146C/B149-WHW
+[EN] The Hongkong Electric Co Ltd
+[EN] Distribution Planning Dept
+[EN] 6/F;Apleichau Power Station
+[EN] Aberdeen
+[EN] Hong Kong
+[EN] Attn:Mr Lok
+[EN] Dear Sirs
+[EN] Re:Transformer Room
+[EN] Proposed School and Convent Building
+[EN] 34-36 Caine Road,Hong Kong
+[EN] We are pleased to inform you that the bottom level of the air intake louvre
+[EN] (refer to issued letter dated November 2l,1989) has been revised to
+[EN] 550mm above the pedestrian level.
+[EN] Yours faithfully
+[EN] Lui Chu Leung
+[EN] or & on behalf of
+[EN] KArch:octs & Engineers Lmlted
+[EN] cc Client
+[EN] LES
+[EN] cOw
+[EN] P Chien
+[EN] Majestic
+[EN] YC/MPK/lyk
+[CH] ong Chong Stree:
+[CH] Tel:5-8801288
+[CH] KNWARCHITECTS&ENGINEERSLIMITED
+[CH] 關吴黄建築師·工程師有限公司
+[CH] C.a,Bay.Hong KOrg
+[CH] Telex:71906KNWAEHX
+[CH] Fax5-8111511
+[CH] December 1,1989
+[CH] Your Ref:D&P/841/C/0555
+[CH] Our Ref:146C/B149-WHW
+[CH] The Hongkong Electric Co Ltd
+[CH] Distribution Planning Dept
+[CH] 6/F;Apleichau Power Station
+[CH] Aberdeen
+[CH] Hong Kong
+[CH] Attn:Mr Lok
+[CH] Dear Sirs
+[CH] Re:Transformer Room
+[CH] Proposed School and Convent Building
+[CH] 34-36 Caine Road,Hong Kong
+[CH] We are pleased to inform you that the bottom level of the air intake louvre
+[CH] (refer to issued letter dated November 2l,1989) has been revised to
+[CH] 550mm above the pedestrian level.
+[CH] Yours faithfully
+[CH] Lui Chu Leung
+[CH] or & on behalf of
+[CH] KArch:octs & Engineers Lmlted
+[CH] cc Client
+[CH] LES
+[CH] cOw
+[CH] P Chien
+[CH] Majestic
+[CH] YC/MPK/lyk
+[EN] 
+[EN] 6iT Nonn. Bamerset House
+[EN] T5-8801288
+[EN] KHW ARCHITECTS& ENOINEERS LIMITEO
+[EN] 關类画築師·工程師有限公司
+[EN] 281ong Unong soe
+[EN] lex:/KNWAE HX
+[EN] Qaey Hig Kuny
+[EN] F2X 5-811151
+[EN] KNW
+[EN] FACSIMILE TRANSMITTAL
+[EN] 27/10/89
+[EN] Date
+[EN] (AA.Mk. LOk)
+[EN] To
+[EN] :hec
+[EN] 6
+[EN] planmip
+[EN] Machine No.
+[EN] 5-8734047
+[EN] From
+[EN] KNW(Me.P.K.MAK)
+[EN] Ro
+[EN] Tx. Cm laire at 34-s6 caine Kot
+[EN] Total Pages
+[EN] 2
+[EN] (including cover)
+[EN] Romarko
+[EN] FOR YOUK A COMMENT
+[EN] h.kmK
+[CH] 
+[CH] 6iT Nonn. Bamerset House
+[CH] T5-8801288
+[CH] KHW ARCHITECTS& ENOINEERS LIMITEO
+[CH] 關类画築師·工程師有限公司
+[CH] 281ong Unong soe
+[CH] lex:/KNWAE HX
+[CH] Qaey Hig Kuny
+[CH] F2X 5-811151
+[CH] KNW
+[CH] FACSIMILE TRANSMITTAL
+[CH] 27/10/89
+[CH] Date
+[CH] (AA.Mk. LOk)
+[CH] To
+[CH] :hec
+[CH] 6
+[CH] planmip
+[CH] Machine No.
+[CH] 5-8734047
+[CH] From
+[CH] KNW(Me.P.K.MAK)
+[CH] Ro
+[CH] Tx. Cm laire at 34-s6 caine Kot
+[CH] Total Pages
+[CH] 2
+[CH] (including cover)
+[CH] Romarko
+[CH] FOR YOUK A COMMENT
+[CH] h.kmK
+[EN] 
+[EN] 吉
+[EN] 富
+[EN] 65.
+[EN] 
+[EN] 3150×1200H
+[EN] STEEL LOUYRE
+[EN] T1
+[EN] 十1
+[EN] r
+[EN] 
+[EN] 上L
+[EN] 
+[EN] 1+
+[EN] 1
+[EN] ROOM
+[EN] -十
+[EN] 一-
+[EN] 1
+[EN] 1+
+[EN] FRONT. VIEW OF TRANSFORMER
+[EN] 广→
+[EN] 十
+[EN] 1
+[EN] 1
+[EN] t1
+[EN] 
+[EN] 1L
+[EN] 1
+[EN] T
+[EN] T7
+[EN] T7
+[EN] 80
+[EN] 山
+[EN] STEEL LoyYRE
+[EN] 1600.2800H.
+[EN] 
+[EN] m
+[EN] S
+[CH] 
+[CH] 吉
+[CH] 富
+[CH] 65.
+[CH] 
+[CH] 3150×1200H
+[CH] STEEL LOUYRE
+[CH] T1
+[CH] 十1
+[CH] r
+[CH] 
+[CH] 上L
+[CH] 
+[CH] 1+
+[CH] 1
+[CH] ROOM
+[CH] -十
+[CH] 一-
+[CH] 1
+[CH] 1+
+[CH] FRONT. VIEW OF TRANSFORMER
+[CH] 广→
+[CH] 十
+[CH] 1
+[CH] 1
+[CH] t1
+[CH] 
+[CH] 1L
+[CH] 1
+[CH] T
+[CH] T7
+[CH] T7
+[CH] 80
+[CH] 山
+[CH] STEEL LoyYRE
+[CH] 1600.2800H.
+[CH] 
+[CH] m
+[CH] S
+[EN] 6/FNorth，Somerset House..Tel:5-8801288
+[EN] KNWARCHITECTS&ENGINEERSLIMITED
+[EN] 關吴黄建築師·工程師有限公司
+[EN] 28 Torg Chong Street,
+[EN] Telex:71906KNWAE HX
+[EN] Quarry Bay, Hong Kong
+[EN] Fax:5-8111511
+[EN] 2091509
+[EN] RECEIVED
+[EN] DEC 6 217PM89
+[EN] December 1,1989
+[EN] Your Ref:D&P/841/C/0555
+[EN] Our Ref:146C/B149-WHW
+[EN] The Hongkong Electric Co Ltd
+[EN] Chisf Dagr. (Dey.
+[EN] Distribution Planning Dept
+[EN] 6/F, Apleichau Power Station
+[EN] Aberdeen
+[EN] Hong Kong
+[EN] N.R.
+[EN] Attn: Mr Lok
+[EN] S
+[EN] Dear Sirs
+[EN] SIGNED:
+[EN] Re:Transformer Room
+[EN] Proposed School and Convent Building
+[EN] 34-36 Caine Road, Hong Kong
+[EN] We are pleased to inform you that the bottom level of the air intake louvre
+[EN] (refer to issued letter dated November 2l,1989) has been revised to
+[EN] 550mm above the pedestrian level.
+[EN] Recevedlyhand
+[EN] Yours faithfully
+[EN] m4/12/89.ced
+[EN] forreplguthe i
+[EN] adancl. Yauh
+[EN] Lui Chu Leung
+[EN] DEVELOPMENT &PLACING DIVISION
+[EN] for & on bohalf of
+[EN] KNW Archltocts&Engineers LmIed
+[EN] ActionInitial
+[EN] Chief Engincer (DaP）
+[EN] Sccreta:y
+[EN] 06.DEC 89
+[EN] cc Client
+[EN] 84/c/055
+[EN] LES
+[EN] 7DEC"
+[EN] Chiel HW & SP Engr.
+[EN] 
+[EN] N PLANNING DEPT.
+[EN] Chief PPS Engr.
+[EN] COw
+[EN] 1989
+[EN] Chief DP Engr.
+[EN] P ChienDATE:
+[EN] Chief SW Engr
+[EN] INFO.
+[EN] Remarks oth floor I &P File
+[EN] Majestic D Pg Eng
+[EN] Senior DistParng Eng
+[EN] YC/MPK/1yk
+[EN] 9n5.
+[EN] Sunior DistPanningEng(
+[EN] Snio Dis Paing EngE)
+[EN] A.em
+[EN] Engr. (Mapping Computer)
+[EN] Drawing Officoa
+[EN] Adnin Office
+[EN] Thi letter wasselied i
+[EN] owleths f6/2/89.
+[EN] w
+[CH] 6/FNorth，Somerset House..Tel:5-8801288
+[CH] KNWARCHITECTS&ENGINEERSLIMITED
+[CH] 關吴黄建築師·工程師有限公司
+[CH] 28 Torg Chong Street,
+[CH] Telex:71906KNWAE HX
+[CH] Quarry Bay, Hong Kong
+[CH] Fax:5-8111511
+[CH] 2091509
+[CH] RECEIVED
+[CH] DEC 6 217PM89
+[CH] December 1,1989
+[CH] Your Ref:D&P/841/C/0555
+[CH] Our Ref:146C/B149-WHW
+[CH] The Hongkong Electric Co Ltd
+[CH] Chisf Dagr. (Dey.
+[CH] Distribution Planning Dept
+[CH] 6/F, Apleichau Power Station
+[CH] Aberdeen
+[CH] Hong Kong
+[CH] N.R.
+[CH] Attn: Mr Lok
+[CH] S
+[CH] Dear Sirs
+[CH] SIGNED:
+[CH] Re:Transformer Room
+[CH] Proposed School and Convent Building
+[CH] 34-36 Caine Road, Hong Kong
+[CH] We are pleased to inform you that the bottom level of the air intake louvre
+[CH] (refer to issued letter dated November 2l,1989) has been revised to
+[CH] 550mm above the pedestrian level.
+[CH] Recevedlyhand
+[CH] Yours faithfully
+[CH] m4/12/89.ced
+[CH] forreplguthe i
+[CH] adancl. Yauh
+[CH] Lui Chu Leung
+[CH] DEVELOPMENT &PLACING DIVISION
+[CH] for & on bohalf of
+[CH] KNW Archltocts&Engineers LmIed
+[CH] ActionInitial
+[CH] Chief Engincer (DaP）
+[CH] Sccreta:y
+[CH] 06.DEC 89
+[CH] cc Client
+[CH] 84/c/055
+[CH] LES
+[CH] 7DEC"
+[CH] Chiel HW & SP Engr.
+[CH] 
+[CH] N PLANNING DEPT.
+[CH] Chief PPS Engr.
+[CH] COw
+[CH] 1989
+[CH] Chief DP Engr.
+[CH] P ChienDATE:
+[CH] Chief SW Engr
+[CH] INFO.
+[CH] Remarks oth floor I &P File
+[CH] Majestic D Pg Eng
+[CH] Senior DistParng Eng
+[CH] YC/MPK/1yk
+[CH] 9n5.
+[CH] Sunior DistPanningEng(
+[CH] Snio Dis Paing EngE)
+[CH] A.em
+[CH] Engr. (Mapping Computer)
+[CH] Drawing Officoa
+[CH] Adnin Office
+[CH] Thi letter wasselied i
+[CH] owleths f6/2/89.
+[CH] w

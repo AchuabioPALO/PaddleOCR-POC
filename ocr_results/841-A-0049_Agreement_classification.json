@@ -1,0 +1,34 @@
+{
+  "category": "Incoming Letter",
+  "tags": [
+    "Defect (Access)",
+    "Defect (Civil)",
+    "Agreement (Access)",
+    "Agreement (Ventilation)"
+  ],
+  "confidence": 0.4,
+  "detailed_tags": [
+    {
+      "tag": "Defect (Access)",
+      "confidence": 0.4,
+      "method": "LangExtract ML+Pattern"
+    },
+    {
+      "tag": "Defect (Civil)",
+      "confidence": 0.4,
+      "method": "LangExtract ML+Pattern"
+    },
+    {
+      "tag": "Agreement (Access)",
+      "confidence": 0.35,
+      "method": "LangExtract ML+Pattern"
+    },
+    {
+      "tag": "Agreement (Ventilation)",
+      "confidence": 0.35,
+      "method": "LangExtract ML+Pattern"
+    }
+  ],
+  "method": "LangExtract",
+  "classification_notes": "LangExtract ML classification with 4 tags identified"
+}

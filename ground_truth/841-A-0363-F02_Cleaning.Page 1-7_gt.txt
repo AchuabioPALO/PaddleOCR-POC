@@ -1,0 +1,2 @@
+Category: Defect Notification to Customer
+Tags: Defect (Access), Defect (Civil), VSC/VIC, Agreement (Access), Agreement (Ventilation)

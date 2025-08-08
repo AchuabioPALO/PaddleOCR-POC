@@ -1,0 +1,1717 @@
+{
+  "filename": "841-C-0555-Letter P.17-24_Letter.Page 1-2.pdf",
+  "processing_info": {
+    "pages_processed": 2,
+    "language_mode": "en",
+    "total_text_lines": 73
+  },
+  "ocr_results": [
+    {
+      "page": 1,
+      "en_results": [
+        {
+          "text": "OP. HQ.Admin.",
+          "confidence": 0.950373649597168,
+          "bbox": [
+            [
+              567,
+              95
+            ],
+            [
+              750,
+              97
+            ],
+            [
+              749,
+              125
+            ],
+            [
+              566,
+              123
+            ]
+          ]
+        },
+        {
+          "text": "-9",
+          "confidence": 0.9023356437683105,
+          "bbox": [
+            [
+              624,
+              167
+            ],
+            [
+              653,
+              167
+            ],
+            [
+              653,
+              187
+            ],
+            [
+              624,
+              187
+            ]
+          ]
+        },
+        {
+          "text": "FEB1990",
+          "confidence": 0.9818812012672424,
+          "bbox": [
+            [
+              644,
+              162
+            ],
+            [
+              740,
+              162
+            ],
+            [
+              740,
+              195
+            ],
+            [
+              644,
+              195
+            ]
+          ]
+        },
+        {
+          "text": "OURREF:D&P/841/C/0555",
+          "confidence": 0.9787918329238892,
+          "bbox": [
+            [
+              142,
+              256
+            ],
+            [
+              475,
+              259
+            ],
+            [
+              475,
+              287
+            ],
+            [
+              142,
+              284
+            ]
+          ]
+        },
+        {
+          "text": "YOUR REF:()in S(U)13/IL/148",
+          "confidence": 0.8747040033340454,
+          "bbox": [
+            [
+              142,
+              283
+            ],
+            [
+              590,
+              283
+            ],
+            [
+              590,
+              313
+            ],
+            [
+              142,
+              313
+            ]
+          ]
+        },
+        {
+          "text": "8th February 1990",
+          "confidence": 0.9688925743103027,
+          "bbox": [
+            [
+              844,
+              282
+            ],
+            [
+              1103,
+              280
+            ],
+            [
+              1104,
+              311
+            ],
+            [
+              844,
+              313
+            ]
+          ]
+        },
+        {
+          "text": "Drainage Services Department,",
+          "confidence": 0.9846027493476868,
+          "bbox": [
+            [
+              141,
+              333
+            ],
+            [
+              556,
+              336
+            ],
+            [
+              556,
+              362
+            ],
+            [
+              141,
+              359
+            ]
+          ]
+        },
+        {
+          "text": "Urban Division,",
+          "confidence": 0.9764888286590576,
+          "bbox": [
+            [
+              142,
+              359
+            ],
+            [
+              354,
+              359
+            ],
+            [
+              354,
+              383
+            ],
+            [
+              142,
+              383
+            ]
+          ]
+        },
+        {
+          "text": "5th Floor,",
+          "confidence": 0.9838937520980835,
+          "bbox": [
+            [
+              142,
+              383
+            ],
+            [
+              284,
+              383
+            ],
+            [
+              284,
+              410
+            ],
+            [
+              142,
+              410
+            ]
+          ]
+        },
+        {
+          "text": "Hennessy Centre,",
+          "confidence": 0.9771080017089844,
+          "bbox": [
+            [
+              142,
+              409
+            ],
+            [
+              369,
+              409
+            ],
+            [
+              369,
+              436
+            ],
+            [
+              142,
+              436
+            ]
+          ]
+        },
+        {
+          "text": "500 Hennessy Road,",
+          "confidence": 0.9708386659622192,
+          "bbox": [
+            [
+              142,
+              433
+            ],
+            [
+              397,
+              433
+            ],
+            [
+              397,
+              460
+            ],
+            [
+              142,
+              460
+            ]
+          ]
+        },
+        {
+          "text": "Hong Kong.",
+          "confidence": 0.9733277559280396,
+          "bbox": [
+            [
+              141,
+              460
+            ],
+            [
+              285,
+              460
+            ],
+            [
+              285,
+              487
+            ],
+            [
+              141,
+              487
+            ]
+          ]
+        },
+        {
+          "text": "Dear Sirs,",
+          "confidence": 0.9887887239456177,
+          "bbox": [
+            [
+              140,
+              532
+            ],
+            [
+              285,
+              532
+            ],
+            [
+              285,
+              560
+            ],
+            [
+              140,
+              560
+            ]
+          ]
+        },
+        {
+          "text": "34-36 CAINE ROAD",
+          "confidence": 0.9601452946662903,
+          "bbox": [
+            [
+              496,
+              581
+            ],
+            [
+              732,
+              584
+            ],
+            [
+              732,
+              614
+            ],
+            [
+              496,
+              611
+            ]
+          ]
+        },
+        {
+          "text": "We refer to your letter of 8th January 1990 informing us",
+          "confidence": 0.9576706886291504,
+          "bbox": [
+            [
+              280,
+              656
+            ],
+            [
+              1102,
+              656
+            ],
+            [
+              1102,
+              686
+            ],
+            [
+              280,
+              686
+            ]
+          ]
+        },
+        {
+          "text": "of your impending works at the above location.",
+          "confidence": 0.956220805644989,
+          "bbox": [
+            [
+              139,
+              682
+            ],
+            [
+              801,
+              686
+            ],
+            [
+              801,
+              713
+            ],
+            [
+              139,
+              709
+            ]
+          ]
+        },
+        {
+          "text": "Enclosed are part plans showing the approximate position",
+          "confidence": 0.9803851246833801,
+          "bbox": [
+            [
+              279,
+              731
+            ],
+            [
+              1102,
+              732
+            ],
+            [
+              1102,
+              763
+            ],
+            [
+              279,
+              762
+            ]
+          ]
+        },
+        {
+          "text": "of our Company's cables in the vicinity of your proposed works.",
+          "confidence": 0.9678172469139099,
+          "bbox": [
+            [
+              135,
+              754
+            ],
+            [
+              1054,
+              757
+            ],
+            [
+              1054,
+              789
+            ],
+            [
+              135,
+              786
+            ]
+          ]
+        },
+        {
+          "text": "Please note that the plans showed the record of our cables at the",
+          "confidence": 0.961428701877594,
+          "bbox": [
+            [
+              133,
+              781
+            ],
+            [
+              1088,
+              782
+            ],
+            [
+              1088,
+              812
+            ],
+            [
+              133,
+              811
+            ]
+          ]
+        },
+        {
+          "text": "time the plans were prepared. You may expect to find our cables",
+          "confidence": 0.9730232357978821,
+          "bbox": [
+            [
+              134,
+              806
+            ],
+            [
+              1073,
+              807
+            ],
+            [
+              1073,
+              838
+            ],
+            [
+              134,
+              837
+            ]
+          ]
+        },
+        {
+          "text": "located in different positions and depths depending on such",
+          "confidence": 0.9658907651901245,
+          "bbox": [
+            [
+              134,
+              831
+            ],
+            [
+              998,
+              833
+            ],
+            [
+              998,
+              863
+            ],
+            [
+              134,
+              861
+            ]
+          ]
+        },
+        {
+          "text": "factors as when the cables were laid,obstructions in the area,",
+          "confidence": 0.9702856540679932,
+          "bbox": [
+            [
+              134,
+              858
+            ],
+            [
+              1055,
+              860
+            ],
+            [
+              1055,
+              887
+            ],
+            [
+              134,
+              885
+            ]
+          ]
+        },
+        {
+          "text": "the location of other utilities, changes due to continuous",
+          "confidence": 0.9671790599822998,
+          "bbox": [
+            [
+              134,
+              881
+            ],
+            [
+              985,
+              885
+            ],
+            [
+              985,
+              915
+            ],
+            [
+              134,
+              910
+            ]
+          ]
+        },
+        {
+          "text": "alteration, improvement and extension of our network and changes",
+          "confidence": 0.9756682515144348,
+          "bbox": [
+            [
+              134,
+              907
+            ],
+            [
+              1075,
+              909
+            ],
+            [
+              1075,
+              938
+            ],
+            [
+              134,
+              936
+            ]
+          ]
+        },
+        {
+          "text": "due to continuous road and property developments etc.",
+          "confidence": 0.9778344035148621,
+          "bbox": [
+            [
+              133,
+              932
+            ],
+            [
+              906,
+              934
+            ],
+            [
+              906,
+              964
+            ],
+            [
+              133,
+              962
+            ]
+          ]
+        },
+        {
+          "text": "Since our cables are energised and our enclosed plans",
+          "confidence": 0.974084734916687,
+          "bbox": [
+            [
+              275,
+              981
+            ],
+            [
+              1062,
+              984
+            ],
+            [
+              1062,
+              1014
+            ],
+            [
+              275,
+              1011
+            ]
+          ]
+        },
+        {
+          "text": "show only their approximate, rather than exact, positions, it is",
+          "confidence": 0.9724358320236206,
+          "bbox": [
+            [
+              133,
+              1006
+            ],
+            [
+              1077,
+              1009
+            ],
+            [
+              1077,
+              1040
+            ],
+            [
+              133,
+              1037
+            ]
+          ]
+        },
+        {
+          "text": "imperative that your contractors and employees exercise extreme",
+          "confidence": 0.9759501218795776,
+          "bbox": [
+            [
+              133,
+              1032
+            ],
+            [
+              1063,
+              1035
+            ],
+            [
+              1063,
+              1065
+            ],
+            [
+              133,
+              1062
+            ]
+          ]
+        },
+        {
+          "text": "care during any excavations that may be required and take every",
+          "confidence": 0.9735588431358337,
+          "bbox": [
+            [
+              131,
+              1054
+            ],
+            [
+              1063,
+              1061
+            ],
+            [
+              1063,
+              1093
+            ],
+            [
+              131,
+              1087
+            ]
+          ]
+        },
+        {
+          "text": "precaution to prevent accidents to personnel and to our cables.",
+          "confidence": 0.9720295071601868,
+          "bbox": [
+            [
+              134,
+              1081
+            ],
+            [
+              1059,
+              1084
+            ],
+            [
+              1059,
+              1115
+            ],
+            [
+              134,
+              1112
+            ]
+          ]
+        },
+        {
+          "text": "Remember cables when damaged may explode and cause death or injury",
+          "confidence": 0.9733646512031555,
+          "bbox": [
+            [
+              131,
+              1106
+            ],
+            [
+              1107,
+              1108
+            ],
+            [
+              1106,
+              1141
+            ],
+            [
+              131,
+              1139
+            ]
+          ]
+        },
+        {
+          "text": "to your employees or the general public. In addition, damage to",
+          "confidence": 0.9641764760017395,
+          "bbox": [
+            [
+              130,
+              1131
+            ],
+            [
+              1077,
+              1135
+            ],
+            [
+              1077,
+              1166
+            ],
+            [
+              130,
+              1162
+            ]
+          ]
+        },
+        {
+          "text": "our cables may lead to a suspension of our supply of electricity",
+          "confidence": 0.9616802930831909,
+          "bbox": [
+            [
+              131,
+              1157
+            ],
+            [
+              1075,
+              1161
+            ],
+            [
+              1075,
+              1191
+            ],
+            [
+              131,
+              1187
+            ]
+          ]
+        },
+        {
+          "text": "to many domestic, commercial and industrial users. Under all",
+          "confidence": 0.959588885307312,
+          "bbox": [
+            [
+              131,
+              1183
+            ],
+            [
+              1031,
+              1187
+            ],
+            [
+              1031,
+              1214
+            ],
+            [
+              131,
+              1210
+            ]
+          ]
+        },
+        {
+          "text": "circumstances, the precise positions and depths of our cables",
+          "confidence": 0.970551609992981,
+          "bbox": [
+            [
+              133,
+              1208
+            ],
+            [
+              1030,
+              1212
+            ],
+            [
+              1030,
+              1239
+            ],
+            [
+              133,
+              1235
+            ]
+          ]
+        },
+        {
+          "text": "should be located by hand excavation prior to the commencement of",
+          "confidence": 0.9591994881629944,
+          "bbox": [
+            [
+              132,
+              1231
+            ],
+            [
+              1088,
+              1235
+            ],
+            [
+              1088,
+              1265
+            ],
+            [
+              132,
+              1261
+            ]
+          ]
+        },
+        {
+          "text": "work. Heavy machinery such as drills or excavators should never",
+          "confidence": 0.9594489336013794,
+          "bbox": [
+            [
+              130,
+              1258
+            ],
+            [
+              1072,
+              1263
+            ],
+            [
+              1072,
+              1290
+            ],
+            [
+              130,
+              1285
+            ]
+          ]
+        },
+        {
+          "text": "be used for such purposes. Contractors should also note that in",
+          "confidence": 0.9699022769927979,
+          "bbox": [
+            [
+              130,
+              1281
+            ],
+            [
+              1074,
+              1287
+            ],
+            [
+              1074,
+              1317
+            ],
+            [
+              130,
+              1311
+            ]
+          ]
+        },
+        {
+          "text": "many cases our cables are protected by siabs, which should be",
+          "confidence": 0.9628893136978149,
+          "bbox": [
+            [
+              131,
+              1308
+            ],
+            [
+              1028,
+              1312
+            ],
+            [
+              1028,
+              1339
+            ],
+            [
+              131,
+              1335
+            ]
+          ]
+        },
+        {
+          "text": "correctly replaced if removed during works.",
+          "confidence": 0.9662490487098694,
+          "bbox": [
+            [
+              134,
+              1332
+            ],
+            [
+              753,
+              1337
+            ],
+            [
+              753,
+              1363
+            ],
+            [
+              134,
+              1359
+            ]
+          ]
+        },
+        {
+          "text": "If our cables are in any way damaged in the course of,",
+          "confidence": 0.9583244323730469,
+          "bbox": [
+            [
+              275,
+              1380
+            ],
+            [
+              1068,
+              1386
+            ],
+            [
+              1068,
+              1416
+            ],
+            [
+              275,
+              1410
+            ]
+          ]
+        },
+        {
+          "text": "or as a result of your work, we shall hold you fully responsible",
+          "confidence": 0.9514417052268982,
+          "bbox": [
+            [
+              131,
+              1405
+            ],
+            [
+              1069,
+              1411
+            ],
+            [
+              1069,
+              1442
+            ],
+            [
+              131,
+              1436
+            ]
+          ]
+        },
+        {
+          "text": "and liable for all costs incurred and for any claims from third",
+          "confidence": 0.9751752614974976,
+          "bbox": [
+            [
+              132,
+              1430
+            ],
+            [
+              1056,
+              1437
+            ],
+            [
+              1056,
+              1468
+            ],
+            [
+              132,
+              1461
+            ]
+          ]
+        },
+        {
+          "text": "parties arising from that damage.",
+          "confidence": 0.9785610437393188,
+          "bbox": [
+            [
+              133,
+              1458
+            ],
+            [
+              608,
+              1460
+            ],
+            [
+              607,
+              1487
+            ],
+            [
+              133,
+              1485
+            ]
+          ]
+        },
+        {
+          "text": "2/Cont'd........",
+          "confidence": 0.8828456401824951,
+          "bbox": [
+            [
+              839,
+              1584
+            ],
+            [
+              1087,
+              1584
+            ],
+            [
+              1087,
+              1614
+            ],
+            [
+              839,
+              1614
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "en_results": [
+        {
+          "text": "2",
+          "confidence": 0.9987899661064148,
+          "bbox": [
+            [
+              620,
+              28
+            ],
+            [
+              645,
+              31
+            ],
+            [
+              641,
+              56
+            ],
+            [
+              617,
+              52
+            ]
+          ]
+        },
+        {
+          "text": "In case any of our cables are reguired to be diverted or",
+          "confidence": 0.9646314978599548,
+          "bbox": [
+            [
+              290,
+              180
+            ],
+            [
+              1107,
+              202
+            ],
+            [
+              1106,
+              235
+            ],
+            [
+              289,
+              213
+            ]
+          ]
+        },
+        {
+          "text": "shifted to facilitate your work, please inform our Mr. S.L. Lok at",
+          "confidence": 0.9595611691474915,
+          "bbox": [
+            [
+              144,
+              206
+            ],
+            [
+              1108,
+              227
+            ],
+            [
+              1107,
+              260
+            ],
+            [
+              144,
+              240
+            ]
+          ]
+        },
+        {
+          "text": "telephone No. 8143237 of the details well in advance so that",
+          "confidence": 0.9314109683036804,
+          "bbox": [
+            [
+              143,
+              234
+            ],
+            [
+              1022,
+              249
+            ],
+            [
+              1022,
+              283
+            ],
+            [
+              143,
+              268
+            ]
+          ]
+        },
+        {
+          "text": "appropriate action can be taken by this Company. In case",
+          "confidence": 0.9719668626785278,
+          "bbox": [
+            [
+              141,
+              262
+            ],
+            [
+              979,
+              274
+            ],
+            [
+              978,
+              307
+            ],
+            [
+              141,
+              295
+            ]
+          ]
+        },
+        {
+          "text": "temporary support of our cables is necessary for facilitating your",
+          "confidence": 0.969058632850647,
+          "bbox": [
+            [
+              140,
+              286
+            ],
+            [
+              1107,
+              302
+            ],
+            [
+              1106,
+              336
+            ],
+            [
+              140,
+              320
+            ]
+          ]
+        },
+        {
+          "text": "work, you are required to support our cables complying with the",
+          "confidence": 0.9633169770240784,
+          "bbox": [
+            [
+              140,
+              313
+            ],
+            [
+              1065,
+              325
+            ],
+            [
+              1065,
+              359
+            ],
+            [
+              140,
+              346
+            ]
+          ]
+        },
+        {
+          "text": "enclosed drawing No. P59/89 and inform our Senior Area Engineer",
+          "confidence": 0.9455380439758301,
+          "bbox": [
+            [
+              140,
+              337
+            ],
+            [
+              1063,
+              351
+            ],
+            [
+              1063,
+              381
+            ],
+            [
+              140,
+              368
+            ]
+          ]
+        },
+        {
+          "text": "(Western) at telephone No. 8l43607 to arrange an inspection on",
+          "confidence": 0.946556031703949,
+          "bbox": [
+            [
+              145,
+              364
+            ],
+            [
+              1053,
+              375
+            ],
+            [
+              1053,
+              405
+            ],
+            [
+              145,
+              394
+            ]
+          ]
+        },
+        {
+          "text": "Prosaoe  ar peeea no a ca Kae ",
+          "confidence": 0.3592422306537628,
+          "bbox": [
+            [
+              139,
+              390
+            ],
+            [
+              1109,
+              401
+            ],
+            [
+              1108,
+              431
+            ],
+            [
+              139,
+              420
+            ]
+          ]
+        },
+        {
+          "text": "you intend to install any of your plant/equipment in proximity to",
+          "confidence": 0.9672441482543945,
+          "bbox": [
+            [
+              136,
+              414
+            ],
+            [
+              1095,
+              425
+            ],
+            [
+              1094,
+              459
+            ],
+            [
+              136,
+              448
+            ]
+          ]
+        },
+        {
+          "text": "our cables, a minimum clearance of 30omm must be maintained.",
+          "confidence": 0.9572970867156982,
+          "bbox": [
+            [
+              139,
+              440
+            ],
+            [
+              1019,
+              450
+            ],
+            [
+              1019,
+              481
+            ],
+            [
+              139,
+              471
+            ]
+          ]
+        },
+        {
+          "text": "We will lay high voltage, low voltage and",
+          "confidence": 0.9581133127212524,
+          "bbox": [
+            [
+              283,
+              491
+            ],
+            [
+              891,
+              500
+            ],
+            [
+              891,
+              529
+            ],
+            [
+              283,
+              521
+            ]
+          ]
+        },
+        {
+          "text": "telephone/pilot cables as shown on the attached plans for",
+          "confidence": 0.9753580689430237,
+          "bbox": [
+            [
+              139,
+              518
+            ],
+            [
+              980,
+              526
+            ],
+            [
+              980,
+              557
+            ],
+            [
+              139,
+              549
+            ]
+          ]
+        },
+        {
+          "text": "commissioning of substation at 34-36 Caine Road. Further",
+          "confidence": 0.9550030827522278,
+          "bbox": [
+            [
+              139,
+              544
+            ],
+            [
+              981,
+              553
+            ],
+            [
+              981,
+              583
+            ],
+            [
+              139,
+              574
+            ]
+          ]
+        },
+        {
+          "text": "information can also be obtained from our Senior Area Engineer",
+          "confidence": 0.9738011956214905,
+          "bbox": [
+            [
+              140,
+              570
+            ],
+            [
+              1051,
+              580
+            ],
+            [
+              1051,
+              610
+            ],
+            [
+              140,
+              600
+            ]
+          ]
+        },
+        {
+          "text": "(Western).",
+          "confidence": 0.9737970232963562,
+          "bbox": [
+            [
+              142,
+              596
+            ],
+            [
+              289,
+              598
+            ],
+            [
+              288,
+              629
+            ],
+            [
+              142,
+              626
+            ]
+          ]
+        },
+        {
+          "text": "Yours faithfully,",
+          "confidence": 0.9860183596611023,
+          "bbox": [
+            [
+              657,
+              652
+            ],
+            [
+              910,
+              655
+            ],
+            [
+              910,
+              685
+            ],
+            [
+              657,
+              682
+            ]
+          ]
+        },
+        {
+          "text": "THE HONGKONG ELECTRIC CO.LTD.",
+          "confidence": 0.9668534994125366,
+          "bbox": [
+            [
+              563,
+              679
+            ],
+            [
+              1007,
+              683
+            ],
+            [
+              1007,
+              710
+            ],
+            [
+              563,
+              706
+            ]
+          ]
+        },
+        {
+          "text": "B.W.LO",
+          "confidence": 0.905239999294281,
+          "bbox": [
+            [
+              727,
+              810
+            ],
+            [
+              843,
+              810
+            ],
+            [
+              843,
+              841
+            ],
+            [
+              727,
+              841
+            ]
+          ]
+        },
+        {
+          "text": "CHIEF DISTRIBUTION PLANNING ENGINEER",
+          "confidence": 0.9675003886222839,
+          "bbox": [
+            [
+              520,
+              834
+            ],
+            [
+              1053,
+              836
+            ],
+            [
+              1053,
+              866
+            ],
+            [
+              520,
+              864
+            ]
+          ]
+        },
+        {
+          "text": "Encl.",
+          "confidence": 0.9775038957595825,
+          "bbox": [
+            [
+              140,
+              885
+            ],
+            [
+              217,
+              882
+            ],
+            [
+              218,
+              912
+            ],
+            [
+              141,
+              915
+            ]
+          ]
+        },
+        {
+          "text": "SLL:SYW",
+          "confidence": 0.968367874622345,
+          "bbox": [
+            [
+              140,
+              913
+            ],
+            [
+              250,
+              910
+            ],
+            [
+              251,
+              938
+            ],
+            [
+              140,
+              940
+            ]
+          ]
+        },
+        {
+          "text": "C.c. Chief Engineer (T&D)",
+          "confidence": 0.9101393222808838,
+          "bbox": [
+            [
+              140,
+              959
+            ],
+            [
+              507,
+              963
+            ],
+            [
+              507,
+              994
+            ],
+            [
+              140,
+              990
+            ]
+          ]
+        },
+        {
+          "text": "D&P file",
+          "confidence": 0.9519531726837158,
+          "bbox": [
+            [
+              213,
+              988
+            ],
+            [
+              337,
+              990
+            ],
+            [
+              337,
+              1017
+            ],
+            [
+              212,
+              1015
+            ]
+          ]
+        },
+        {
+          "text": "Float file",
+          "confidence": 0.9707473516464233,
+          "bbox": [
+            [
+              213,
+              1013
+            ],
+            [
+              366,
+              1015
+            ],
+            [
+              366,
+              1042
+            ],
+            [
+              212,
+              1039
+            ]
+          ]
+        },
+        {
+          "text": "001771",
+          "confidence": 0.9984080791473389,
+          "bbox": [
+            [
+              214,
+              1036
+            ],
+            [
+              308,
+              1039
+            ],
+            [
+              307,
+              1068
+            ],
+            [
+              213,
+              1065
+            ]
+          ]
+        },
+        {
+          "text": "097J02H0.LE(90).4",
+          "confidence": 0.9085643887519836,
+          "bbox": [
+            [
+              140,
+              1087
+            ],
+            [
+              394,
+              1090
+            ],
+            [
+              394,
+              1121
+            ],
+            [
+              140,
+              1118
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_text": [
+    "OP. HQ.Admin.",
+    "-9",
+    "FEB1990",
+    "OURREF:D&P/841/C/0555",
+    "YOUR REF:()in S(U)13/IL/148",
+    "8th February 1990",
+    "Drainage Services Department,",
+    "Urban Division,",
+    "5th Floor,",
+    "Hennessy Centre,",
+    "500 Hennessy Road,",
+    "Hong Kong.",
+    "Dear Sirs,",
+    "34-36 CAINE ROAD",
+    "We refer to your letter of 8th January 1990 informing us",
+    "of your impending works at the above location.",
+    "Enclosed are part plans showing the approximate position",
+    "of our Company's cables in the vicinity of your proposed works.",
+    "Please note that the plans showed the record of our cables at the",
+    "time the plans were prepared. You may expect to find our cables",
+    "located in different positions and depths depending on such",
+    "factors as when the cables were laid,obstructions in the area,",
+    "the location of other utilities, changes due to continuous",
+    "alteration, improvement and extension of our network and changes",
+    "due to continuous road and property developments etc.",
+    "Since our cables are energised and our enclosed plans",
+    "show only their approximate, rather than exact, positions, it is",
+    "imperative that your contractors and employees exercise extreme",
+    "care during any excavations that may be required and take every",
+    "precaution to prevent accidents to personnel and to our cables.",
+    "Remember cables when damaged may explode and cause death or injury",
+    "to your employees or the general public. In addition, damage to",
+    "our cables may lead to a suspension of our supply of electricity",
+    "to many domestic, commercial and industrial users. Under all",
+    "circumstances, the precise positions and depths of our cables",
+    "should be located by hand excavation prior to the commencement of",
+    "work. Heavy machinery such as drills or excavators should never",
+    "be used for such purposes. Contractors should also note that in",
+    "many cases our cables are protected by siabs, which should be",
+    "correctly replaced if removed during works.",
+    "If our cables are in any way damaged in the course of,",
+    "or as a result of your work, we shall hold you fully responsible",
+    "and liable for all costs incurred and for any claims from third",
+    "parties arising from that damage.",
+    "2/Cont'd........",
+    "2",
+    "In case any of our cables are reguired to be diverted or",
+    "shifted to facilitate your work, please inform our Mr. S.L. Lok at",
+    "telephone No. 8143237 of the details well in advance so that",
+    "appropriate action can be taken by this Company. In case",
+    "temporary support of our cables is necessary for facilitating your",
+    "work, you are required to support our cables complying with the",
+    "enclosed drawing No. P59/89 and inform our Senior Area Engineer",
+    "(Western) at telephone No. 8l43607 to arrange an inspection on",
+    "Prosaoe  ar peeea no a ca Kae ",
+    "you intend to install any of your plant/equipment in proximity to",
+    "our cables, a minimum clearance of 30omm must be maintained.",
+    "We will lay high voltage, low voltage and",
+    "telephone/pilot cables as shown on the attached plans for",
+    "commissioning of substation at 34-36 Caine Road. Further",
+    "information can also be obtained from our Senior Area Engineer",
+    "(Western).",
+    "Yours faithfully,",
+    "THE HONGKONG ELECTRIC CO.LTD.",
+    "B.W.LO",
+    "CHIEF DISTRIBUTION PLANNING ENGINEER",
+    "Encl.",
+    "SLL:SYW",
+    "C.c. Chief Engineer (T&D)",
+    "D&P file",
+    "Float file",
+    "001771",
+    "097J02H0.LE(90).4"
+  ],
+  "classification": {
+    "category": "Outgoing Letter",
+    "tags": [
+      "VSC/VIC"
+    ],
+    "confidence": 0.47625,
+    "detailed_tags": [
+      {
+        "tag": "VSC/VIC",
+        "confidence": 0.4,
+        "method": "LangExtract ML+Pattern"
+      }
+    ],
+    "method": "LangExtract",
+    "classification_notes": "LangExtract ML classification with 1 tags identified"
+  }
+}

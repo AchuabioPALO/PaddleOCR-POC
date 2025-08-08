@@ -1,0 +1,16 @@
+{
+  "category": "Outgoing Letter",
+  "tags": [
+    "Agreement (Ventilation)"
+  ],
+  "confidence": 0.42625,
+  "detailed_tags": [
+    {
+      "tag": "Agreement (Ventilation)",
+      "confidence": 0.3,
+      "method": "LangExtract ML+Pattern"
+    }
+  ],
+  "method": "LangExtract",
+  "classification_notes": "LangExtract ML classification with 1 tags identified"
+}

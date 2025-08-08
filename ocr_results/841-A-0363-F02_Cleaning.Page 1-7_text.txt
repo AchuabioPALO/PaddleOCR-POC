@@ -1,0 +1,615 @@
+The HongkongElectric Co Ltd
+Form HV15
+A/0363
+香港電燈有限公司
+Transmission&DistributionDivision
+户
+C
+tr
+Construction & Maintenance Department
+Revision date: 14/06/01
+DISTRIBUTION SUBSTATIONCLEANINGREPORT (1/8)
+Location: HK SOCTHERN DIST GOVT PR SCH S
+ITJMS No.:J_
+01059496
+Engineer:
+C1h
+Date: _1-/02
+Notes: 1.
+Any defectscannotberectifiedduringcleaning shouldberecordedandwheneverpossible,phototobetaken
+for reference.
+2.
+Onthe diagram of each Section, mark precisely the locality of defect with item No.referred.
+3.
+Put a 'tick' in()after checking/workdone,'N.A.'if not applicable.
+4.
+For EC Clerk-a.Update in ITJMS and MASS.
+b.Compare item 16 with FS type in MASS. Ifthere is discrepancy,put a tick in[]SOPE
+at item16 and send a copy of this page to SOPE.
+c.If there is a tick in[ ]SLPE at item 16,send a copy of this page to SLPE.
+A.
+Main Entrance
+Work
+No.
+Check Item
+*Defect Report
+Done
+1.
+Door condition
+(
+need painting
+2.
+Door type
+stainless steel
+)
+mild steel
+3.
+Entrance wall
+)need painting
+4.
+Wire mesh/louvers
+)nil(
+)broken
+5.
+Welding/Door hinge
+)rust, broken
+6.
+Danger sign
+）nil(
+)broken
+7
+Fire protection control panel
+)rust, broken
+8.
+Lockout box (installed outside
+（M
+)rust,broken
+substation for keeping selection key)
+Missing of ( )Key (
+)Chain(
+)Lock
+9.
+Fire protection sign
+(4）
+(
+）nil(
+)broken
+10.
+Door lock
+)not zeiss lock
+11.
+Lockout box (installed inside
+)nil
+substation)
+)need repair/replacement
+12.
+Safety document holder
+）nil（
+)broken
+13.
+I-beam (for lifting heavy plant)
+)nil (
+)yes-enter data in item15
+14.
+Name plate-copy the exact wording from the plate,enter Nil if name plate is missing
+English: HK SOuTHER DIST GOT
+S
+Chinese:香南區官立小
+15.
+Customer's name and address to be contacted: (In case of access problem or I-beam installed)
+16.
+Fire Protection system
+Automatic system:( )BTM( )BCF( )CO2( )FM20O( )others
+Other system
+:() BCF ceiling unit
+()Manual CO2 system
+()Portable Fire Extinguisher-expiry on 7-04
+ORlast maintenance on:
+Note: put a tick in"[] SLPE"if expired for more than 2 years
+[]
+Please update the fire protection data in DMS as shown above.
+SOPE
+[]
+Please arrange to dispose the obsolete portable fire extinguisher.
+SLPE
+Remark:(
+16B
+)Abandoned BTM/BCF/CO2 Cylinder left in substation
+6.80B
+*Other defects notas listed,should be describedclearlywithitem No.
+B.
+Rear/Side Entrance
+( )nil
+Work
+No.
+Check Item
+*Defect Report
+Done
+1.
+Door condition
+(√)
+(
+) need painting
+2.
+Door type
+(√)
+)stainless steel
+(
+)mild steel
+3.
+Entrance wall
+(
+)need painting
+4.
+Wire mesh/louvers
+(
+)nil( )broken
+5.
+Welding/Door hinge
+(
+) rust, broken
+6.
+Danger sign
+(
+)nil()broken
+Fire protection control panel
+(ly)
+7.
+(
+) rust, broken
+*Other defects not as listed,should be described clearly with item No.
+(diagram refers to the same one in Section A)
+C.
+Internal
+Work
+No.
+Check Item
+*Defect Report
+Done
+1.
+Cleaning
+(√
+2.
+Wall
+(
+) need painting
+3.
+Door sill/Bund Wall
+(
+)broken
+(
+)nil-to be installed
+(
+)nil-not required
+ULHV15DOC(01)2
+No.
+Work
+Check Item
+*Defect Report
+Done
+4.
+Able Trench
+(√)
+(
+)collapsed
+(
+)not yet backfilled
+5.
+Water flooding
+(l)
+(
+)pump out of order
+(
+)no pump installed
+6.
+Lighting:
+( √)
+(
+)nil()burnt/fluorescent replaced
+(
+bulb
+(
+)loosen part re-fixed/replaced
+(
+)Fluorescent
+7.
+Lamp holder
+(√)
+(
+)loosen part re-fixed/replaced
+8.
+Socket(
+)5A()13A
+(√)
+(
+)loosen part re-fixed/replaced
+(
+）15A
+9.
+Switch(
+)Fuse
+(√)
+( ) replaced
+MCB
+10.
+Earthing bar
+(√)
+( ) broken
+11.
+Ventilation fan
+( ) nil
+(
+)out of order
+）
+)window type
+(
+)duct type
+(
+)A/C
+(x4)
+(  ) nil (  ) empty
+12.
+Portable fire extinguisher
+13.
+Bulky rubbish
+(
+)cleaned
+( ) heavy gang required
+14.
+Electrical wiring
+(V
+(  ) loosen part re-fixed
+(  ) re-run required
+*Other defects not as listed,should be described clearly with item No.and mark itonthe diagram
+below
+D.
+H.V.Switchgear
+( )nil
+Work
+*Defect Report
+No.
+Check Item
+Done
+(√)
+1.
+General appearance of switchgear
+(
+)rusty, painting required
+(√)
+2.
+Discolouration of switchgear
+(
+)discoloured
+indication label causedby ozone
+(√)
+3.
+Welding
+(
+)rusty broken
+(√)
+4.
+(
+) glass broken on
+Ammeter/EFIRelay/Door panel
+Sw.
+(√)
+5.
+Label
+(
+) permanent re-fixed on
+sw.
+(V)
+(
+)broken
+6.
+Earthing bar
+()
+7.
+HV metering sealing
+(
+)nil
+(
+)broken
+8.
+()
+Oil/compound leakage
+(
+)slowly
+)seriously
+9.
+(√)
+SF6 Gas pressure
+(
+）low (less than 0.2Kg/cm2)
+10.
+Abnormal noise heard
+( √)
+(
+)yes
+(V
+)no
+(√)
+( √ ) yes (
+11.
+Check E/F&P/Falarmwith
+)no
+System Control
+(√)
+12.
+(
+)yes(
+Locking device fixed on EFItest
+)no
+button.
+(√)
+Check spring of all line SWof
+）Inform System Control if spring
+13.
+ARMU/allSWofGRMU
+found not charged
+charged
+(V)
+(  ) yes
+14.
+For GRMU,check locking device
+(
+)no
+fixed transformer SF6 pressure
+low tripping relay
+15.
+For ARMU,check angle iron
+(）
+(
+)yes
+strips fixed at the rear covers
+)no, number of rear cover per
+panel:
+(
+)1piece,
+(
+) 2 pieces
+*Other defects not as listed,should be describedclearly withitem No.
+SW1
+SW2
+SW3
+SW4
+E.
+Transformer
+( )nil
+Work
+No.
+Check Item
+*Defect Report
+Done
+1.
+General appearance of
+()
+(
+)rusty
+transformer surface
+(
+)oil, need cleaning
+2.
+()
+Compound leakage
+(
+）slowly
+)seriously
+(l)
+3.
+Oil leakage
+-HV
+）slowly
+( ) seriously
+-LV
+( hg)
+( ) slowly
+( ) seriously
+4.
+Oil level
+(份)
+(  ) low ( )empty
+5.
+SF6 Gas pressure
+(√)
+( ) low on Tx. No.
+(less than 1.0Kg/cm2)
+6.
+SF6 pressure gauge connected to
+( )nil反
+(V)
+substation SF6 leakage alarm
+7.
+Measure supply voltage to SF6
+( √ )
+( ) attach warning label to
+leakage alarm
+transformer pressure gauge
+terminal cover
+8.
+Earthing
+(V
+( ) broken
+9.
+Abnromal noise heard
+(
+( ) yes (
+）no
+*Other defects not as listed, should be described clearly with item No.
+F.
+Temperature Measurementat TransformerLVBushingContacts
+Load Management
+Infra Red Readings
+Room
+Information
+(C°$
+LVIT
+Tx.
+Temp
+Time
+Current
+Tx
+(Y/N)
+No.
+(C°$
+Temp
+R
+Y
+B
+N
+R
+Y
+B
+(C°)
+F.
+L.V.Panel
+( )nil ()bar through to consumer
+Work
+No.
+Check Item
+*Defect Report
+Done
+1.
+Cable lug
+）
+(
+)burnt at
+2.
+Cable insulation
+(
+）
+(
+)bad at
+3.
+Cable bonding
+(
+）
+(
+)nil
+4.
+Contact block/Fuse clip
+(
+）
+(
+)burnt at
+5.
+Busbar insulation
+(
+）
+(
+)burnt at
+6.
+Welding
+(
+）
+(
+)rusty, broken
+7.
+Earthing
+(
+）
+(
+)broken
+8.
+Label
+(
+）
+(
+)permanent re-fixed on
+cct.
+9.
+(
+）
+(
+)nil/not clear on
+cct.
+*Other defects notas listed,shouldbedescribedclearly with item No.
+G.
+Other Auxiliaries
+No.
+Work
+Check Item
+Done
+*Defect Report
+1.
+RTU cubicle
+( √)
+(
+)nil
+(
+)rusty
+2.
+HVmetering cubicle
+(分)
+(
+)nil
+3.
+Battery
+()
+(
+)nil
+4.
+LVMCB
+(√)
+(
+)nil
+5.
+LV Capacitor
+(）
+(
+)nil
+H.
+Relevant Information
+(I)
+Transformer
+Tx 1
+Tx 2
+Tx 3
+Year made
+Tx4
+Tx5
+1999
+Impedance %
+1.9
+Tap position
+Type of tx Cable
+XLPE/PILC
+2
+B-ph voltage
+218√
+CRT B-Ph voltage
+(System Control)
+219v
+(II)
+Ventilation System-owned by HEC? (Yes/No)
+Note:
+A label'Ventilation Fan and Silencer provided by HEC' is fixed ner the
+ON/OFF switch if te fan is owned by HEC.
+I.
+$SF_{6} Label
+( )SF6 Tx.
+( ) SF6 Swgr.
+No.
+Checking Item
+Work done
+1.
+No.substation doors (front, side or rear)
+( √ )removed
+2.
+Attached on SF6 apparatus
+a.
+Switchgear
+(
+)yes
+b. Transformer
+)yes
+3.
+Chemical procedures
+( μ) installed
+Engineer:_7
+Date: 17-1-02
+22.1.200
+Check by:
+Date:
+Senior Area Engineer ( )
+Follow-up arrangement:

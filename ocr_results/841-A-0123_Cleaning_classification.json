@@ -1,0 +1,28 @@
+{
+  "category": "Outgoing Letter",  
+  "tags": [
+    "Defect (Access)",
+    "Agreement (Access)",
+    "Agreement (Ventilation)"
+  ],
+  "confidence": 0.3154166666666667,
+  "detailed_tags": [
+    {
+      "tag": "Defect (Access)",
+      "confidence": 0.4,
+      "method": "LangExtract ML+Pattern"
+    },
+    {
+      "tag": "Agreement (Access)",
+      "confidence": 0.3,
+      "method": "LangExtract ML+Pattern"
+    },
+    {
+      "tag": "Agreement (Ventilation)",
+      "confidence": 0.3,
+      "method": "LangExtract ML+Pattern"
+    }
+  ],
+  "method": "LangExtract",
+  "classification_notes": "LangExtract ML classification with 3 tags identified"
+}

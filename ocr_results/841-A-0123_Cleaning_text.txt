@@ -1,0 +1,359 @@
+THE HONGKONG ELECTRIC CO.,LTD.,
+FORMHVI5
+TRANSMISSION&
+DISTRIBUTION DIVISION
+*****************************************
+OPERATIONS DEPARTMENT
+CONSUMER SUBSTATION CLEANING REPORT (1/6)
+Location :A KUNG
+NGAM
+VILLAGE RD 6 %
+Engineer :Y. T. CHEUNG
+Date : 28/3187
+Notes : 1.
+Any defects cannot be rectified during cleaning should
+be recorded and whenever possible, photo to be taken
+for reference.
+2.
+On the diagram of each Section, mark precisely the
+locality of defect with item no. referred.
+3.
+Put a "tick"( )after checking/workdone,"N.A."if
+not applicable.
+A)
+Main Entrance
+No.
+Check Item
+Work
+*Defect Report
+Done
+1.
+Cleaning on door
+(√) need painting
+2.
+Entrance wall
+( ) need painting
+3.
+Wire mesh/Louvres
+( ) nil ( ) broken
+4.
+Welding
+( ) rusty, broken
+5.
+Danger Sign
+6.
+Fire protection
+control panel
+(√) nil ( ) broken
+7.
+Fire protection sign
+(√) nil ( ) broken
+8.
+Lock replacement
+N/A
+9.
+Lockout Box
+(√) already installed
+( ) repaired
+10.
+Name plate - copy the exact wordings from the plate,
+enter "Nil if name piate is missing.
+EnGLISh :A KUNG NGAM VIUAGE ROAD 6 SUBSTATION
+Chinese：阿公岩电道六號变压始
+11.
+Access problem (consumer's name and address to be
+contacted:)
+*
+Other defects not as listed, should be described clearly
+with item no.
+B)
+Rear/Side Entrance
+(√) nil
+Work
+No
+Check Item
+*Defect Report
+Done
+1.
+Cleaning on door
+(
+need painting
+2.
+Entrance wall
+(
+)need painting
+3.
+Wire mesh/Louvres
+(
+)nil ( ) broken
+4.
+Welding
+( ) rusty, broken
+5.
+Danger sign
+6.
+Lock replacement
+Other defects not as listed, should be described clearly
+*
+with item no.
+(diagram refers to the same one in section A)
+C)
+Internal
+Work
+No.
+Checking item
+*Defect Report
+Done
+1.
+Cleaning
+(
+)
+need painting
+2.
+Wall
+)need painting
+3.
+Door sil
+(
+）
+nil-to be installed
+)
+nil-not required
+4.
+Cable Trench
+)collapsed
+）
+not yet backfilled
+5.
+Water flooding
+）
+pump out of order
+(
+no pump installed
+CONSUMER SUBSTATION CLEANING REPORT
+C)
+Internal (cont'd)
+Work
+*Defect Report
+No.
+Checking item
+Done
+Lighting :
+() nil( ) burnt/fluorescent
+6.
+(√)blub
+replaced
+() loosen part refixed/
+( ) fluorescent
+replaced
+( ) loosen part refixed/
+7.
+Lamp holder
+replaced
+()5A()13A
+() loosen part refixed/
+8.
+Socket
+(√)15A
+replaced
+( ) replaced
+9.
+Switch ( ) Fuse
+(√)MCB
+( ) broken
+10.
+Earthing bar
+( ) nil ( ) out of order
+11.
+Ventilation fan
+(√) nil ( ) empty
+12.
+Portable fire
+extinguisher
+( ) cleaned
+13.
+Bulky rubbish
+( ) heavy gang required
+( ) loosen part refixed
+14.
+Electrical wiring
+( ) re-run required
+* Other defects not as listed, should be described clearly
+with item no.
+S
+R2rOR1(4/6)
+D)
+H.V. Switchgear
+( ) nil
+Work
+No.
+Checking item
+*Defect Report
+Done
+1.
+Cleaning on matallic
+part
+2.
+Welding
+( ) rusty, brokem
+3.
+Ammeter/E F Relay/
+( ) glass broken on Sw.
+Door panel
+4.
+Label
+Permanent refixed on Sw.
+5.
+Earthing bar
+( ) broken
+6.
+Remotely controllable
+N/A
+( ) yes ( ) no
+(for Lucy switchgear
+only)
+7.
+H.V. metering sealing
+NA
+(
+) nil ( ) broken
+8.
+Oil/compound leakage
+(
+)slowly
+(
+)seriously
+9.
+Abnormal noise heard
+( ) yes ( ) no
+Other defects not as listed,should be described clearly
+with item no.
+2
+3
+4
+E)
+Transformer
+( ) nil
+Work
+No
+Checking item
+*Defect Report
+Done
+1.
+Cleaning on metallic
+part
+2.
+Compound leakage
+(
+)
+slowly
+(
+)
+seriously
+3.
+Oil leakage - H.V.
+)
+slowly
+(
+)
+seriously
+M.V.
+slowly
+）
+seriously
+4.
+Oil level
+(
+)
+low ( ) empty
+5.
+Gas pressure
+X
+(
+)low
+6.
+Earthing
+(
+) broken
+7.
+Abnormal noise heard
+(
+) yes ( ) no
+*Other defect not as listed, should be described clearly
+with item no.
+F)
+( ) nil (√) bar through to consumer
+M.V.Panel
+Work
+No.
+Checking item
+*Defect Report
+Done
+1.
+Cable lug
+( ) burnt
+2.
+Cable insulation
+(
+bad
+3.
+Cable bonding
+)nil
+4.
+Contact block/Fuse
+clip
+(
+)burnt
+5.
+B/B insulation
+(
+)burnt
+6.
+Welding
+( ) rusty, broken
+7.
+Earthing
+( ) broken
+8.
+Label
+( ) permanent refixed on
+cct
+) nil/not clear on
+cct
+*
+Other defects not as listed, should be described clearly
+with item no.
+G)
+Other Auxiliaries
+No.
+Checking item
+Work
+*Defect Report
+Done
+1.
+RTU cubicle
+( ) nil
+2.
+H.V. metering cubicle
+(√)nil
+3.
+Battery
+(√)nil
+4.
+M.V. MCB
+( ) nil
+5.
+M.V.Capacitor
+( √) nil
+Tx1
+HEC 2004
+1000 KVA
+PAUWELS TRAFO
+YR 1976
+ai 
+2813187
+Date :
+Date : 31-3-87
+Check By :
+S.A.E.()
+Follow-up arrangement :

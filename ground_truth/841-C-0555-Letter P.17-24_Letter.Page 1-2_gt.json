@@ -1,0 +1,17 @@
+{
+  "category": "Maintenance Record",
+  "tags": [
+    "VSC/VIC",
+    "Defect (Access)"
+  ],
+  "confidence": 1.0,
+  "keywords_found": [],
+  "detailed_tags": [
+    {
+      "tag": "VSC/VIC",
+      "confidence": 1.0,
+      "method": "Manual Ground Truth"
+    }
+  ],
+  "classification_notes": "Converted from text ground truth"
+}

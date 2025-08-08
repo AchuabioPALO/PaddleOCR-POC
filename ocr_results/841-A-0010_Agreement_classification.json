@@ -1,0 +1,28 @@
+{
+  "category": "Outgoing Letter",
+  "tags": [
+    "Agreement (Access)",
+    "Defect (Civil)",
+    "VSC/VIC"
+  ],
+  "confidence": 0.37083333333333335,
+  "detailed_tags": [
+    {
+      "tag": "Agreement (Access)",
+      "confidence": 0.35,
+      "method": "LangExtract ML+Pattern"
+    },
+    {
+      "tag": "Defect (Civil)",
+      "confidence": 0.3,
+      "method": "LangExtract ML+Pattern"
+    },
+    {
+      "tag": "VSC/VIC",
+      "confidence": 0.3,
+      "method": "LangExtract ML+Pattern"
+    }
+  ],
+  "method": "LangExtract",
+  "classification_notes": "LangExtract ML classification with 3 tags identified"
+}

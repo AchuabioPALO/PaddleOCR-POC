@@ -1,0 +1,40 @@
+{
+  "category": "Inspection",
+  "tags": [
+    "Defect (Access)",
+    "Defect (Civil)",
+    "VSC/VIC",
+    "Agreement (Access)",
+    "Agreement (Ventilation)"
+  ],
+  "confidence": 0.38125000000000003,
+  "detailed_tags": [
+    {
+      "tag": "Defect (Access)",
+      "confidence": 0.4,
+      "method": "LangExtract ML+Pattern"
+    },
+    {
+      "tag": "Defect (Civil)",
+      "confidence": 0.4,
+      "method": "LangExtract ML+Pattern"
+    },
+    {
+      "tag": "VSC/VIC",
+      "confidence": 0.4,
+      "method": "LangExtract ML+Pattern"
+    },
+    {
+      "tag": "Agreement (Access)",
+      "confidence": 0.35,
+      "method": "LangExtract ML+Pattern"
+    },
+    {
+      "tag": "Agreement (Ventilation)",
+      "confidence": 0.35,
+      "method": "LangExtract ML+Pattern"
+    }
+  ],
+  "method": "LangExtract",
+  "classification_notes": "LangExtract ML classification with 5 tags identified"
+}

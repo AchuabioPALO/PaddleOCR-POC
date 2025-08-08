@@ -1,0 +1,638 @@
+Revised Date:04/2000
+FORMHV15
+THE HONGKONG ELECTRIC CO.LTD.
+A/0228
+香港電燈有限公司
+TRANSMISSION & DISTRIBUTION DIVISION
+Aplachan
+**************************************
+CONSTRUCTION & MAINTENANCE DEPARTMENT
+Apn e
+CUSTOMER SUBSTATION INSPECTION AND CLEANING REPORT (1/6)
+Location:
+OCEANILNOUSTRIAL(NTRESOUTHS/S
+Engineer:
+CT fule
+Date:
+18-8-2000
+Notes:
+1.
+Any defects cannot be rectified during cleaning should be
+recorded and whenever possible, photo to be taken for
+reference.
+2.
+On the diagram of each Section, mark precisely the locality
+of defect with item No. referred.
+3.
+Put a 'tick' (√) after checking/work done,'N.A.'if not
+applicable.
+A.
+Main Entrance
+Work
+No.
+Check Item
+*Defect Report
+Done
+1.
+Door condition
+(V)
+(
+)need painting
+2.
+Door type
+(
+)stainless steel
+(
+)mild steel
+3.
+Entrance wall
+(√)
+(
+)need painting
+4.
+Wire mesh/louvres cleaning
+（√）
+(
+)nil( )broken
+5.
+Welding/Door hinge
+(√)
+( ) rust, broken
+6.
+Danger sign
+V
+(  ) nil ( ) broken
+7.
+Fire protection control
+)
+(  ) rust, broken
+panel
+Fire protection sign
+(A)
+8.
+( ) nil ( ) broken
+9.
+Door lock
+√)
+(  ) not zeiss lock
+10.
+Lockout box
+( ) nil
+( ) need repair/replacement
+11.
+I-beam (for lifting heavy
+(μ)
+( ) nil ( ) yes - enter
+plant)
+data in item 13
+12
+Name plate - copy the exact wording from the plate, enter
+'Nil' if name plate is missing
+English: CFAM DUSTRAL CET SOuHs
+Chinese:海湾工贸中心南
+13
+Customer's name and address to be contacted: (In case of access
+problem or I-beam installed)
+Fire Protection System
+14
+() Automatic System: BTM/BCF/CO2/FM200/
+( ) BCF ceiling unit, ( ) Manual Co2 System,
+62.4dB
+() Portable Fire Extinguisher, ( ) None
+66.8dB
+Remark:( ) Abandoned BTM/BCF/CO2 Cylinder left in Substation
+4
+*
+Other defects not as listed, should be described clearly with
+item No.
+3A①
+☆
+SdDate:04/2000
+CUSTOMER SUBSTATION INSPECTION AND CLEANING REPORT (2/6)
+B.
+Rear/Side Entrance
+）nil
+Check Item
+Work
+No.
+*Defect Report
+Done
+1.
+Door condition
+(
+(
+)need painting
+2.
+Door type
+( )
+(
+)stainless steel
+(
+)mild steel
+3.
+Entrance wall
+(
+)
+(
+)need painting
+4.
+Wire mesh/louvres cleaning
+( )
+）nil
+()broken
+5.
+Welding/Door hinge
+(
+)
+(
+)rust,broken
+6.
+Danger sign
+( )
+( ) nil ( ) broken
+7.
+Door lock
+( )
+( ) not zeiss lock
+*
+other defects not as listed, should be described clearly with
+item No.
+(diagram refers to the same one in Section A)
+C.
+Internal
+No.
+Check Item
+work
+*Defect Report
+Done
+1.
+Cleaning
+(√)
+2.
+wall
+( ) need painting
+3.
+Door Sill/Bund Wall
+( ) broken
+( ) nil - to be installed
+( ) nil - not required
+4.
+Cable Trench
+(V
+( ) collapsed
+( ) not yet backfilled
+5.
+Water flooding
+(M
+( ) pump out of order
+( ) no pump installed
+CUSTOMER SUBSTATION INSPECTION AND CLEANING REPORT (3/6)
+C.
+Internal (Cont'd)
+Work
+No.
+Check Item
+*Defect Report
+Done
+(2)
+Lighting:
+( ) nil
+6.
+( ) burnt/
+( ) bulb
+fluorescent replaced
+( ) loosen part
+( ) Fluorescent
+re-fixed/replaced
+(N)
+( ) loosen part re-fixed/
+7.
+Lamp holder
+replaced
+(1)13A
+(√)
+() loosen part re-fixed/
+8.
+Socket ( )5A
+( ) 15A
+replaced
+Switch ( ) Fuse
+(√)
+( ) replaced
+9.
+( √) MCB
+Earthing bar
+（)
+( ) broken
+10.
+（
+( ) nil
+( ) out of order
+11.
+Ventilation fan
+( ) window type
+( 1) duct type
+( ) A/C
+(√）
+(  ) nil ( ) empty
+12.
+Portable fire
+extinguisher
+(√）
+( ) cleaned
+13.
+Bulky rubbish
+( ) heavy gang required
+Electrical wiring
+(V）
+14.
+( ) loosen part re-fixed
+( ) re-run required
+other defects not as listed, should be described clearly with
+item No. and mark it on the diagram below
+CUSTOMER SUBSTATION INSPECTION AND CLEANING REPORT (4/6)
+D.
+H.V. Switchgear
+)nil
+Work
+No.
+Check Item
+*Defect Report
+Done
+(√)
+( ) rusty, painting
+1.
+General appearance of
+switchgear
+required
+2.
+(√)
+(
+)discoloured
+Discolouration of
+switchgear indication
+label caused by ozone
+(√)
+( ) rusty, broken
+3.
+Welding
+Ammeter/EFI Relay/
+
+( ) glass broken on
+4.
+Door panel
+sw.
+(V)
+( ) permanent re-fixed on
+5.
+Label
+sw.
+6.
+Earthing bar
+(V)
+( ) broken
+7.
+H.V. metering sealing
+(u4)
+( ) nil ( ) broken
+8.
+Oil/compound leakage
+(μA)
+( ) slowly
+( ) seriously
+9.
+SF6Gas pressure
+(√)
+( ) low (less than
+0.2Kg/cm²)
+10.
+Abnormal noise heard
+(  ) yes ( ) no
+11.
+Check E/F & P/F alarm
+(
+( U ) yes ( ) no
+with System Control
+12.
+Locking device fixed on
+(√)
+( ) yes ( ) no
+EFI test button.
+13.
+Check spring of all line
+SW of ARMU /all SW of
+(√）
+( ) Inform System Control
+GRMU charged
+if spring found not
+charged
+For GRMU, check locking
+(√)
+( ) yes ( ) no
+14.
+device fixed transformer
+SF6 pressure low
+tripping relay
+15.
+For ARMU, check angle
+
+( ) yes
+iron strips fixed at the
+( ) no, number of rear
+rear covers
+cover per panel:
+( ) 1 piece,
+( ) 2 pieces
+*
+Other defects not as listed, should be described clearly with item
+No.
+CUSTOMER SUBSTATION INSPECTION AND CLEANING REPORT (5/6)
+SW1
+Sw2
+SW3
+SW4
+CUSTOMER SUBSTATION INSPECTION AND CLEANING REPORT (6/6)
+E.
+Transformer
+( ) nil
+Work
+No.
+Check Item
+*Defect Report
+Done
+1.
+General appearance of
+(√)
+(
+)rusty
+transformer surface
+(
+)
+oil, need cleaning
+2.
+Compound leakage
+4)
+(
+)
+slowly
+(
+)
+seriously
+3.
+Oil leakage - H.V.
+(48
+(
+)slowly
+(
+) seriously
+-L.V.
+(
+)slowly
+(
+) seriously
+4.
+Oil level
+(√)
+(  ) low ( ) empty
+5.
+SFGas pressure
+(√)
+( ) low on Tx. No.
+(less than 1.oKg/cm)
+6.
+SF pressure gauge
+( ) nil
+connected to substation
+SF6leakage alarm
+7.
+Measure supply voltage
+(√)
+( ) attach warning lablel
+to SF leakage alarm
+to transformer
+pressure guage
+terminal cover
+8.
+Earthing
+(V)
+( ) broken
+9.
+Abnormal noise heard
+(√）
+(  ) yes ( ) no
+other defects not as listed, should be described clearly with item
+0
+No.
+F.
+Temperature Measurement at Transformer LV Bushing Contacts
+Infra Red Readings
+Load Management
+(C°)
+Information
+Room
+Current
+Tx
+Tx
+LVIT
+Temp
+Temp
+No.
+R
+Y
+B
+N
+(Y/N)
+(C{°)
+Time
+R
+Y
+B
+(C°
+1
+37
+36
+36
+31
+N
+32
+9.45
+30.6
+31.3
+724
+381
+(2)37°
+36
+36
+3
+7
+n
+S
+0.l
+01
+0.1
+392
+137
+38
+7
+35
+34}
+6
+n
+5
+0.1
+0.1
+0.1
+380
+CUSTOMER SUBSTATIONINSPECTIONAND CLEANING REPORT (7/6)
+F.
+L.V. Panel
+(  ) nil
+bar through to customer
+Work
+No.
+Check Item
+*Defect Report
+Done
+1.
+Cable lug
+(
+)
+(
+)
+burnt at
+2.
+Cable insulation
+(
+)
+(
+)bad at
+3.
+Cable bonding
+(
+)
+(
+)nil
+4.
+Contact block/Fuse clip
+(
+)
+(
+)burnt at
+5：
+Busbar insulation
+(
+)
+(
+)burnt at
+6.
+Welding
+(
+)
+(
+)rusty, broken
+7.
+Earthing
+(
+)
+(
+)broken
+8.
+Label
+(
+）
+(
+)permanent re-fixed on
+cct.
+( ) nil/not clear on
+cct.
+Other defects not as listed, should be described clearly with item
+No.
+G.
+Other Auxiliaries
+No
+Work
+Check Item
+*Defect Report
+Done
+·
+(√)
+1.
+RTU cubicle
+( ) nil
+( ) rusty
+2.
+H.V. metering cubicle
+(μA)
+( ) nil
+3.
+Battery
+( ) nil
+4.
+L.V.MCB
+( ) nil
+5.
+(μ
+( ) nil
+L.V. Capacitor
+H.
+Relevant Information
+(I)
+Transformer
+Tx 1
+Tx 2
+Tx 3
+Tx 4
+Tx 5
+Year made
+1987
+1987
+1987
+Impedance %
+6.1
+6.1
+6.0
+Tap position
+Type of Tx Cable
+XLPE/PILC
+×∠PExLPExP
+B-ph voltage
+220√
+220√20√
+CRT B-Ph voltage
+(System Control)
+2210221√|221√
+CUSTOMER SUBSTATION INSPECTION AND CLEANING REPORT (8/6)
+(II) Ventilation System - owned by HEC? (res/No)
+Note: A label 'Ventilation Fan and Silencer provided by HEC' is
+fixed near the ON/OFF switch if the fan is owned by HEC.
+I.
+SF_Label
+( ) SF{6Tx.
+() SFSwgr.
+No.
+Checking Item
+Work done
+Nf)  removed
+1.
+No. substation doors (front, side or
+rear)
+2.
+Attached on SF apparatus
+(y yes
+a.
+Switchgear
+b.
+Transformer
+() yes
+3.
+Chemical procedures
+(f) installed
+fT fuk
+18-8-2008
+Engineer:
+Date:
+h202
+Check by:
+Date:
+Senior Area Engineer (E)
+Follow-up arrangement:

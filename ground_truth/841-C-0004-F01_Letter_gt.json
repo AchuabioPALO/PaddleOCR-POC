@@ -1,0 +1,22 @@
+{
+  "category": "Incoming Letter",
+  "tags": [
+    "Agreement (Access)",
+    
+  ],
+  "confidence": 1.0,
+  "keywords_found": [],
+  "detailed_tags": [
+    {
+      "tag": "Agreement (Access)",
+      "confidence": 1.0,
+      "method": "Manual Ground Truth"
+    },
+    {
+      "tag": "Defect (Civil)",
+      "confidence": 1.0,
+      "method": "Manual Ground Truth"
+    }
+  ],
+  "classification_notes": "Converted from text ground truth"
+}

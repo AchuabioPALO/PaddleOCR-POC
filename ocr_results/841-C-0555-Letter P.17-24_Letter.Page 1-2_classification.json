@@ -1,0 +1,16 @@
+{
+  "category": "Outgoing Letter",
+  "tags": [
+    "VSC/VIC"
+  ],
+  "confidence": 0.47625,
+  "detailed_tags": [
+    {
+      "tag": "VSC/VIC",
+      "confidence": 0.4,
+      "method": "LangExtract ML+Pattern"
+    }
+  ],
+  "method": "LangExtract",
+  "classification_notes": "LangExtract ML classification with 1 tags identified"
+}

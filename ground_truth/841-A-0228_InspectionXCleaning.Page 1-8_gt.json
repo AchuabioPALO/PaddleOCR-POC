@@ -1,0 +1,40 @@
+{
+  "category": "Inspection",
+  "tags": [
+    "Defect (Access)",
+    "Defect (Civil)",
+    "VSC/VIC",
+    "Agreement (Access)",
+    "Agreement (Ventilation)"
+  ],
+  "confidence": 1.0,
+  "keywords_found": [],
+  "detailed_tags": [
+    {
+      "tag": "Defect (Access)",
+      "confidence": 1.0,
+      "method": "Manual Ground Truth"
+    },
+    {
+      "tag": "Defect (Civil)",
+      "confidence": 1.0,
+      "method": "Manual Ground Truth"
+    },
+    {
+      "tag": "VSC/VIC",
+      "confidence": 1.0,
+      "method": "Manual Ground Truth"
+    },
+    {
+      "tag": "Agreement (Access)",
+      "confidence": 1.0,
+      "method": "Manual Ground Truth"
+    },
+    {
+      "tag": "Agreement (Ventilation)",
+      "confidence": 1.0,
+      "method": "Manual Ground Truth"
+    }
+  ],
+  "classification_notes": "Converted from text ground truth"
+}
